@@ -1,10 +1,127 @@
 {
-  "ranAt": "2026-10-17T17:57:28.145Z",
-  "published": 109,
+  "ranAt": "2026-10-17T19:19:04.724Z",
+  "published": 587,
   "queued": 0,
-  "sourcesOk": 26,
-  "sourcesFailed": 20,
+  "sourcesOk": 53,
+  "sourcesFailed": 7,
   "sources": [
+    {
+      "id": "allevents-barnstable",
+      "name": "AllEvents · Barnstable",
+      "ok": true,
+      "found": 16,
+      "published": 16,
+      "queued": 0,
+      "method": "jsonld"
+    },
+    {
+      "id": "allevents-brewster",
+      "name": "AllEvents · Brewster",
+      "ok": true,
+      "found": 18,
+      "published": 18,
+      "queued": 0,
+      "method": "jsonld"
+    },
+    {
+      "id": "allevents-chatham",
+      "name": "AllEvents · Chatham",
+      "ok": true,
+      "found": 20,
+      "published": 19,
+      "queued": 0,
+      "method": "jsonld"
+    },
+    {
+      "id": "allevents-dennis",
+      "name": "AllEvents · Dennis",
+      "ok": true,
+      "found": 16,
+      "published": 16,
+      "queued": 0,
+      "method": "jsonld"
+    },
+    {
+      "id": "allevents-eastham",
+      "name": "AllEvents · Eastham",
+      "ok": true,
+      "found": 8,
+      "published": 8,
+      "queued": 0,
+      "method": "jsonld"
+    },
+    {
+      "id": "allevents-falmouth",
+      "name": "AllEvents · Falmouth",
+      "ok": true,
+      "found": 27,
+      "published": 24,
+      "queued": 0,
+      "method": "jsonld"
+    },
+    {
+      "id": "allevents-harwich",
+      "name": "AllEvents · Harwich",
+      "ok": true,
+      "found": 17,
+      "published": 17,
+      "queued": 0,
+      "method": "jsonld"
+    },
+    {
+      "id": "allevents-hyannis",
+      "name": "AllEvents · Hyannis",
+      "ok": true,
+      "found": 27,
+      "published": 27,
+      "queued": 0,
+      "method": "jsonld"
+    },
+    {
+      "id": "allevents-mashpee",
+      "name": "AllEvents · Mashpee",
+      "ok": true,
+      "found": 24,
+      "published": 24,
+      "queued": 0,
+      "method": "jsonld"
+    },
+    {
+      "id": "allevents-orleans",
+      "name": "AllEvents · Orleans",
+      "ok": true,
+      "found": 11,
+      "published": 11,
+      "queued": 0,
+      "method": "jsonld"
+    },
+    {
+      "id": "allevents-provincetown",
+      "name": "AllEvents · Provincetown",
+      "ok": true,
+      "found": 18,
+      "published": 17,
+      "queued": 0,
+      "method": "jsonld"
+    },
+    {
+      "id": "allevents-sandwich",
+      "name": "AllEvents · Sandwich",
+      "ok": true,
+      "found": 17,
+      "published": 17,
+      "queued": 0,
+      "method": "jsonld"
+    },
+    {
+      "id": "arts-foundation",
+      "name": "Arts Foundation of Cape Cod",
+      "ok": true,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "method": "none (no AI key for plain pages)"
+    },
     {
       "id": "barnstable-senior",
       "name": "Barnstable Adult Community Center",
@@ -22,15 +139,6 @@
       "published": 0,
       "queued": 0,
       "error": "fetch failed"
-    },
-    {
-      "id": "brewster-coa",
-      "name": "Brewster Council on Aging",
-      "ok": false,
-      "found": 0,
-      "published": 0,
-      "queued": 0,
-      "error": "HTTP 404"
     },
     {
       "id": "cape-cinema",
@@ -62,11 +170,11 @@
     {
       "id": "ccmoa",
       "name": "Cape Cod Museum of Art",
-      "ok": false,
-      "found": 0,
-      "published": 0,
+      "ok": true,
+      "found": 1,
+      "published": 1,
       "queued": 0,
-      "error": "robots.txt disallows https://ccmoa.org/events/"
+      "method": "jsonld"
     },
     {
       "id": "ccmnh",
@@ -80,20 +188,11 @@
     {
       "id": "cape-cod-nps",
       "name": "Cape Cod National Seashore",
-      "ok": false,
+      "ok": true,
       "found": 0,
       "published": 0,
       "queued": 0,
-      "error": "robots.txt disallows https://www.nps.gov/caco/planyourvisit/calendar.htm"
-    },
-    {
-      "id": "capecodtimes",
-      "name": "Cape Cod Times events",
-      "ok": false,
-      "found": 0,
-      "published": 0,
-      "queued": 0,
-      "error": "robots.txt disallows https://www.capecodtimes.com/things-to-do/events/"
+      "method": "none (no AI key for plain pages)"
     },
     {
       "id": "cape-rep",
@@ -138,16 +237,16 @@
       "found": 0,
       "published": 0,
       "queued": 0,
-      "error": "robots.txt disallows https://capecodcreativearts.org/"
+      "error": "HTTP 429"
     },
     {
       "id": "cultural-center",
       "name": "Cultural Center of Cape Cod",
-      "ok": false,
+      "ok": true,
       "found": 0,
       "published": 0,
       "queued": 0,
-      "error": "robots.txt disallows https://cultural-center.org/events/"
+      "method": "none (no AI key for plain pages)"
     },
     {
       "id": "dennis-chamber",
@@ -168,22 +267,31 @@
       "method": "none (no AI key for plain pages)"
     },
     {
-      "id": "eldredge-library",
-      "name": "Eldredge Public Library",
-      "ok": false,
+      "id": "edward-gorey-house",
+      "name": "Edward Gorey House",
+      "ok": true,
       "found": 0,
       "published": 0,
       "queued": 0,
-      "error": "HTTP 404"
+      "method": "none (no AI key for plain pages)"
+    },
+    {
+      "id": "eldredge-library",
+      "name": "Eldredge Public Library",
+      "ok": true,
+      "found": 117,
+      "published": 117,
+      "queued": 0,
+      "method": "ics"
     },
     {
       "id": "falmouth-art-center",
       "name": "Falmouth Art Center",
-      "ok": false,
+      "ok": true,
       "found": 0,
       "published": 0,
       "queued": 0,
-      "error": "robots.txt disallows https://falmouthart.org/events/"
+      "method": "none (no AI key for plain pages)"
     },
     {
       "id": "falmouth-chamber",
@@ -193,6 +301,15 @@
       "published": 0,
       "queued": 0,
       "method": "none (no AI key for plain pages)"
+    },
+    {
+      "id": "museums-on-the-green",
+      "name": "Falmouth Museums on the Green",
+      "ok": true,
+      "found": 12,
+      "published": 10,
+      "queued": 0,
+      "method": "tribe"
     },
     {
       "id": "falmouth-library",
@@ -215,11 +332,11 @@
     {
       "id": "harwich-chamber",
       "name": "Harwich Chamber of Commerce",
-      "ok": false,
+      "ok": true,
       "found": 0,
       "published": 0,
       "queued": 0,
-      "error": "HTTP 404"
+      "method": "none (no AI key for plain pages)"
     },
     {
       "id": "heritage-gardens",
@@ -251,11 +368,11 @@
     {
       "id": "hyannis-main-street",
       "name": "Hyannis Main Street BID",
-      "ok": false,
+      "ok": true,
       "found": 0,
       "published": 0,
       "queued": 0,
-      "error": "HTTP 404"
+      "method": "none (no AI key for plain pages)"
     },
     {
       "id": "mashpee-chamber",
@@ -269,11 +386,11 @@
     {
       "id": "mass-audubon-wellfleet",
       "name": "Mass Audubon Wellfleet Bay",
-      "ok": false,
+      "ok": true,
       "found": 0,
       "published": 0,
       "queued": 0,
-      "error": "HTTP 404"
+      "method": "none (no AI key for plain pages)"
     },
     {
       "id": "orleans-chamber",
@@ -296,11 +413,20 @@
     {
       "id": "paam",
       "name": "Provincetown Art Association and Museum",
-      "ok": false,
-      "found": 0,
-      "published": 0,
+      "ok": true,
+      "found": 7,
+      "published": 7,
       "queued": 0,
-      "error": "robots.txt disallows https://paam.org/events/"
+      "method": "tribe"
+    },
+    {
+      "id": "ptown-business-guild",
+      "name": "Provincetown Business Guild",
+      "ok": true,
+      "found": 293,
+      "published": 129,
+      "queued": 0,
+      "method": "jsonld"
     },
     {
       "id": "ptown-chamber",
@@ -327,16 +453,16 @@
       "found": 0,
       "published": 0,
       "queued": 0,
-      "error": "robots.txt disallows https://sturgislibrary.org/events/"
+      "error": "HTTP 403"
     },
     {
       "id": "cape-playhouse",
       "name": "The Cape Playhouse",
-      "ok": false,
+      "ok": true,
       "found": 0,
       "published": 0,
       "queued": 0,
-      "error": "fetch failed"
+      "method": "none (no AI key for plain pages)"
     },
     {
       "id": "barnstable-town",
@@ -395,11 +521,11 @@
     {
       "id": "wht",
       "name": "Woods Hole Theater Company",
-      "ok": false,
+      "ok": true,
       "found": 0,
       "published": 0,
       "queued": 0,
-      "error": "robots.txt disallows https://woodsholetheater.org/"
+      "method": "none (no AI key for plain pages)"
     },
     {
       "id": "yarmouth-chamber",
