@@ -57,3 +57,10 @@ test("intake: submissions go to the queue, decisions publish them", async () => 
   assert.equal(out.decisions[item.event.id], "approved");
   assert.equal(submissionToReview({ title: "x", date: future, town: "boston", venue: "y" }, ""), null);
 });
+
+test("same-named towns outside Massachusetts are skipped", () => {
+  const base = { title: "Gig", start: `${future}T20:00:00-04:00`, city: "Falmouth", url: "https://x.org/e" };
+  assert.equal(normalize({ ...base, region: "Cornwall, GB" }, src, new Date().toISOString()), null);
+  assert.equal(normalize({ ...base, region: "ME, US" }, src, new Date().toISOString()), null);
+  assert.equal(normalize({ ...base, region: "MA, US" }, src, new Date().toISOString())?.event.venue.town, "falmouth");
+});

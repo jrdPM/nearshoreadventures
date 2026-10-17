@@ -64,7 +64,7 @@
   {
     "id": "harwich-chamber",
     "name": "Harwich Chamber of Commerce",
-    "url": "https://www.harwichcc.com/events/",
+    "url": "https://business.harwichcc.com/events/calendar",
     "type": "auto",
     "trusted": true,
     "enabled": true,
@@ -176,7 +176,7 @@
   {
     "id": "cultural-center",
     "name": "Cultural Center of Cape Cod",
-    "url": "https://cultural-center.org/events/",
+    "url": "https://www.cultural-center.org/all-events",
     "type": "auto",
     "trusted": true,
     "enabled": true,
@@ -327,8 +327,8 @@
     "url": "https://www.capecodtimes.com/things-to-do/events/",
     "type": "auto",
     "trusted": false,
-    "enabled": true,
-    "notes": "Aggregator: events are held for review until we trust it."
+    "enabled": false,
+    "notes": "Blocks automated readers (HTTP 402 Access Restricted)"
   },
   {
     "id": "capecod-com",
@@ -381,11 +381,12 @@
     "url": "https://www.brewster-ma.gov/council-on-aging",
     "type": "auto",
     "trusted": true,
-    "enabled": true,
+    "enabled": false,
     "town": "brewster",
     "categories": [
       "seniors"
-    ]
+    ],
+    "notes": "Old page is gone; town calendar feed is mostly board meetings"
   },
   {
     "id": "barnstable-senior",
@@ -415,14 +416,15 @@
   {
     "id": "eldredge-library",
     "name": "Eldredge Public Library",
-    "url": "https://www.eldredgelibrary.org/events/",
-    "type": "auto",
+    "url": "https://eldredgelibrary.org/programs/",
+    "type": "ics",
     "trusted": true,
     "enabled": true,
     "town": "chatham",
     "categories": [
       "community"
-    ]
+    ],
+    "feed": "https://eldredgelibrary.libcal.com/ical_subscribe.php?src=p&cid=21029"
   },
   {
     "id": "falmouth-library",
@@ -439,7 +441,7 @@
   {
     "id": "mass-audubon-wellfleet",
     "name": "Mass Audubon Wellfleet Bay",
-    "url": "https://www.massaudubon.org/places-to-explore/wildlife-sanctuaries/wellfleet-bay/programs",
+    "url": "https://www.massaudubon.org/programs-events",
     "type": "auto",
     "trusted": true,
     "enabled": true,
@@ -463,7 +465,7 @@
   {
     "id": "hyannis-main-street",
     "name": "Hyannis Main Street BID",
-    "url": "https://hyannismainstreet.com/events/",
+    "url": "https://www.hyannismainstreet.com/news-press/events/",
     "type": "auto",
     "trusted": true,
     "enabled": true,
@@ -475,7 +477,7 @@
   {
     "id": "falmouth-art-center",
     "name": "Falmouth Art Center",
-    "url": "https://falmouthart.org/events/",
+    "url": "https://falmouthart.org/category/events/",
     "type": "auto",
     "trusted": true,
     "enabled": true,
@@ -488,7 +490,7 @@
   {
     "id": "creative-arts-center",
     "name": "Creative Arts Center Chatham",
-    "url": "https://capecodcreativearts.org/",
+    "url": "https://canvas.capecodcreativearts.org/events",
     "type": "auto",
     "trusted": true,
     "enabled": true,
@@ -496,7 +498,8 @@
     "categories": [
       "arts",
       "classes"
-    ]
+    ],
+    "notes": "Behind a bot checkpoint (HTTP 429) as of 2026-10-17"
   },
   {
     "id": "fine-arts-work-center",
@@ -509,6 +512,159 @@
     "categories": [
       "arts",
       "classes"
+    ]
+  },
+  {
+    "id": "allevents-hyannis",
+    "name": "AllEvents \u00b7 Hyannis",
+    "url": "https://allevents.in/hyannis",
+    "type": "jsonld",
+    "trusted": true,
+    "enabled": true,
+    "notes": "Aggregator that includes many public Facebook events; town comes from each event's address"
+  },
+  {
+    "id": "allevents-barnstable",
+    "name": "AllEvents \u00b7 Barnstable",
+    "url": "https://allevents.in/barnstable",
+    "type": "jsonld",
+    "trusted": true,
+    "enabled": true,
+    "notes": "Aggregator that includes many public Facebook events; town comes from each event's address"
+  },
+  {
+    "id": "allevents-falmouth",
+    "name": "AllEvents \u00b7 Falmouth",
+    "url": "https://allevents.in/falmouth-ma",
+    "type": "jsonld",
+    "trusted": true,
+    "enabled": true,
+    "notes": "Aggregator that includes many public Facebook events; town comes from each event's address"
+  },
+  {
+    "id": "allevents-provincetown",
+    "name": "AllEvents \u00b7 Provincetown",
+    "url": "https://allevents.in/provincetown",
+    "type": "jsonld",
+    "trusted": true,
+    "enabled": true,
+    "notes": "Aggregator that includes many public Facebook events; town comes from each event's address"
+  },
+  {
+    "id": "allevents-chatham",
+    "name": "AllEvents \u00b7 Chatham",
+    "url": "https://allevents.in/chatham-ma",
+    "type": "jsonld",
+    "trusted": true,
+    "enabled": true,
+    "notes": "Aggregator that includes many public Facebook events; town comes from each event's address"
+  },
+  {
+    "id": "allevents-orleans",
+    "name": "AllEvents \u00b7 Orleans",
+    "url": "https://allevents.in/orleans-ma",
+    "type": "jsonld",
+    "trusted": true,
+    "enabled": true,
+    "notes": "Aggregator that includes many public Facebook events; town comes from each event's address"
+  },
+  {
+    "id": "allevents-sandwich",
+    "name": "AllEvents \u00b7 Sandwich",
+    "url": "https://allevents.in/sandwich-ma",
+    "type": "jsonld",
+    "trusted": true,
+    "enabled": true,
+    "notes": "Aggregator that includes many public Facebook events; town comes from each event's address"
+  },
+  {
+    "id": "allevents-dennis",
+    "name": "AllEvents \u00b7 Dennis",
+    "url": "https://allevents.in/dennis",
+    "type": "jsonld",
+    "trusted": true,
+    "enabled": true,
+    "notes": "Aggregator that includes many public Facebook events; town comes from each event's address"
+  },
+  {
+    "id": "allevents-brewster",
+    "name": "AllEvents \u00b7 Brewster",
+    "url": "https://allevents.in/brewster-ma",
+    "type": "jsonld",
+    "trusted": true,
+    "enabled": true,
+    "notes": "Aggregator that includes many public Facebook events; town comes from each event's address"
+  },
+  {
+    "id": "allevents-harwich",
+    "name": "AllEvents \u00b7 Harwich",
+    "url": "https://allevents.in/harwich",
+    "type": "jsonld",
+    "trusted": true,
+    "enabled": true,
+    "notes": "Aggregator that includes many public Facebook events; town comes from each event's address"
+  },
+  {
+    "id": "allevents-mashpee",
+    "name": "AllEvents \u00b7 Mashpee",
+    "url": "https://allevents.in/mashpee",
+    "type": "jsonld",
+    "trusted": true,
+    "enabled": true,
+    "notes": "Aggregator that includes many public Facebook events; town comes from each event's address"
+  },
+  {
+    "id": "allevents-eastham",
+    "name": "AllEvents \u00b7 Eastham",
+    "url": "https://allevents.in/eastham",
+    "type": "jsonld",
+    "trusted": true,
+    "enabled": true,
+    "notes": "Aggregator that includes many public Facebook events; town comes from each event's address"
+  },
+  {
+    "id": "ptown-business-guild",
+    "name": "Provincetown Business Guild",
+    "url": "https://ptown.org/calendars/",
+    "type": "jsonld",
+    "trusted": true,
+    "enabled": true,
+    "town": "provincetown"
+  },
+  {
+    "id": "museums-on-the-green",
+    "name": "Falmouth Museums on the Green",
+    "url": "https://museumsonthegreen.org/",
+    "type": "tribe",
+    "trusted": true,
+    "enabled": true,
+    "town": "falmouth",
+    "categories": [
+      "arts",
+      "community"
+    ]
+  },
+  {
+    "id": "edward-gorey-house",
+    "name": "Edward Gorey House",
+    "url": "https://edwardgoreyhouse.org/events",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "yarmouth",
+    "categories": [
+      "arts"
+    ]
+  },
+  {
+    "id": "arts-foundation",
+    "name": "Arts Foundation of Cape Cod",
+    "url": "https://www.artsfoundation.org/events",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "categories": [
+      "arts"
     ]
   }
 ]

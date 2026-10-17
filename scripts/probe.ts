@@ -57,6 +57,11 @@ async function probe(url: string) {
   }
   console.log(`  HTTP ${res.status}${res.url !== url ? ` -> ${res.url}` : ""}`);
   const html = await res.text();
+  if (html.trimStart().startsWith("BEGIN:VCALENDAR")) {
+    const ics = await fetchIcs(url).catch(() => [] as RawEvent[]);
+    console.log(`  ics feed: ${ics.length} events, ${capeCount(ics, url)} on the Cape${ics[0] ? ` (e.g. "${ics[0].title}" ${ics[0].start})` : ""}`);
+    return;
+  }
   const $ = cheerio.load(html);
   console.log(`  title: ${$("title").text().trim().slice(0, 90)}`);
   const ld = parseJsonLd(html, url);

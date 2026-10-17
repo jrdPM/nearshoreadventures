@@ -71,6 +71,9 @@ export interface Normalized {
   reasons: string[]; // why it's suspect; empty = fine
 }
 
+const inMassachusetts = (region: string) =>
+  /\b(ma|mass|massachusetts)\b/i.test(region) || /^(us|usa|united states)$/i.test(region.trim());
+
 export function normalize(raw: RawEvent, source: Source, nowIso: string): Normalized | null {
   const title = decode(raw.title || "");
   if (!title) return null;
@@ -82,6 +85,8 @@ export function normalize(raw: RawEvent, source: Source, nowIso: string): Normal
   const reasons: string[] = [];
   const blob = `${title} ${raw.description ?? ""} ${raw.venueName ?? ""}`;
 
+  // Same-named towns elsewhere (Falmouth UK, Falmouth Maine, Sandwich Kent...) are not ours.
+  if (raw.region && !inMassachusetts(raw.region)) return null;
   const town =
     matchTown(raw.city) ?? matchTown(raw.address) ?? matchTown(raw.venueName) ?? matchTown(title) ??
     (source.town ? TOWN_BY_SLUG[source.town] : undefined);

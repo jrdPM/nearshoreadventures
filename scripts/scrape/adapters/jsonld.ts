@@ -19,6 +19,12 @@ function collect(node: unknown, out: Json[]) {
   if (o.item) collect(o.item, out);
 }
 
+function regionOf(addr: Json) {
+  const country = addr.addressCountry;
+  const c = typeof country === "object" && country ? (country as Json).name : country;
+  return [addr.addressRegion, c].filter((x) => typeof x === "string" && x).join(", ") || undefined;
+}
+
 const first = <T>(v: T | T[] | undefined): T | undefined => (Array.isArray(v) ? v[0] : v);
 
 export function parseJsonLd(html: string, pageUrl: string): RawEvent[] {
@@ -53,6 +59,7 @@ export function parseJsonLd(html: string, pageUrl: string): RawEvent[] {
         venueName: typeof loc === "string" ? loc : locObj?.name ? String(locObj.name) : undefined,
         address: addrText,
         city: typeof addr === "object" && addr?.addressLocality ? String(addr.addressLocality) : undefined,
+        region: typeof addr === "object" ? regionOf(addr) : undefined,
         lat: geo?.latitude ? Number(geo.latitude) : undefined,
         lng: geo?.longitude ? Number(geo.longitude) : undefined,
         price: price && price !== "0" ? `$${price.replace(/^\$/, "")}` : undefined,

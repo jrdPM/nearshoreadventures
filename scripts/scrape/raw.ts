@@ -13,6 +13,8 @@ export interface RawEvent {
   venueName?: string;
   address?: string;
   city?: string;
+  /** State or country when the source says, so "Falmouth, UK" isn't mistaken for ours */
+  region?: string;
   lat?: number;
   lng?: number;
   price?: string;
