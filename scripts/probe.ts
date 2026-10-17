@@ -84,4 +84,6 @@ async function probe(url: string) {
 }
 
 const urls = process.argv.slice(2).flatMap((a) => a.split(/[\s,]+/)).filter(Boolean);
-for (const u of urls) await probe(u);
+(async () => {
+  for (const u of urls) await probe(u);
+})();
