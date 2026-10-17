@@ -72,6 +72,7 @@ jobs:
             echo "::warning::Cloudways secrets aren't set yet, so the site was built but not uploaded."
             exit 0
           fi
+          APP="$(printf '%s' "$APP" | tr -d '[:space:]')"
           # CLOUDWAYS_APP can be the app's folder name or a full path to its public_html.
           case "$APP" in
             /*) TARGET="$APP" ;;
@@ -86,6 +87,12 @@ jobs:
             sudo apt-get install -y -qq sshpass >/dev/null
             export SSHPASS="$PASSWORD"
             RSH="sshpass -e ssh -o PubkeyAuthentication=no"
+          fi
+          # Make sure the app folder exists before uploading.
+          if ! $RSH "$USER@$HOST" "test -d '$TARGET'"; then
+            echo "::error::The folder for CLOUDWAYS_APP wasn't found on the server. Use the app's folder name from Cloudways > Application > Access Details (a short random word). Folders on this server:"
+            $RSH "$USER@$HOST" "ls -1 ~/applications 2>/dev/null || ls -1 /home/master/applications" || true
+            exit 1
           fi
           rsync -rlz --delete --chmod=D755,F644 -e "$RSH" out/ "$USER@$HOST:$TARGET/"
           echo "Published to $HOST:$TARGET"
