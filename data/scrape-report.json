@@ -1,0 +1,423 @@
+{
+  "ranAt": "2026-10-17T17:57:28.145Z",
+  "published": 109,
+  "queued": 0,
+  "sourcesOk": 26,
+  "sourcesFailed": 20,
+  "sources": [
+    {
+      "id": "barnstable-senior",
+      "name": "Barnstable Adult Community Center",
+      "ok": false,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "error": "HTTP 403"
+    },
+    {
+      "id": "brewster-chamber",
+      "name": "Brewster Chamber of Commerce",
+      "ok": false,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": "brewster-coa",
+      "name": "Brewster Council on Aging",
+      "ok": false,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "error": "HTTP 404"
+    },
+    {
+      "id": "cape-cinema",
+      "name": "Cape Cinema",
+      "ok": true,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "method": "none (no AI key for plain pages)"
+    },
+    {
+      "id": "capecodchamber",
+      "name": "Cape Cod Chamber of Commerce",
+      "ok": true,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "method": "none (no AI key for plain pages)"
+    },
+    {
+      "id": "melody-tent",
+      "name": "Cape Cod Melody Tent",
+      "ok": true,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "method": "none (no AI key for plain pages)"
+    },
+    {
+      "id": "ccmoa",
+      "name": "Cape Cod Museum of Art",
+      "ok": false,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "error": "robots.txt disallows https://ccmoa.org/events/"
+    },
+    {
+      "id": "ccmnh",
+      "name": "Cape Cod Museum of Natural History",
+      "ok": true,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "method": "none (no AI key for plain pages)"
+    },
+    {
+      "id": "cape-cod-nps",
+      "name": "Cape Cod National Seashore",
+      "ok": false,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "error": "robots.txt disallows https://www.nps.gov/caco/planyourvisit/calendar.htm"
+    },
+    {
+      "id": "capecodtimes",
+      "name": "Cape Cod Times events",
+      "ok": false,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "error": "robots.txt disallows https://www.capecodtimes.com/things-to-do/events/"
+    },
+    {
+      "id": "cape-rep",
+      "name": "Cape Rep Theatre",
+      "ok": true,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "method": "none (no AI key for plain pages)"
+    },
+    {
+      "id": "cape-symphony",
+      "name": "Cape Symphony",
+      "ok": true,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "method": "none (no AI key for plain pages)"
+    },
+    {
+      "id": "capecod-com",
+      "name": "CapeCod.com events",
+      "ok": true,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "method": "none (no AI key for plain pages)"
+    },
+    {
+      "id": "chatham-chamber",
+      "name": "Chatham Chamber of Commerce",
+      "ok": true,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "method": "none (no AI key for plain pages)"
+    },
+    {
+      "id": "creative-arts-center",
+      "name": "Creative Arts Center Chatham",
+      "ok": false,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "error": "robots.txt disallows https://capecodcreativearts.org/"
+    },
+    {
+      "id": "cultural-center",
+      "name": "Cultural Center of Cape Cod",
+      "ok": false,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "error": "robots.txt disallows https://cultural-center.org/events/"
+    },
+    {
+      "id": "dennis-chamber",
+      "name": "Dennis Chamber of Commerce",
+      "ok": true,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "method": "none (no AI key for plain pages)"
+    },
+    {
+      "id": "eastham-chamber",
+      "name": "Eastham Chamber of Commerce",
+      "ok": true,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "method": "none (no AI key for plain pages)"
+    },
+    {
+      "id": "eldredge-library",
+      "name": "Eldredge Public Library",
+      "ok": false,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "error": "HTTP 404"
+    },
+    {
+      "id": "falmouth-art-center",
+      "name": "Falmouth Art Center",
+      "ok": false,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "error": "robots.txt disallows https://falmouthart.org/events/"
+    },
+    {
+      "id": "falmouth-chamber",
+      "name": "Falmouth Chamber of Commerce",
+      "ok": true,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "method": "none (no AI key for plain pages)"
+    },
+    {
+      "id": "falmouth-library",
+      "name": "Falmouth Public Library",
+      "ok": true,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "method": "none (no AI key for plain pages)"
+    },
+    {
+      "id": "fine-arts-work-center",
+      "name": "Fine Arts Work Center",
+      "ok": true,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "method": "none (no AI key for plain pages)"
+    },
+    {
+      "id": "harwich-chamber",
+      "name": "Harwich Chamber of Commerce",
+      "ok": false,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "error": "HTTP 404"
+    },
+    {
+      "id": "heritage-gardens",
+      "name": "Heritage Museums & Gardens",
+      "ok": true,
+      "found": 6,
+      "published": 6,
+      "queued": 0,
+      "method": "jsonld"
+    },
+    {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "ok": true,
+      "found": 47,
+      "published": 45,
+      "queued": 0,
+      "method": "tribe"
+    },
+    {
+      "id": "hyannis-chamber",
+      "name": "Hyannis Area Chamber",
+      "ok": true,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "method": "none (no AI key for plain pages)"
+    },
+    {
+      "id": "hyannis-main-street",
+      "name": "Hyannis Main Street BID",
+      "ok": false,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "error": "HTTP 404"
+    },
+    {
+      "id": "mashpee-chamber",
+      "name": "Mashpee Chamber of Commerce",
+      "ok": true,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "method": "none (no AI key for plain pages)"
+    },
+    {
+      "id": "mass-audubon-wellfleet",
+      "name": "Mass Audubon Wellfleet Bay",
+      "ok": false,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "error": "HTTP 404"
+    },
+    {
+      "id": "orleans-chamber",
+      "name": "Orleans Chamber of Commerce",
+      "ok": true,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "method": "none (no AI key for plain pages)"
+    },
+    {
+      "id": "payomet",
+      "name": "Payomet Performing Arts Center",
+      "ok": true,
+      "found": 34,
+      "published": 34,
+      "queued": 0,
+      "method": "tribe"
+    },
+    {
+      "id": "paam",
+      "name": "Provincetown Art Association and Museum",
+      "ok": false,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "error": "robots.txt disallows https://paam.org/events/"
+    },
+    {
+      "id": "ptown-chamber",
+      "name": "Provincetown Chamber of Commerce",
+      "ok": true,
+      "found": 12,
+      "published": 12,
+      "queued": 0,
+      "method": "jsonld"
+    },
+    {
+      "id": "sandwich-chamber",
+      "name": "Sandwich Chamber of Commerce",
+      "ok": true,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "method": "none (no AI key for plain pages)"
+    },
+    {
+      "id": "sturgis-library",
+      "name": "Sturgis Library",
+      "ok": false,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "error": "robots.txt disallows https://sturgislibrary.org/events/"
+    },
+    {
+      "id": "cape-playhouse",
+      "name": "The Cape Playhouse",
+      "ok": false,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": "barnstable-town",
+      "name": "Town of Barnstable calendar",
+      "ok": false,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "error": "HTTP 403"
+    },
+    {
+      "id": "chatham-town",
+      "name": "Town of Chatham calendar",
+      "ok": true,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "method": "none (no AI key for plain pages)"
+    },
+    {
+      "id": "falmouth-town",
+      "name": "Town of Falmouth calendar",
+      "ok": true,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "method": "none (no AI key for plain pages)"
+    },
+    {
+      "id": "wellfleet-chamber",
+      "name": "Wellfleet Chamber of Commerce",
+      "ok": true,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "method": "none (no AI key for plain pages)"
+    },
+    {
+      "id": "wellfleet-harbor-actors",
+      "name": "Wellfleet Harbor Actors Theater",
+      "ok": true,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "method": "none (no AI key for plain pages)"
+    },
+    {
+      "id": "wellfleet-oysterfest",
+      "name": "Wellfleet OysterFest",
+      "ok": false,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "error": "fetch failed"
+    },
+    {
+      "id": "wht",
+      "name": "Woods Hole Theater Company",
+      "ok": false,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "error": "robots.txt disallows https://woodsholetheater.org/"
+    },
+    {
+      "id": "yarmouth-chamber",
+      "name": "Yarmouth Chamber of Commerce",
+      "ok": true,
+      "found": 12,
+      "published": 12,
+      "queued": 0,
+      "method": "jsonld"
+    },
+    {
+      "id": "zion-union",
+      "name": "Zion Union Heritage Museum",
+      "ok": false,
+      "found": 0,
+      "published": 0,
+      "queued": 0,
+      "error": "fetch failed"
+    }
+  ]
+}

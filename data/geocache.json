@@ -1,1 +1,53 @@
-{}
+{
+ "provincetown, provincetown, ma": [
+  42.0510868,
+  -70.1860201
+ ],
+ "67 grove street sandwich, ma 02563, sandwich, ma": [
+  41.7486723,
+  -70.5059897
+ ],
+ "312 old main st, south yarmouth, ma 02664, yarmouth, ma": [
+  41.6660742,
+  -70.1859771
+ ],
+ "528 forest rd, yarmouth, ma": [
+  41.6825916,
+  -70.2172747
+ ],
+ "yarmouth, yarmouth, ma": [
+  41.6669123,
+  -70.1852228
+ ],
+ "297 main st (rte 6a), yarmouth port, ma, yarmouth, ma": null,
+ "135 south street hyannis, massachusetts, 02601, barnstable, ma": [
+  41.6515866,
+  -70.2794223
+ ],
+ "sandwich, sandwich, ma": [
+  41.7596932,
+  -70.4918616
+ ],
+ "394 old meeting house rd,, east falmouth, falmouth, ma": [
+  41.5978087,
+  -70.564181
+ ],
+ "1225 iyannough road, hyannis, barnstable, ma": [
+  41.6739608,
+  -70.3108161
+ ],
+ "truro, truro, ma": [
+  42.0334364,
+  -70.0953025
+ ],
+ "2357 state highway route 6, wellfleet, wellfleet, ma": null,
+ "location name, provincetown, ma": null,
+ "falmouth, falmouth, ma": [
+  41.5570147,
+  -70.6233532
+ ],
+ "291 jones road, falmouth, falmouth, ma": [
+  41.5598011,
+  -70.6082214
+ ]
+}

@@ -1,169 +1,61 @@
 [
   {
-    "id": "bfa83b01c1ce",
-    "slug": "wellfleet-oysterfest-2026-10-17-bfa8",
-    "title": "Wellfleet OysterFest",
-    "summary": "Two days of shucking contests, local oysters, live bands and crafts filling the middle of town.",
-    "start": "2026-10-17T14:00:00.000Z",
-    "end": "2026-10-18T21:00:00.000Z",
-    "allDay": false,
+    "id": "6b8f3fa16334",
+    "slug": "women-s-week-2026-10-12-6b8f",
+    "title": "Women’s Week",
+    "summary": "Women, Our Culture & Our Community Join us! Monday-Sunday, October 12-18, 2026 Whether it’s getting to see the best performers and comics in LGBTQ+ culture today, or just walking down Commercial Street holding hands…",
+    "start": "2026-10-12T04:00:00.000Z",
+    "end": "2026-10-18T04:00:00.000Z",
+    "allDay": true,
     "venue": {
-      "name": "Downtown Wellfleet",
-      "town": "wellfleet",
-      "lat": 41.9385,
-      "lng": -70.0295
+      "name": "Provincetown",
+      "town": "provincetown",
+      "lat": 42.0510868,
+      "lng": -70.1860201
     },
     "categories": [
       "festivals",
-      "food"
-    ],
-    "tags": {
-      "free": false,
-      "kids": false,
-      "seniors": false,
-      "outdoor": true,
-      "byBoat": true
-    },
-    "priceText": "$5 suggested donation",
-    "url": "https://nearshoreadventures.com",
-    "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
-    },
-    "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
-  },
-  {
-    "id": "5d17a10686f7",
-    "slug": "jazz-brunch-on-the-harbor-2026-10-18-5d17",
-    "title": "Jazz Brunch on the Harbor",
-    "summary": "A trio plays standards while you eat brunch looking out at Hyannis Harbor. Dock space nearby.",
-    "start": "2026-10-18T15:00:00.000Z",
-    "end": "2026-10-18T18:00:00.000Z",
-    "allDay": false,
-    "venue": {
-      "name": "Bismore Park",
-      "town": "barnstable",
-      "lat": 41.6513,
-      "lng": -70.2845
-    },
-    "categories": [
-      "music",
-      "food",
-      "water"
-    ],
-    "tags": {
-      "free": false,
-      "kids": false,
-      "seniors": false,
-      "outdoor": false,
-      "byBoat": true
-    },
-    "priceText": "$35",
-    "url": "https://nearshoreadventures.com",
-    "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
-    },
-    "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
-  },
-  {
-    "id": "f7807072b112",
-    "slug": "canal-sunset-bike-ride-2026-10-19-f780",
-    "title": "Canal Sunset Bike Ride",
-    "summary": "An easy group ride along the canal path toward the railroad bridge at sunset.",
-    "start": "2026-10-19T20:30:00.000Z",
-    "end": "2026-10-19T22:00:00.000Z",
-    "allDay": false,
-    "venue": {
-      "name": "Cape Cod Canal Visitor Center",
-      "town": "bourne",
-      "lat": 41.7422,
-      "lng": -70.5944
-    },
-    "categories": [
-      "outdoors"
+      "community"
     ],
     "tags": {
       "free": true,
       "kids": false,
       "seniors": false,
-      "outdoor": true,
-      "byBoat": false
-    },
-    "priceText": "Free",
-    "url": "https://nearshoreadventures.com",
-    "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
-    },
-    "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
-  },
-  {
-    "id": "5c97489e8238",
-    "slug": "senior-tai-chi-2026-10-20-5c97",
-    "title": "Senior Tai Chi",
-    "summary": "Gentle, low-impact tai chi for balance and flexibility. Drop-ins welcome.",
-    "start": "2026-10-20T13:30:00.000Z",
-    "end": "2026-10-20T14:30:00.000Z",
-    "allDay": false,
-    "venue": {
-      "name": "Brewster Council on Aging",
-      "town": "brewster",
-      "lat": 41.7554,
-      "lng": -70.0793
-    },
-    "categories": [
-      "seniors",
-      "classes"
-    ],
-    "tags": {
-      "free": true,
-      "kids": false,
-      "seniors": true,
       "outdoor": false,
       "byBoat": false
     },
     "priceText": "Free",
-    "url": "https://nearshoreadventures.com",
+    "url": "https://ptownchamber.com/events/womens-week/",
+    "ticketUrl": "https://ptownchamber.com/events/womens-week/",
+    "image": "",
     "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
+      "id": "ptown-chamber",
+      "name": "Provincetown Chamber of Commerce",
+      "url": "https://ptownchamber.com/events/"
     },
     "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
   },
   {
-    "id": "e1c7f3a5af68",
-    "slug": "cranberry-bog-tour-2026-10-20-e1c7",
-    "title": "Cranberry Bog Tour",
-    "summary": "See the fall harvest up close and learn how Cape cranberries get from bog to table.",
-    "start": "2026-10-20T18:00:00.000Z",
-    "end": "2026-10-20T19:30:00.000Z",
-    "allDay": false,
+    "id": "9bce9888f035",
+    "slug": "write-out-cape-cod-2026-10-17-9bce",
+    "title": "Write Out Cape Cod",
+    "summary": "Celebrate the launch of em Write Out Cape Cod /em at Heritage Museums & Gardens! During our main season closing weekend, October 17 & 18, visitors are invited to pause, reflect, and share their experience at Heritage in…",
+    "start": "2026-10-17T04:00:00.000Z",
+    "end": "2026-10-17T04:00:00.000Z",
+    "allDay": true,
     "venue": {
-      "name": "Harwich Cranberry Bogs",
-      "town": "harwich",
-      "lat": 41.6911,
-      "lng": -70.076
+      "name": "Heritage Museums & Gardens",
+      "address": "67 Grove Street Sandwich, MA 02563",
+      "town": "sandwich",
+      "lat": 41.7486723,
+      "lng": -70.5059897
     },
     "categories": [
       "outdoors",
-      "food"
+      "family",
+      "festivals"
     ],
     "tags": {
       "free": false,
@@ -172,546 +64,656 @@
       "outdoor": true,
       "byBoat": false
     },
-    "priceText": "$20",
-    "url": "https://nearshoreadventures.com",
+    "url": "https://heritagemuseumsandgardens.org/mecevents/write-out-cape-cod/?occurrence=2026-10-17",
+    "ticketUrl": "https://heritagemuseumsandgardens.org/mecevents/write-out-cape-cod/",
+    "image": "https://bunny-wp-pullzone-94pwz2rapx.b-cdn.net/wp-content/uploads/2026/10/Write-Out-Cape-Cod-logo-final.png",
     "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
+      "id": "heritage-gardens",
+      "name": "Heritage Museums & Gardens",
+      "url": "https://heritagemuseumsandgardens.org/events/"
     },
     "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
   },
   {
-    "id": "98366869f774",
-    "slug": "watercolor-basics-painting-the-marsh-2026-10-21-9836",
-    "title": "Watercolor Basics: Painting the Marsh",
-    "summary": "A beginner-friendly watercolor workshop focused on Cape marsh light. All supplies provided.",
-    "start": "2026-10-21T14:00:00.000Z",
-    "end": "2026-10-21T17:00:00.000Z",
-    "allDay": false,
+    "id": "479da5b883cc",
+    "slug": "transweek-2026-10-18-479d",
+    "title": "TransWeek",
+    "summary": "Fantasia Fair Fashion Show and the Follies... and so much more! Come! Sunday-Sunday, October 18-25, 2026 The first Fair was held in 1975; this makes TransWeek (Fantasia Fair) the longest-running transgender event in the…",
+    "start": "2026-10-18T04:00:00.000Z",
+    "end": "2026-10-25T04:00:00.000Z",
+    "allDay": true,
     "venue": {
-      "name": "Cultural Center of Cape Cod",
-      "town": "yarmouth",
-      "lat": 41.7073,
-      "lng": -70.2332
+      "name": "Provincetown",
+      "town": "provincetown",
+      "lat": 42.0510868,
+      "lng": -70.1860201
     },
     "categories": [
+      "festivals",
+      "community"
+    ],
+    "tags": {
+      "free": true,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "Free",
+    "url": "https://ptownchamber.com/events/transweek/",
+    "ticketUrl": "https://ptownchamber.com/events/transweek/",
+    "image": "",
+    "source": {
+      "id": "ptown-chamber",
+      "name": "Provincetown Chamber of Commerce",
+      "url": "https://ptownchamber.com/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "f81741087071",
+    "slug": "write-out-cape-cod-2026-10-18-f817",
+    "title": "Write Out Cape Cod",
+    "summary": "Celebrate the launch of em Write Out Cape Cod /em at Heritage Museums & Gardens! During our main season closing weekend, October 17 & 18, visitors are invited to pause, reflect, and share their experience at Heritage in…",
+    "start": "2026-10-18T04:00:00.000Z",
+    "end": "2026-10-18T04:00:00.000Z",
+    "allDay": true,
+    "venue": {
+      "name": "Heritage Museums & Gardens",
+      "address": "67 Grove Street Sandwich, MA 02563",
+      "town": "sandwich",
+      "lat": 41.7486723,
+      "lng": -70.5059897
+    },
+    "categories": [
+      "outdoors",
+      "family",
+      "festivals"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": true,
+      "byBoat": false
+    },
+    "url": "https://heritagemuseumsandgardens.org/mecevents/write-out-cape-cod-2/?occurrence=2026-10-18",
+    "ticketUrl": "https://heritagemuseumsandgardens.org/mecevents/write-out-cape-cod-2/",
+    "image": "https://bunny-wp-pullzone-94pwz2rapx.b-cdn.net/wp-content/uploads/2026/10/Write-Out-Cape-Cod-logo-final.png",
+    "source": {
+      "id": "heritage-gardens",
+      "name": "Heritage Museums & Gardens",
+      "url": "https://heritagemuseumsandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "68d80c5f997a",
+    "slug": "last-day-of-the-main-season-2026-10-18-68d8",
+    "title": "Last Day of the Main Season",
+    "summary": "October 18 marks the last day that Heritage will be open for the main season. We thank our friends, old and new, for visiting during the spring, summer and fall. You are our favorite part of the grounds and galleries.",
+    "start": "2026-10-18T04:00:00.000Z",
+    "end": "2026-10-18T04:00:00.000Z",
+    "allDay": true,
+    "venue": {
+      "name": "Heritage Museums & Gardens",
+      "address": "67 Grove Street Sandwich, MA 02563",
+      "town": "sandwich",
+      "lat": 41.7486723,
+      "lng": -70.5059897
+    },
+    "categories": [
+      "outdoors",
+      "family"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": true,
+      "byBoat": false
+    },
+    "url": "https://heritagemuseumsandgardens.org/mecevents/last-year/?occurrence=2026-10-18",
+    "ticketUrl": "https://heritagemuseumsandgardens.org/mecevents/last-year/",
+    "image": "https://bunny-wp-pullzone-94pwz2rapx.b-cdn.net/wp-content/uploads/2026/10/HeartHydie-scaled.jpg",
+    "source": {
+      "id": "heritage-gardens",
+      "name": "Heritage Museums & Gardens",
+      "url": "https://heritagemuseumsandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "6c6601be1511",
+    "slug": "meet-the-chef-matt-lombardo-of-pink-door-catering-market-2026-10-18-6c66",
+    "title": "Meet the Chef: Matt Lombardo of Pink Door Catering Market",
+    "summary": "Register Now Learn the art of fresh mozzarella! Join Chef Matt Lombardo of Pink Door and Highfield’s Culinary Director Kate Rickard for a special hands-on culinary event. This class takes you from curd to masterpiece.",
+    "start": "2026-10-18T16:00:00.000Z",
+    "end": "2026-10-18T18:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "food",
+      "classes"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$75 – $85",
+    "url": "https://highfieldhallandgardens.org/event/meet-the-chef-matt-lombardo-10-18-26/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/5-17-26-Matt-Lombardo-frame.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "238cf455a74b",
+    "slug": "getting-the-most-from-your-clams-card-2026-10-19-238c",
+    "title": "Getting the Most from Your CLAMS Card",
+    "summary": "Getting the Most from Your CLAMS Card Monday, October 19, 2:00 p.m. South Yarmouth Library Librarian Phoebe will highlight some of the resources available through the library - from Consumer Reports Online and The New…",
+    "start": "2026-10-19T14:00:00.000Z",
+    "end": "2026-10-19T15:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "South Yarmouth Library",
+      "address": "312 Old Main St, South Yarmouth, MA 02664",
+      "town": "yarmouth",
+      "lat": 41.6660742,
+      "lng": -70.1859771
+    },
+    "categories": [
+      "arts",
+      "community"
+    ],
+    "tags": {
+      "free": true,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "Free",
+    "url": "https://yarmouthcapecod.com/events/getting-the-most-from-your-clams-card/",
+    "ticketUrl": "https://yarmouthcapecod.com/events/getting-the-most-from-your-clams-card/",
+    "image": "https://yarmouthcapecod.com/wp-content/uploads/2026/09/10192026-Getting-the-Most-from-your-CLAMS-card-slider.jpg",
+    "source": {
+      "id": "yarmouth-chamber",
+      "name": "Yarmouth Chamber of Commerce",
+      "url": "https://www.yarmouthcapecod.com/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "58d32abe1276",
+    "slug": "chair-yoga-with-yves-vandeplas-2026-10-19-58d3",
+    "title": "Chair Yoga with Yves Vandeplas",
+    "summary": "REGISTER NOW Join Yves Vandeplas for a refreshing and accessible chair yoga workshop designed for individuals of all ages and abilities.",
+    "start": "2026-10-19T14:30:00.000Z",
+    "end": "2026-10-19T15:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
       "classes",
+      "outdoors"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": false,
+      "outdoor": true,
+      "byBoat": false
+    },
+    "priceText": "$15 – $20",
+    "url": "https://highfieldhallandgardens.org/event/chair-yoga-10-19-26/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/2025-Chair-Yoga.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "8c3147caf4e5",
+    "slug": "garden-club-of-yarmouth-fallscapings-lecture-2026-10-20-8c31",
+    "title": "Garden Club of Yarmouth Fallscapings Lecture",
+    "summary": "Join the Garden Club of Yarmouth on October 20, 2026 at 1:15 PM for a Fallscapings Lecture. Jana Milbocker, the noted Enchanted Gardens lecturer and author, brings her years of design thinking to the Garden Club of…",
+    "start": "2026-10-20T13:15:00.000Z",
+    "end": "2026-10-20T04:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Yarmouth Senior Center",
+      "address": "528 Forest Rd",
+      "town": "yarmouth",
+      "lat": 41.6825916,
+      "lng": -70.2172747
+    },
+    "categories": [
+      "arts",
+      "seniors",
+      "classes"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": true,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$5 Donation at the Door",
+    "url": "https://yarmouthcapecod.com/events/garden-club-of-yarmouth-fallscapings-lecture/",
+    "ticketUrl": "https://yarmouthcapecod.com/events/garden-club-of-yarmouth-fallscapings-lecture/",
+    "image": "https://yarmouthcapecod.com/wp-content/uploads/2026/10/Garden-CLub-Oct-20-2026.jpg",
+    "source": {
+      "id": "yarmouth-chamber",
+      "name": "Yarmouth Chamber of Commerce",
+      "url": "https://www.yarmouthcapecod.com/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "532c0ae04613",
+    "slug": "felted-acorn-garland-workshop-with-cheryl-flett-2026-10-20-532c",
+    "title": "Felted Acorn Garland Workshop with Cheryl Flett",
+    "summary": "Register Now Learn the art of needle felting as you transform soft wool into a charming, colorful acorn garland.",
+    "start": "2026-10-20T21:00:00.000Z",
+    "end": "2026-10-20T23:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "classes",
+      "family"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$35 – $45",
+    "url": "https://highfieldhallandgardens.org/event/felted-acorn-garland-workshop-with-cheryl-flett/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/10-20-26-Felted-Acorns-with-Cheryl-Flett-frame-2.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "d419f6263b6f",
+    "slug": "chair-yoga-with-melissa-goodwin-2026-10-21-d419",
+    "title": "Chair Yoga with Melissa Goodwin",
+    "summary": "REGISTER NOW Join Melissa Goodwin for a refreshing and accessible chair yoga workshop designed for individuals of all ages and abilities who want to maintain and increase vitality.",
+    "start": "2026-10-21T14:30:00.000Z",
+    "end": "2026-10-21T15:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "classes",
+      "outdoors"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": false,
+      "outdoor": true,
+      "byBoat": false
+    },
+    "priceText": "$15 – $20",
+    "url": "https://highfieldhallandgardens.org/event/chair-yoga-10-21-26/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/2026-Chair-Yoga-Melissa-Goodwin-frame-1.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "16aeaed59ea2",
+    "slug": "zoom-event-reading-the-stones-what-cemeteries-can-teach-us-about-publi-2026-10-21-16ae",
+    "title": "Zoom Event: Reading the Stones – What Cemeteries Can Teach Us About Public Health",
+    "summary": "Zoom Event: Reading the Stones - What Cemeteries Can Teach Us About Public Health Wednesday, October 21, 7:00 p.m.",
+    "start": "2026-10-21T19:00:00.000Z",
+    "end": "2026-10-21T20:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Yarmouth",
+      "town": "yarmouth",
+      "lat": 41.6669123,
+      "lng": -70.1852228
+    },
+    "categories": [
+      "arts",
+      "community"
+    ],
+    "tags": {
+      "free": true,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "Free",
+    "url": "https://us02web.zoom.us/webinar/register/8117900376786/WN_Hz85NXVQRqmNPdmCx9wEDg",
+    "ticketUrl": "https://us02web.zoom.us/webinar/register/8117900376786/WN_Hz85NXVQRqmNPdmCx9wEDg",
+    "image": "https://yarmouthcapecod.com/wp-content/uploads/2026/09/10212026-Zoom-Cemeteries.jpg",
+    "source": {
+      "id": "yarmouth-chamber",
+      "name": "Yarmouth Chamber of Commerce",
+      "url": "https://www.yarmouthcapecod.com/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "f450ffc68bce",
+    "slug": "snakes-2026-10-22-f450",
+    "title": "SNAKES!",
+    "summary": "The Yarmouth Port Library presents SNAKES! A program with Dr. Roy Scudder-Davis & his SNAKES! Thursday, October 22nd 4:30 PM Space is Limited. Registration is required! Ages 5 and up only, please! Dr.",
+    "start": "2026-10-22T16:30:00.000Z",
+    "end": "2026-10-22T17:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Yarmouth Port Library",
+      "address": "297 Main St (Rte 6A), Yarmouth Port, MA",
+      "town": "yarmouth",
+      "lat": 41.707752,
+      "lng": -70.2301
+    },
+    "categories": [
+      "community"
+    ],
+    "tags": {
+      "free": true,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "Free",
+    "url": "https://yarmouthcapecod.com/events/snakes/",
+    "ticketUrl": "https://yarmouthcapecod.com/events/snakes/",
+    "image": "",
+    "source": {
+      "id": "yarmouth-chamber",
+      "name": "Yarmouth Chamber of Commerce",
+      "url": "https://www.yarmouthcapecod.com/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "d2627d4c08b1",
+    "slug": "history-on-tap-uncovering-climate-clues-from-new-england-whaling-ship--2026-10-22-d262",
+    "title": "History on Tap: Uncovering Climate Clues From New England Whaling Ship Logbooks",
+    "summary": "What can the handwritten logbooks of 19th-century whaling ships tell us about today’s changing climate? Through groundbreaking collaborative research, oceanographer Caroline Ummenhofer from Woods Hole Oceanographic…",
+    "start": "2026-10-22T18:00:00.000Z",
+    "end": "2026-10-22T19:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Cape Cod Maritime Museum",
+      "address": "135 South Street Hyannis, Massachusetts, 02601",
+      "town": "barnstable",
+      "lat": 41.6515866,
+      "lng": -70.2794223
+    },
+    "categories": [
+      "arts",
+      "food",
+      "community"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$10",
+    "url": "https://capecodmaritimemuseum.org/events-and-lectures/capecodmaritimemuseum-camp-edwards-and-cape-cod-wwii-6mhw8",
+    "ticketUrl": "https://capecodmaritimemuseum.org/events-and-lectures/capecodmaritimemuseum-camp-edwards-and-cape-cod-wwii-6mhw8",
+    "image": "https://yarmouthcapecod.com/wp-content/uploads/2026/08/images.jpg",
+    "source": {
+      "id": "yarmouth-chamber",
+      "name": "Yarmouth Chamber of Commerce",
+      "url": "https://www.yarmouthcapecod.com/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "37de3b17af0e",
+    "slug": "spooky-knights-community-fundraiser-friday-2026-10-23-37de",
+    "title": "Spooky Knights Community Fundraiser – Friday",
+    "summary": "Timed ticketing with the following entry time slots: Friday: 4:30-5:45 pm, 5:45-6:45 pm, 6:45-8:00 pm Saturday: 3:30-4:30 pm, 4:30-5:45 pm, 5:45-6:45 pm, 6:45-8:00 pm Get ready for a em spooktacular /em fall tradition…",
+    "start": "2026-10-23T04:00:00.000Z",
+    "end": "2026-10-23T04:00:00.000Z",
+    "allDay": true,
+    "venue": {
+      "name": "Sandwich",
+      "town": "sandwich",
+      "lat": 41.7596932,
+      "lng": -70.4918616
+    },
+    "categories": [
+      "outdoors",
+      "family",
       "arts"
     ],
     "tags": {
       "free": false,
-      "kids": false,
+      "kids": true,
       "seniors": true,
+      "outdoor": true,
+      "byBoat": false
+    },
+    "priceText": "$152",
+    "url": "https://heritagemuseumsandgardens.org/mecevents/spooky-knight-community-fundraiser-friday/?occurrence=2026-10-23",
+    "ticketUrl": "https://heritagemuseumsandgardens.org/mecevents/spooky-knight-community-fundraiser-friday/",
+    "image": "https://bunny-wp-pullzone-94pwz2rapx.b-cdn.net/wp-content/uploads/2021/09/AdobeStock_220315208.jpeg",
+    "source": {
+      "id": "heritage-gardens",
+      "name": "Heritage Museums & Gardens",
+      "url": "https://heritagemuseumsandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "aba9bebf2b75",
+    "slug": "zoom-event-apollo-11-s-final-descent-to-the-surface-of-the-moon-2026-10-23-aba9",
+    "title": "Zoom Event: Apollo 11’s Final Descent to the Surface of the Moon",
+    "summary": "Zoom Event: Apollo 11’s Final Descent to the Surface of the Moon Friday, October 23, 2:00 p.m. Online via Zoom Join NASA Solar System Ambassador, and retired US Air Force Lieutenant Colonel, David S.",
+    "start": "2026-10-23T14:00:00.000Z",
+    "end": "2026-10-23T15:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Yarmouth",
+      "town": "yarmouth",
+      "lat": 41.6669123,
+      "lng": -70.1852228
+    },
+    "categories": [
+      "classes",
+      "community"
+    ],
+    "tags": {
+      "free": true,
+      "kids": false,
+      "seniors": false,
       "outdoor": false,
       "byBoat": false
     },
-    "priceText": "$55",
-    "url": "https://nearshoreadventures.com",
+    "priceText": "Free",
+    "url": "https://us02web.zoom.us/webinar/register/2017900376903/WN_ORmHTksfSMqu3nH_0TRlFw",
+    "ticketUrl": "https://us02web.zoom.us/webinar/register/2017900376903/WN_ORmHTksfSMqu3nH_0TRlFw",
+    "image": "https://yarmouthcapecod.com/wp-content/uploads/2026/09/10232026-Zoom-Apollo-11.jpg",
     "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
+      "id": "yarmouth-chamber",
+      "name": "Yarmouth Chamber of Commerce",
+      "url": "https://www.yarmouthcapecod.com/events/"
     },
     "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
   },
   {
-    "id": "3b5b1cc3e187",
-    "slug": "wednesday-trivia-night-2026-10-21-3b5b",
-    "title": "Wednesday Trivia Night",
-    "summary": "Teams of up to six. Prizes for the winners and the best team name.",
-    "start": "2026-10-21T23:00:00.000Z",
-    "end": "2026-10-22T01:00:00.000Z",
+    "id": "762925852f68",
+    "slug": "chair-yoga-with-yves-vandeplas-2026-10-23-7629",
+    "title": "Chair Yoga with Yves Vandeplas",
+    "summary": "REGISTER NOW Join Yves Vandeplas for a refreshing and accessible chair yoga workshop designed for individuals of all ages and abilities.",
+    "start": "2026-10-23T14:30:00.000Z",
+    "end": "2026-10-23T15:30:00.000Z",
     "allDay": false,
     "venue": {
-      "name": "Barnstable Brewing",
-      "town": "barnstable",
-      "lat": 41.6577,
-      "lng": -70.2913
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "classes",
+      "outdoors"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": false,
+      "outdoor": true,
+      "byBoat": false
+    },
+    "priceText": "$15 – $20",
+    "url": "https://highfieldhallandgardens.org/event/chair-yoga-10-23-26/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/2025-Chair-Yoga.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "1134233412f2",
+    "slug": "spooky-knights-community-fundraiser-saturday-2026-10-24-1134",
+    "title": "Spooky Knights Community Fundraiser – Saturday",
+    "summary": "Timed ticketing with the following entry time slots: Friday: 4:30-5:45 pm, 5:45-6:45 pm, 6:45-8:00 pm Saturday: 3:30-4:30 pm, 4:30-5:45 pm, 5:45-6:45 pm, 6:45-8:00 pm Get ready for a em spooktacular /em fall tradition…",
+    "start": "2026-10-24T04:00:00.000Z",
+    "end": "2026-10-24T04:00:00.000Z",
+    "allDay": true,
+    "venue": {
+      "name": "Sandwich",
+      "town": "sandwich",
+      "lat": 41.7596932,
+      "lng": -70.4918616
+    },
+    "categories": [
+      "outdoors",
+      "family",
+      "festivals"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": true,
+      "outdoor": true,
+      "byBoat": false
+    },
+    "priceText": "$152",
+    "url": "https://heritagemuseumsandgardens.org/mecevents/spooky-knight-community-fundraiser-saturday/?occurrence=2026-10-24",
+    "ticketUrl": "https://heritagemuseumsandgardens.org/mecevents/spooky-knight-community-fundraiser-saturday/",
+    "image": "https://bunny-wp-pullzone-94pwz2rapx.b-cdn.net/wp-content/uploads/2021/09/AdobeStock_220315208.jpeg",
+    "source": {
+      "id": "heritage-gardens",
+      "name": "Heritage Museums & Gardens",
+      "url": "https://heritagemuseumsandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "c0e93855a68d",
+    "slug": "flavors-of-the-land-a-wampanoag-culinary-journey-2026-10-24-c0e9",
+    "title": "Flavors of the Land: a Wampanoag Culinary Journey",
+    "summary": "Watch, learn and taste Wampanoag cooking methods as Toodie prepares a traditional Wampanoag soup over an open fire using locally sourced ingredients including garlic, onions, acorn squash, and beans, combined with fresh…",
+    "start": "2026-10-24T11:00:00.000Z",
+    "end": "2026-10-24T12:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Yarmouth",
+      "town": "yarmouth",
+      "lat": 41.6669123,
+      "lng": -70.1852228
     },
     "categories": [
       "food",
-      "community"
-    ],
-    "tags": {
-      "free": true,
-      "kids": false,
-      "seniors": false,
-      "outdoor": false,
-      "byBoat": false
-    },
-    "priceText": "Free",
-    "url": "https://nearshoreadventures.com",
-    "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
-    },
-    "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
-  },
-  {
-    "id": "f1b48e5b08c1",
-    "slug": "story-time-at-sturgis-library-2026-10-22-f1b4",
-    "title": "Story Time at Sturgis Library",
-    "summary": "Picture books, songs and a craft for little ones ages 2 to 5.",
-    "start": "2026-10-22T14:30:00.000Z",
-    "end": "2026-10-22T15:15:00.000Z",
-    "allDay": false,
-    "venue": {
-      "name": "Sturgis Library",
-      "town": "barnstable",
-      "lat": 41.6558,
-      "lng": -70.2848
-    },
-    "categories": [
-      "family"
-    ],
-    "tags": {
-      "free": true,
-      "kids": true,
-      "seniors": false,
-      "outdoor": false,
-      "byBoat": false
-    },
-    "priceText": "Free",
-    "url": "https://nearshoreadventures.com",
-    "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
-    },
-    "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
-  },
-  {
-    "id": "3f9ee734fab5",
-    "slug": "open-mic-night-2026-10-22-3f9e",
-    "title": "Open Mic Night",
-    "summary": "Local songwriters and first-timers share the stage. Sign-ups start at 6:30.",
-    "start": "2026-10-22T23:00:00.000Z",
-    "end": "2026-10-23T02:00:00.000Z",
-    "allDay": false,
-    "venue": {
-      "name": "Harbor Glen Pub",
-      "town": "dennis",
-      "lat": 41.739,
-      "lng": -70.1962
-    },
-    "categories": [
-      "music"
-    ],
-    "tags": {
-      "free": true,
-      "kids": false,
-      "seniors": false,
-      "outdoor": false,
-      "byBoat": false
-    },
-    "priceText": "Free",
-    "url": "https://nearshoreadventures.com",
-    "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
-    },
-    "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
-  },
-  {
-    "id": "44ed39cffd0b",
-    "slug": "memory-caf-2026-10-23-44ed",
-    "title": "Memory Café",
-    "summary": "A relaxed social hour with music and coffee for people living with memory loss and their care partners.",
-    "start": "2026-10-23T17:00:00.000Z",
-    "end": "2026-10-23T18:30:00.000Z",
-    "allDay": false,
-    "venue": {
-      "name": "Falmouth Senior Center",
-      "town": "falmouth",
-      "lat": 41.551,
-      "lng": -70.6161
-    },
-    "categories": [
-      "seniors",
-      "community"
-    ],
-    "tags": {
-      "free": true,
-      "kids": false,
-      "seniors": true,
-      "outdoor": false,
-      "byBoat": false
-    },
-    "priceText": "Free",
-    "url": "https://nearshoreadventures.com",
-    "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
-    },
-    "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
-  },
-  {
-    "id": "28c7a5457956",
-    "slug": "cape-cinema-classic-film-night-2026-10-23-28c7",
-    "title": "Cape Cinema: Classic Film Night",
-    "summary": "A big-screen showing of a black-and-white classic under the cinema's famous ceiling mural.",
-    "start": "2026-10-23T23:00:00.000Z",
-    "end": "2026-10-24T01:00:00.000Z",
-    "allDay": false,
-    "venue": {
-      "name": "Cape Cinema",
-      "town": "dennis",
-      "lat": 41.7343,
-      "lng": -70.1908
-    },
-    "categories": [
-      "theater"
-    ],
-    "tags": {
-      "free": false,
-      "kids": false,
-      "seniors": false,
-      "outdoor": false,
-      "byBoat": false
-    },
-    "priceText": "$14",
-    "url": "https://nearshoreadventures.com",
-    "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
-    },
-    "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
-  },
-  {
-    "id": "7650e623ebaf",
-    "slug": "orleans-winter-farmers-market-2026-10-24-7650",
-    "title": "Orleans Winter Farmers Market",
-    "summary": "Local farms, bakers, fishermen and makers, every Saturday morning all winter.",
-    "start": "2026-10-24T13:00:00.000Z",
-    "end": "2026-10-24T16:00:00.000Z",
-    "allDay": false,
-    "venue": {
-      "name": "Nauset Regional Middle School",
-      "town": "orleans",
-      "lat": 41.7936,
-      "lng": -69.9914
-    },
-    "categories": [
-      "markets",
-      "food"
-    ],
-    "tags": {
-      "free": true,
-      "kids": false,
-      "seniors": false,
-      "outdoor": false,
-      "byBoat": false
-    },
-    "priceText": "Free",
-    "url": "https://nearshoreadventures.com",
-    "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
-    },
-    "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
-  },
-  {
-    "id": "7ca21f9f4de1",
-    "slug": "beach-cleanup-at-nauset-2026-10-24-7ca2",
-    "title": "Beach Cleanup at Nauset",
-    "summary": "Grab a bag and a buddy and help keep the Seashore clean. Gloves provided.",
-    "start": "2026-10-24T13:00:00.000Z",
-    "end": "2026-10-24T15:00:00.000Z",
-    "allDay": false,
-    "venue": {
-      "name": "Nauset Light Beach",
-      "town": "eastham",
-      "lat": 41.8257,
-      "lng": -69.974
-    },
-    "categories": [
-      "outdoors",
-      "community"
-    ],
-    "tags": {
-      "free": true,
-      "kids": true,
-      "seniors": false,
-      "outdoor": true,
-      "byBoat": false
-    },
-    "priceText": "Free",
-    "url": "https://nearshoreadventures.com",
-    "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
-    },
-    "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
-  },
-  {
-    "id": "df1b37c299d6",
-    "slug": "harvest-moon-paddle-on-pleasant-bay-2026-10-24-df1b",
-    "title": "Harvest Moon Paddle on Pleasant Bay",
-    "summary": "A guided sunset kayak paddle under the full moon. Boats and gear included, no experience needed.",
-    "start": "2026-10-24T21:30:00.000Z",
-    "end": "2026-10-24T23:30:00.000Z",
-    "allDay": false,
-    "venue": {
-      "name": "Meetinghouse Pond Landing",
-      "town": "orleans",
-      "lat": 41.7863,
-      "lng": -69.9904
-    },
-    "categories": [
-      "water",
-      "outdoors"
-    ],
-    "tags": {
-      "free": false,
-      "kids": false,
-      "seniors": false,
-      "outdoor": true,
-      "byBoat": true
-    },
-    "priceText": "$65",
-    "url": "https://nearshoreadventures.com",
-    "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
-    },
-    "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
-  },
-  {
-    "id": "d7b11e7b0402",
-    "slug": "seal-walk-at-race-point-2026-10-25-d7b1",
-    "title": "Seal Walk at Race Point",
-    "summary": "Walk the beach with a ranger to spot gray seals and learn how they live off the Outer Cape.",
-    "start": "2026-10-25T14:00:00.000Z",
-    "end": "2026-10-25T15:30:00.000Z",
-    "allDay": false,
-    "venue": {
-      "name": "Race Point Beach",
-      "town": "provincetown",
-      "lat": 42.049,
-      "lng": -70.1879
-    },
-    "categories": [
-      "outdoors",
-      "water"
-    ],
-    "tags": {
-      "free": true,
-      "kids": true,
-      "seniors": false,
-      "outdoor": true,
-      "byBoat": false
-    },
-    "priceText": "Free",
-    "url": "https://nearshoreadventures.com",
-    "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
-    },
-    "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
-  },
-  {
-    "id": "319666bac7dd",
-    "slug": "cape-symphony-fall-classics-2026-10-25-3196",
-    "title": "Cape Symphony: Fall Classics",
-    "summary": "The Cape Symphony plays Beethoven and Dvořák in its fall season opener.",
-    "start": "2026-10-25T19:00:00.000Z",
-    "end": "2026-10-25T21:00:00.000Z",
-    "allDay": false,
-    "venue": {
-      "name": "Barnstable Performing Arts Center",
-      "town": "barnstable",
-      "lat": 41.6576,
-      "lng": -70.2832
-    },
-    "categories": [
-      "music"
-    ],
-    "tags": {
-      "free": false,
-      "kids": false,
-      "seniors": false,
-      "outdoor": false,
-      "byBoat": false
-    },
-    "priceText": "$25–$85",
-    "url": "https://nearshoreadventures.com",
-    "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
-    },
-    "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
-  },
-  {
-    "id": "a47106b41936",
-    "slug": "senior-tai-chi-2026-10-27-a471",
-    "title": "Senior Tai Chi",
-    "summary": "Gentle, low-impact tai chi for balance and flexibility. Drop-ins welcome.",
-    "start": "2026-10-27T13:30:00.000Z",
-    "end": "2026-10-27T14:30:00.000Z",
-    "allDay": false,
-    "venue": {
-      "name": "Brewster Council on Aging",
-      "town": "brewster",
-      "lat": 41.7648,
-      "lng": -70.085
-    },
-    "categories": [
-      "seniors",
       "classes"
-    ],
-    "tags": {
-      "free": true,
-      "kids": false,
-      "seniors": true,
-      "outdoor": false,
-      "byBoat": false
-    },
-    "priceText": "Free",
-    "url": "https://nearshoreadventures.com",
-    "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
-    },
-    "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
-  },
-  {
-    "id": "bff4f136d634",
-    "slug": "bird-walk-at-wellfleet-bay-2026-10-28-bff4",
-    "title": "Bird Walk at Wellfleet Bay",
-    "summary": "Fall migration is in full swing. Bring binoculars and join a naturalist on the trails.",
-    "start": "2026-10-28T12:00:00.000Z",
-    "end": "2026-10-28T14:00:00.000Z",
-    "allDay": false,
-    "venue": {
-      "name": "Mass Audubon Wellfleet Bay Wildlife Sanctuary",
-      "town": "wellfleet",
-      "lat": 41.9361,
-      "lng": -70.0295
-    },
-    "categories": [
-      "outdoors"
-    ],
-    "tags": {
-      "free": false,
-      "kids": false,
-      "seniors": false,
-      "outdoor": true,
-      "byBoat": false
-    },
-    "priceText": "$12",
-    "url": "https://nearshoreadventures.com",
-    "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
-    },
-    "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
-  },
-  {
-    "id": "922c4d2a042b",
-    "slug": "story-time-at-sturgis-library-2026-10-29-922c",
-    "title": "Story Time at Sturgis Library",
-    "summary": "Picture books, songs and a craft for little ones ages 2 to 5.",
-    "start": "2026-10-29T14:30:00.000Z",
-    "end": "2026-10-29T15:15:00.000Z",
-    "allDay": false,
-    "venue": {
-      "name": "Sturgis Library",
-      "town": "barnstable",
-      "lat": 41.6502,
-      "lng": -70.2839
-    },
-    "categories": [
-      "family"
-    ],
-    "tags": {
-      "free": true,
-      "kids": true,
-      "seniors": false,
-      "outdoor": false,
-      "byBoat": false
-    },
-    "priceText": "Free",
-    "url": "https://nearshoreadventures.com",
-    "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
-    },
-    "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
-  },
-  {
-    "id": "be66aae5ee30",
-    "slug": "wine-tasting-at-truro-vineyards-2026-10-30-be66",
-    "title": "Wine Tasting at Truro Vineyards",
-    "summary": "Taste the fall releases and South Hollow spirits by the fire.",
-    "start": "2026-10-30T20:00:00.000Z",
-    "end": "2026-10-30T22:00:00.000Z",
-    "allDay": false,
-    "venue": {
-      "name": "Truro Vineyards",
-      "town": "truro",
-      "lat": 41.9924,
-      "lng": -70.0467
-    },
-    "categories": [
-      "food"
     ],
     "tags": {
       "free": false,
@@ -721,474 +723,73 @@
       "byBoat": false
     },
     "priceText": "$25",
-    "url": "https://nearshoreadventures.com",
+    "url": "https://booking.attractionsuite.com/Attraction/ec/selectTourCountAndCategory.action?tourNo=VH100773&#038;checkDate=10/24/2026&#038;sid=eWEcJDZ3ZY8&#038;pageFrom=MonthlyTourCalendar&#038;calendarType=PrimaryCalendar&#038;filterTourNo=&#038;filterProductTypeId=",
+    "ticketUrl": "https://booking.attractionsuite.com/Attraction/ec/selectTourCountAndCategory.action?tourNo=VH100773&#038;checkDate=10/24/2026&#038;sid=eWEcJDZ3ZY8&#038;pageFrom=MonthlyTourCalendar&#038;calendarType=PrimaryCalendar&#038;filterTourNo=&#038;filterProductTypeId=",
+    "image": "https://yarmouthcapecod.com/wp-content/uploads/2026/10/square-Flavors-of-the-Land-oct.-24.png",
     "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
+      "id": "yarmouth-chamber",
+      "name": "Yarmouth Chamber of Commerce",
+      "url": "https://www.yarmouthcapecod.com/events/"
     },
     "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
   },
   {
-    "id": "1f03bea26ad9",
-    "slug": "hyannis-main-street-halloween-stroll-2026-10-31-1f03",
-    "title": "Hyannis Main Street Halloween Stroll",
-    "summary": "Kids in costume trick-or-treat at shops up and down Main Street. Free and family-friendly.",
-    "start": "2026-10-31T15:00:00.000Z",
-    "end": "2026-10-31T18:00:00.000Z",
+    "id": "c5b504d58934",
+    "slug": "roots-a-farm-to-circus-show-2026-10-24-c5b5",
+    "title": "Roots: A Farm to Circus Show",
+    "summary": "",
+    "start": "2026-10-24T17:00:00.000Z",
+    "end": "2026-10-24T18:00:00.000Z",
     "allDay": false,
     "venue": {
-      "name": "Main Street, Hyannis",
-      "town": "barnstable",
-      "lat": 41.6521,
-      "lng": -70.2869
+      "name": "Tony Andrews Farm in E. Falmouth",
+      "address": "394 Old Meeting House Rd,, East Falmouth",
+      "town": "falmouth",
+      "lat": 41.5978087,
+      "lng": -70.564181
     },
     "categories": [
-      "family",
-      "community"
-    ],
-    "tags": {
-      "free": true,
-      "kids": true,
-      "seniors": false,
-      "outdoor": true,
-      "byBoat": false
-    },
-    "priceText": "Free",
-    "url": "https://nearshoreadventures.com",
-    "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
-    },
-    "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
-  },
-  {
-    "id": "c016c33c9540",
-    "slug": "provincetown-halloween-on-commercial-street-2026-10-31-c016",
-    "title": "Provincetown Halloween on Commercial Street",
-    "summary": "P-town goes all out. Costume parade, street performers and parties along Commercial Street.",
-    "start": "2026-10-31T23:00:00.000Z",
-    "end": "2026-11-01T03:00:00.000Z",
-    "allDay": false,
-    "venue": {
-      "name": "Commercial Street",
-      "town": "provincetown",
-      "lat": 42.0547,
-      "lng": -70.1826
-    },
-    "categories": [
-      "festivals",
+      "music",
       "theater"
     ],
     "tags": {
-      "free": true,
-      "kids": false,
-      "seniors": false,
-      "outdoor": true,
-      "byBoat": true
-    },
-    "priceText": "Free",
-    "url": "https://nearshoreadventures.com",
-    "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
-    },
-    "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
-  },
-  {
-    "id": "edfaf134c7d5",
-    "slug": "pottery-wheel-intro-2026-11-02-edfa",
-    "title": "Pottery Wheel Intro",
-    "summary": "Get your hands muddy. A first try at the wheel, with firing and glazing included.",
-    "start": "2026-11-02T23:00:00.000Z",
-    "end": "2026-11-03T01:00:00.000Z",
-    "allDay": false,
-    "venue": {
-      "name": "Creative Arts Center",
-      "town": "chatham",
-      "lat": 41.6793,
-      "lng": -69.9572
-    },
-    "categories": [
-      "classes",
-      "arts"
-    ],
-    "tags": {
       "free": false,
       "kids": false,
       "seniors": false,
       "outdoor": false,
       "byBoat": false
     },
-    "priceText": "$60",
-    "url": "https://nearshoreadventures.com",
+    "url": "https://payomet.org/calendar/roots-a-farm-to-circus-show/",
+    "ticketUrl": "https://tickets.payomet.org/roots-farm-circus-show",
+    "image": "https://payomet.org/wp-content/uploads/2026/08/Roots-A-Farm-to-Circus-Show-1.webp",
     "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
+      "id": "payomet",
+      "name": "Payomet Performing Arts Center",
+      "url": "https://payomet.org/events/"
     },
     "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
   },
   {
-    "id": "d64aa44f19db",
-    "slug": "brewster-ladies-library-author-talk-2026-11-04-d64a",
-    "title": "Brewster Ladies' Library Author Talk",
-    "summary": "A Cape author talks about her new novel set on the bay, with a signing after.",
-    "start": "2026-11-04T23:00:00.000Z",
-    "end": "2026-11-05T00:30:00.000Z",
+    "id": "3ec233abc756",
+    "slug": "professional-pie-baking-with-kate-rickard-2026-10-25-3ec2",
+    "title": "Professional Pie Baking with Kate Rickard",
+    "summary": "Register Now Join Culinary Director Kate Rickard for a delicious and technique rich pie class celebrating two standout favorites of the season.",
+    "start": "2026-10-25T16:00:00.000Z",
+    "end": "2026-10-25T18:00:00.000Z",
     "allDay": false,
     "venue": {
-      "name": "Brewster Ladies' Library",
-      "town": "brewster",
-      "lat": 41.7609,
-      "lng": -70.085
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
     },
     "categories": [
       "arts",
-      "community"
-    ],
-    "tags": {
-      "free": true,
-      "kids": false,
-      "seniors": true,
-      "outdoor": false,
-      "byBoat": false
-    },
-    "priceText": "Free",
-    "url": "https://nearshoreadventures.com",
-    "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
-    },
-    "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
-  },
-  {
-    "id": "bdbd962adf63",
-    "slug": "payomet-indoor-concert-series-2026-11-07-bdbd",
-    "title": "Payomet Indoor Concert Series",
-    "summary": "An intimate folk and Americana show in Payomet's cozy winter space.",
-    "start": "2026-11-07T00:30:00.000Z",
-    "end": "2026-11-07T02:30:00.000Z",
-    "allDay": false,
-    "venue": {
-      "name": "Payomet Performing Arts Center",
-      "town": "truro",
-      "lat": 41.9955,
-      "lng": -70.0468
-    },
-    "categories": [
-      "music"
-    ],
-    "tags": {
-      "free": false,
-      "kids": false,
-      "seniors": false,
-      "outdoor": false,
-      "byBoat": false
-    },
-    "priceText": "$30",
-    "url": "https://nearshoreadventures.com",
-    "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
-    },
-    "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
-  },
-  {
-    "id": "a7fef3f06b9a",
-    "slug": "orleans-winter-farmers-market-2026-11-07-a7fe",
-    "title": "Orleans Winter Farmers Market",
-    "summary": "Local farms, bakers, fishermen and makers, every Saturday morning all winter.",
-    "start": "2026-11-07T14:00:00.000Z",
-    "end": "2026-11-07T17:00:00.000Z",
-    "allDay": false,
-    "venue": {
-      "name": "Nauset Regional Middle School",
-      "town": "orleans",
-      "lat": 41.7854,
-      "lng": -69.9915
-    },
-    "categories": [
-      "markets",
-      "food"
-    ],
-    "tags": {
-      "free": true,
-      "kids": false,
-      "seniors": false,
-      "outdoor": false,
-      "byBoat": false
-    },
-    "priceText": "Free",
-    "url": "https://nearshoreadventures.com",
-    "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
-    },
-    "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
-  },
-  {
-    "id": "358dca8a1353",
-    "slug": "clam-chowder-cook-off-2026-11-08-358d",
-    "title": "Clam Chowder Cook-Off",
-    "summary": "Local restaurants compete for the best chowder on the Cape. You get to be the judge.",
-    "start": "2026-11-08T17:00:00.000Z",
-    "end": "2026-11-08T20:00:00.000Z",
-    "allDay": false,
-    "venue": {
-      "name": "Yarmouth Senior Center",
-      "town": "yarmouth",
-      "lat": 41.7016,
-      "lng": -70.2329
-    },
-    "categories": [
-      "food",
-      "community"
-    ],
-    "tags": {
-      "free": false,
-      "kids": false,
-      "seniors": true,
-      "outdoor": false,
-      "byBoat": false
-    },
-    "priceText": "$15",
-    "url": "https://nearshoreadventures.com",
-    "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
-    },
-    "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
-  },
-  {
-    "id": "75a46492f6bd",
-    "slug": "falmouth-art-center-holiday-show-opening-2026-11-13-75a4",
-    "title": "Falmouth Art Center Holiday Show Opening",
-    "summary": "Opening reception for the annual members' holiday show. Small works, perfect for gifts.",
-    "start": "2026-11-13T22:00:00.000Z",
-    "end": "2026-11-14T00:00:00.000Z",
-    "allDay": false,
-    "venue": {
-      "name": "Falmouth Art Center",
-      "town": "falmouth",
-      "lat": 41.5481,
-      "lng": -70.6163
-    },
-    "categories": [
-      "arts"
-    ],
-    "tags": {
-      "free": true,
-      "kids": false,
-      "seniors": false,
-      "outdoor": false,
-      "byBoat": false
-    },
-    "priceText": "Free",
-    "url": "https://nearshoreadventures.com",
-    "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
-    },
-    "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
-  },
-  {
-    "id": "4f106118ee09",
-    "slug": "orleans-winter-farmers-market-2026-11-14-4f10",
-    "title": "Orleans Winter Farmers Market",
-    "summary": "Local farms, bakers, fishermen and makers, every Saturday morning all winter.",
-    "start": "2026-11-14T14:00:00.000Z",
-    "end": "2026-11-14T17:00:00.000Z",
-    "allDay": false,
-    "venue": {
-      "name": "Nauset Regional Middle School",
-      "town": "orleans",
-      "lat": 41.7888,
-      "lng": -69.9892
-    },
-    "categories": [
-      "markets",
-      "food"
-    ],
-    "tags": {
-      "free": true,
-      "kids": false,
-      "seniors": false,
-      "outdoor": false,
-      "byBoat": false
-    },
-    "priceText": "Free",
-    "url": "https://nearshoreadventures.com",
-    "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
-    },
-    "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
-  },
-  {
-    "id": "28fd8361a506",
-    "slug": "pilgrim-monument-lighting-2026-11-25-28fd",
-    "title": "Pilgrim Monument Lighting",
-    "summary": "The monument lights up for the holidays with music, cocoa and a crowd of locals.",
-    "start": "2026-11-25T22:00:00.000Z",
-    "end": "2026-11-26T00:00:00.000Z",
-    "allDay": false,
-    "venue": {
-      "name": "Pilgrim Monument",
-      "town": "provincetown",
-      "lat": 42.0566,
-      "lng": -70.1829
-    },
-    "categories": [
-      "festivals",
-      "community"
-    ],
-    "tags": {
-      "free": true,
-      "kids": true,
-      "seniors": false,
-      "outdoor": true,
-      "byBoat": true
-    },
-    "priceText": "Free",
-    "url": "https://nearshoreadventures.com",
-    "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
-    },
-    "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
-  },
-  {
-    "id": "ff24ad65a074",
-    "slug": "turkey-trot-5k-2026-11-26-ff24",
-    "title": "Turkey Trot 5K",
-    "summary": "Run or walk off the pie before it happens. Proceeds go to the local food pantry.",
-    "start": "2026-11-26T13:00:00.000Z",
-    "end": "2026-11-26T15:00:00.000Z",
-    "allDay": false,
-    "venue": {
-      "name": "Sandwich High School",
-      "town": "sandwich",
-      "lat": 41.7556,
-      "lng": -70.4979
-    },
-    "categories": [
-      "outdoors",
-      "community"
-    ],
-    "tags": {
-      "free": false,
-      "kids": true,
-      "seniors": false,
-      "outdoor": true,
-      "byBoat": false
-    },
-    "priceText": "$30",
-    "url": "https://nearshoreadventures.com",
-    "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
-    },
-    "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
-  },
-  {
-    "id": "59a358ca959e",
-    "slug": "mashpee-commons-tree-lighting-2026-11-28-59a3",
-    "title": "Mashpee Commons Tree Lighting",
-    "summary": "Carols, cocoa and the big tree lighting in the Commons.",
-    "start": "2026-11-28T22:00:00.000Z",
-    "end": "2026-11-28T23:30:00.000Z",
-    "allDay": false,
-    "venue": {
-      "name": "Mashpee Commons",
-      "town": "mashpee",
-      "lat": 41.6481,
-      "lng": -70.4782
-    },
-    "categories": [
-      "community",
-      "family"
-    ],
-    "tags": {
-      "free": true,
-      "kids": true,
-      "seniors": false,
-      "outdoor": true,
-      "byBoat": false
-    },
-    "priceText": "Free",
-    "url": "https://nearshoreadventures.com",
-    "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
-    },
-    "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
-  },
-  {
-    "id": "9ffeae876a03",
-    "slug": "wreath-making-workshop-2026-12-02-9ffe",
-    "title": "Wreath-Making Workshop",
-    "summary": "Build a fresh evergreen wreath with natural materials from the gardens. Bring clippers.",
-    "start": "2026-12-02T18:00:00.000Z",
-    "end": "2026-12-02T20:30:00.000Z",
-    "allDay": false,
-    "venue": {
-      "name": "Heritage Museums & Gardens",
-      "town": "sandwich",
-      "lat": 41.7598,
-      "lng": -70.497
-    },
-    "categories": [
       "classes"
     ],
     "tags": {
@@ -1198,31 +799,187 @@
       "outdoor": false,
       "byBoat": false
     },
-    "priceText": "$75",
-    "url": "https://nearshoreadventures.com",
+    "priceText": "$75 – $85",
+    "url": "https://highfieldhallandgardens.org/event/pie-baking-2026/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/10-25-26-pie-baking-frame-2.jpg",
     "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
     },
     "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
   },
   {
-    "id": "737014a7eb95",
-    "slug": "christmas-in-sandwich-2026-12-04-7370",
-    "title": "Christmas in Sandwich",
-    "summary": "A weekend of tree lightings, open houses, caroling and festive shops in the Cape's oldest town.",
-    "start": "2026-12-04T05:00:00.000Z",
-    "end": "2026-12-06T05:00:00.000Z",
-    "allDay": true,
+    "id": "c6978f6d511b",
+    "slug": "yarmouth-port-library-s-spaghetti-supper-2026-10-25-c697",
+    "title": "Yarmouth Port Library’s Spaghetti Supper",
+    "summary": "The Yarmouth Port Library's Spaghetti Supper at Jack's Outback II Sunday, October 25th Two Seatings 5:00 & 6:30 PM Space is limited. No reservations accepted.",
+    "start": "2026-10-25T17:00:00.000Z",
+    "end": "2026-10-25T18:30:00.000Z",
+    "allDay": false,
     "venue": {
-      "name": "Sandwich Village",
-      "town": "sandwich",
-      "lat": 41.7592,
-      "lng": -70.4959
+      "name": "Yarmouth Port Library",
+      "address": "297 Main St (Rte 6A), Yarmouth Port, MA",
+      "town": "yarmouth",
+      "lat": 41.707752,
+      "lng": -70.2301
+    },
+    "categories": [
+      "community",
+      "food"
+    ],
+    "tags": {
+      "free": true,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "Free",
+    "url": "https://yarmouthcapecod.com/events/yarmouth-port-librarys-spaghetti-supper/",
+    "ticketUrl": "https://yarmouthcapecod.com/events/yarmouth-port-librarys-spaghetti-supper/",
+    "image": "",
+    "source": {
+      "id": "yarmouth-chamber",
+      "name": "Yarmouth Chamber of Commerce",
+      "url": "https://www.yarmouthcapecod.com/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "295847a4f37e",
+    "slug": "roots-a-farm-to-circus-show-2026-10-25-2958",
+    "title": "Roots: A Farm to Circus Show",
+    "summary": "",
+    "start": "2026-10-25T17:00:00.000Z",
+    "end": "2026-10-25T18:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Tony Andrews Farm in E. Falmouth",
+      "address": "394 Old Meeting House Rd,, East Falmouth",
+      "town": "falmouth",
+      "lat": 41.5978087,
+      "lng": -70.564181
+    },
+    "categories": [
+      "music",
+      "theater"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "url": "https://payomet.org/calendar/roots-a-farm-to-circus-show-2/",
+    "ticketUrl": "https://tickets.payomet.org/roots-farm-circus-show",
+    "image": "https://payomet.org/wp-content/uploads/2026/08/Roots-A-Farm-to-Circus-Show-1.webp",
+    "source": {
+      "id": "payomet",
+      "name": "Payomet Performing Arts Center",
+      "url": "https://payomet.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "b7154dd2fb72",
+    "slug": "senior-center-book-group-buckeye-2026-10-27-b715",
+    "title": "Senior Center Book Group: Buckeye",
+    "summary": "Senior Center Book Group: Buckeye Tuesday, October 27, 2:00 p.m. Yarmouth Senior Center, Solarium Patrick Ryan’s Buckeye [ https://yarmouth-town.clamsnet.org/GroupedWork/ca10Senior 820a-1ddd-0ad7-941c-7c138d6e2229-eng ]…",
+    "start": "2026-10-27T14:00:00.000Z",
+    "end": "2026-10-27T15:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Yarmouth Senior Center",
+      "address": "528 Forest Rd",
+      "town": "yarmouth",
+      "lat": 41.6825916,
+      "lng": -70.2172747
+    },
+    "categories": [
+      "community",
+      "seniors"
+    ],
+    "tags": {
+      "free": true,
+      "kids": false,
+      "seniors": true,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "Free",
+    "url": "https://yarmouthcapecod.com/events/senior-center-book-group-buckeye/",
+    "ticketUrl": "https://yarmouthcapecod.com/events/senior-center-book-group-buckeye/",
+    "image": "https://yarmouthcapecod.com/wp-content/uploads/2026/09/October-2026-SC-Book-Club-slider.jpg",
+    "source": {
+      "id": "yarmouth-chamber",
+      "name": "Yarmouth Chamber of Commerce",
+      "url": "https://www.yarmouthcapecod.com/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "1dcf7234d529",
+    "slug": "meet-the-dogs-cap-2026-10-27-1dcf",
+    "title": "Meet the Dogs: CAP",
+    "summary": "Meet the Dogs: CAP Thursday, October 22, 3:00 - 4:00 p.m. South Yarmouth Library CAP (Companion Animal Program) is a recognized leader in the field of pet therapy work and has been serving Cape Cod for more than 35…",
+    "start": "2026-10-27T15:00:00.000Z",
+    "end": "2026-10-27T16:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "South Yarmouth Library",
+      "address": "312 Old Main St, South Yarmouth, MA 02664",
+      "town": "yarmouth",
+      "lat": 41.6660742,
+      "lng": -70.1859771
+    },
+    "categories": [
+      "classes",
+      "community"
+    ],
+    "tags": {
+      "free": true,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "Free",
+    "url": "https://yarmouthcapecod.com/events/meet-the-dogs-cap/",
+    "ticketUrl": "https://yarmouthcapecod.com/events/meet-the-dogs-cap/",
+    "image": "https://yarmouthcapecod.com/wp-content/uploads/2026/09/October-Companion-Animal-slider.jpg",
+    "source": {
+      "id": "yarmouth-chamber",
+      "name": "Yarmouth Chamber of Commerce",
+      "url": "https://www.yarmouthcapecod.com/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "53c45817e98a",
+    "slug": "cape-islands-regional-domestic-violence-resource-fair-2026-10-28-53c4",
+    "title": "Cape Islands Regional Domestic Violence Resource Fair",
+    "summary": "FREE COMMUNITY RESOURCE FAIR — OPEN TO EVERYONE The Cape",
+    "start": "2026-10-28T13:30:00.000Z",
+    "end": "2026-10-28T15:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Margaritaville Resort Cape Cod",
+      "address": "1225 Iyannough Road, Hyannis",
+      "town": "barnstable",
+      "lat": 41.6739608,
+      "lng": -70.3108161
     },
     "categories": [
       "festivals",
@@ -1230,150 +987,1079 @@
     ],
     "tags": {
       "free": true,
-      "kids": true,
+      "kids": false,
       "seniors": false,
       "outdoor": false,
       "byBoat": false
     },
     "priceText": "Free",
-    "url": "https://nearshoreadventures.com",
+    "url": "https://independencehouse.org/event/2026-cirdv-resource-fair/",
+    "ticketUrl": "https://independencehouse.org/event/2026-cirdv-resource-fair/",
+    "image": "https://yarmouthcapecod.com/wp-content/uploads/2026/09/flyer.jpg",
     "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
+      "id": "yarmouth-chamber",
+      "name": "Yarmouth Chamber of Commerce",
+      "url": "https://www.yarmouthcapecod.com/events/"
     },
     "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
   },
   {
-    "id": "0db4edcb1515",
-    "slug": "orleans-holiday-stroll-2026-12-05-0db4",
-    "title": "Orleans Holiday Stroll",
-    "summary": "Shopping, the tree lighting and Santa arriving at the town hall.",
-    "start": "2026-12-05T20:00:00.000Z",
-    "end": "2026-12-06T00:00:00.000Z",
-    "allDay": false,
+    "id": "4867774cdb8d",
+    "slug": "halloween-weekend-and-spooky-bear-2026-10-29-4867",
+    "title": "Halloween Weekend and Spooky Bear",
+    "summary": "Spend a frightfully fun Halloween & Spooky Bear weekend in Ptown! Thursday-Sunday, October 29-November 1, 2026 Parties, dances, a haunted house, costume ball and much more! Ptown.org",
+    "start": "2026-10-29T04:00:00.000Z",
+    "end": "2026-11-01T04:00:00.000Z",
+    "allDay": true,
     "venue": {
-      "name": "Downtown Orleans",
-      "town": "orleans",
-      "lat": 41.7856,
-      "lng": -69.9923
+      "name": "Provincetown",
+      "town": "provincetown",
+      "lat": 42.0510868,
+      "lng": -70.1860201
     },
     "categories": [
-      "community",
-      "markets"
+      "community"
     ],
     "tags": {
       "free": true,
-      "kids": true,
+      "kids": false,
       "seniors": false,
       "outdoor": false,
       "byBoat": false
     },
     "priceText": "Free",
-    "url": "https://nearshoreadventures.com",
+    "url": "https://ptownchamber.com/events/halloween-weekend-and-spooky-bear/",
+    "ticketUrl": "https://ptownchamber.com/events/halloween-weekend-and-spooky-bear/",
+    "image": "",
     "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
+      "id": "ptown-chamber",
+      "name": "Provincetown Chamber of Commerce",
+      "url": "https://ptownchamber.com/events/"
     },
     "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
   },
   {
-    "id": "a4fc9ac60705",
-    "slug": "hyannis-harbor-lighted-boat-parade-2026-12-05-a4fc",
-    "title": "Hyannis Harbor Lighted Boat Parade",
-    "summary": "Boats decked out in holiday lights parade around the inner harbor. Best views from Bismore Park.",
-    "start": "2026-12-05T22:00:00.000Z",
-    "end": "2026-12-05T23:30:00.000Z",
+    "id": "b722f8eb3daa",
+    "slug": "history-on-tap-biodiversity-on-shipwrecks-2026-10-29-b722",
+    "title": "History on Tap: Biodiversity on Shipwrecks",
+    "summary": "Take an underwater journey to explore how shipwrecks and submerged aircraft are shaping marine ecosystems. Marine biologist Dr.",
+    "start": "2026-10-29T18:00:00.000Z",
+    "end": "2026-10-29T19:30:00.000Z",
     "allDay": false,
     "venue": {
-      "name": "Hyannis Harbor",
+      "name": "Cape Cod Maritime Museum",
+      "address": "135 South Street Hyannis, Massachusetts, 02601",
       "town": "barnstable",
-      "lat": 41.6518,
-      "lng": -70.2902
+      "lat": 41.6515866,
+      "lng": -70.2794223
     },
     "categories": [
-      "water",
+      "arts",
+      "food",
+      "outdoors"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": false,
+      "outdoor": true,
+      "byBoat": false
+    },
+    "priceText": "$10",
+    "url": "https://yarmouthcapecod.com/events/history-on-tap-biodiversity-on-shipwrecks/",
+    "ticketUrl": "https://yarmouthcapecod.com/events/history-on-tap-biodiversity-on-shipwrecks/",
+    "image": "https://yarmouthcapecod.com/wp-content/uploads/2026/08/images.jpg",
+    "source": {
+      "id": "yarmouth-chamber",
+      "name": "Yarmouth Chamber of Commerce",
+      "url": "https://www.yarmouthcapecod.com/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "bf98261796c0",
+    "slug": "provincetown-food-wine-festival-2026-11-04-bf98",
+    "title": "Provincetown Food Wine Festival",
+    "summary": "Oysters & Bubbles... if you love food, this is the place and time to be! Wednesday-Sunday, November 4-8, 2026 The GRAND tasting at the Provincetown Town Hall, Prix Fixe dining, t-dance, drag brunch and drag shows, pie…",
+    "start": "2026-11-04T05:00:00.000Z",
+    "end": "2026-11-08T05:00:00.000Z",
+    "allDay": true,
+    "venue": {
+      "name": "Provincetown",
+      "town": "provincetown",
+      "lat": 42.0510868,
+      "lng": -70.1860201
+    },
+    "categories": [
+      "food",
+      "theater",
       "festivals"
     ],
     "tags": {
       "free": true,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "Free",
+    "url": "https://ptownchamber.com/events/provincetown-food-wine-festival/",
+    "ticketUrl": "https://ptownchamber.com/events/provincetown-food-wine-festival/",
+    "image": "",
+    "source": {
+      "id": "ptown-chamber",
+      "name": "Provincetown Chamber of Commerce",
+      "url": "https://ptownchamber.com/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "e909bca44c8b",
+    "slug": "hydrangea-winter-protection-strategies-workshop-2026-11-07-e909",
+    "title": "Hydrangea Winter Protection Strategies Workshop",
+    "summary": "We all love our em Hydrangea macrophylla /em plants, but they are the least cold-hardy species and often bloom poorly following a harsh Cape Cod winter.",
+    "start": "2026-11-07T05:00:00.000Z",
+    "end": "2026-11-07T05:00:00.000Z",
+    "allDay": true,
+    "venue": {
+      "name": "Heritage Museums & Gardens",
+      "address": "67 Grove Street Sandwich, MA 02563",
+      "town": "sandwich",
+      "lat": 41.7486723,
+      "lng": -70.5059897
+    },
+    "categories": [
+      "outdoors",
+      "family",
+      "classes"
+    ],
+    "tags": {
+      "free": false,
       "kids": true,
       "seniors": false,
       "outdoor": true,
-      "byBoat": true
+      "byBoat": false
     },
-    "priceText": "Free",
-    "url": "https://nearshoreadventures.com",
+    "priceText": "$3040",
+    "url": "https://heritagemuseumsandgardens.org/mecevents/hydrangea-winter-workshop/?occurrence=2026-11-07",
+    "ticketUrl": "https://heritagemuseumsandgardens.org/mecevents/hydrangea-winter-workshop/",
+    "image": "https://bunny-wp-pullzone-94pwz2rapx.b-cdn.net/wp-content/uploads/2021/02/HMG_HydrangeaFestival_HighRez_0010-scaled.jpg",
     "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
+      "id": "heritage-gardens",
+      "name": "Heritage Museums & Gardens",
+      "url": "https://heritagemuseumsandgardens.org/events/"
     },
     "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
   },
   {
-    "id": "1d6a87198346",
-    "slug": "falmouth-christmas-by-the-sea-parade-2026-12-06-1d6a",
-    "title": "Falmouth Christmas by the Sea Parade",
-    "summary": "Floats, marching bands and Santa roll down Main Street in one of the Cape's biggest parades.",
-    "start": "2026-12-06T18:00:00.000Z",
-    "end": "2026-12-06T20:00:00.000Z",
+    "id": "60d2518251c5",
+    "slug": "walter-parks-the-unlawful-assembly-2026-11-08-60d2",
+    "title": "Walter Parks The Unlawful Assembly",
+    "summary": "",
+    "start": "2026-11-08T22:00:00.000Z",
+    "end": "2026-11-09T00:30:00.000Z",
     "allDay": false,
     "venue": {
-      "name": "Main Street, Falmouth",
+      "name": "Truro",
+      "town": "truro",
+      "lat": 42.0334364,
+      "lng": -70.0953025
+    },
+    "categories": [
+      "music",
+      "theater"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "url": "https://payomet.org/calendar/walter-parks-the-unlawful-assembly-featuring-vance-gilbert/",
+    "ticketUrl": "https://tickets.payomet.org/walter-parks",
+    "image": "https://payomet.org/wp-content/uploads/2026/09/WalterParks-860x562-1.webp",
+    "source": {
+      "id": "payomet",
+      "name": "Payomet Performing Arts Center",
+      "url": "https://payomet.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "e3fcfee9109c",
+    "slug": "making-movies-2026-11-14-e3fc",
+    "title": "Making Movies",
+    "summary": "",
+    "start": "2026-11-14T00:00:00.000Z",
+    "end": "2026-11-14T02:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Wellfleet Harbor Actors Theater",
+      "address": "2357 State Highway Route 6, Wellfleet",
+      "town": "wellfleet",
+      "lat": 41.928352000000004,
+      "lng": -70.048172
+    },
+    "categories": [
+      "music",
+      "theater",
+      "water"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": true
+    },
+    "url": "https://payomet.org/calendar/making-movies-2/",
+    "ticketUrl": "https://tickets.payomet.org/making-movies",
+    "image": "https://payomet.org/wp-content/uploads/2026/10/MakingMovies-860x562-1.webp",
+    "source": {
+      "id": "payomet",
+      "name": "Payomet Performing Arts Center",
+      "url": "https://payomet.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "810e98d183e3",
+    "slug": "making-movies-2026-11-14-810e",
+    "title": "Making Movies",
+    "summary": "",
+    "start": "2026-11-14T23:00:00.000Z",
+    "end": "2026-11-15T00:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Truro",
+      "town": "truro",
+      "lat": 42.0334364,
+      "lng": -70.0953025
+    },
+    "categories": [
+      "music",
+      "theater"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "url": "https://payomet.org/calendar/making-movies/",
+    "ticketUrl": "https://tickets.payomet.org/making-movies",
+    "image": "https://payomet.org/wp-content/uploads/2026/10/MakingMovies-860x562-1.webp",
+    "source": {
+      "id": "payomet",
+      "name": "Payomet Performing Arts Center",
+      "url": "https://payomet.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "c628e21e2577",
+    "slug": "twas-the-night-before-christmas-life-above-below-stairs-2026-11-19-c628",
+    "title": "’Twas the Night Before Christmas: Life Above Below Stairs",
+    "summary": "Register Now Celebrating 20 years of holiday magic at Highfield Hall & Gardens. This year’s Holidays at Highfield exhibition, ’Twas the Night Before Christmas: Life Above & Below Stairs , invites visitors to experience…",
+    "start": "2026-11-19T15:00:00.000Z",
+    "end": "2026-11-19T21:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
       "town": "falmouth",
-      "lat": 41.5495,
-      "lng": -70.614
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "family",
+      "classes"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$20 – $25",
+    "url": "https://highfieldhallandgardens.org/event/holidays-at-highfield-11-19-26/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/Holidays-at-Highfield-2026-5x7-1.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "d35acdafe9b0",
+    "slug": "new-england-leather-weekend-2026-11-20-d35a",
+    "title": "New England Leather Weekend",
+    "summary": "Step up and enter! Friday-Sunday, November 20-22, 2026 Will you be New England Leather 2027? Well, here is your chance! We are currently accepting applications.",
+    "start": "2026-11-20T05:00:00.000Z",
+    "end": "2026-11-22T05:00:00.000Z",
+    "allDay": true,
+    "venue": {
+      "name": "Provincetown",
+      "town": "provincetown",
+      "lat": 42.0510868,
+      "lng": -70.1860201
+    },
+    "categories": [
+      "community"
+    ],
+    "tags": {
+      "free": true,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "Free",
+    "url": "https://ptownchamber.com/events/new-england-leather-weekend/",
+    "ticketUrl": "https://ptownchamber.com/events/new-england-leather-weekend/",
+    "image": "",
+    "source": {
+      "id": "ptown-chamber",
+      "name": "Provincetown Chamber of Commerce",
+      "url": "https://ptownchamber.com/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "94f1a4208220",
+    "slug": "the-canteen-holiday-market-2026-11-20-94f1",
+    "title": "The Canteen Holiday Market",
+    "summary": "Welcome to the Canteen Holiday Market! Friday-Thursday, November 27, 2026-December 31, 2026 Starting the day after Thanksgiving and running every weekend to New Years, the Canteen transforms into a magical, cozy place…",
+    "start": "2026-11-20T05:00:00.000Z",
+    "end": "2026-12-31T05:00:00.000Z",
+    "allDay": true,
+    "venue": {
+      "name": "Provincetown",
+      "town": "provincetown",
+      "lat": 42.0510868,
+      "lng": -70.1860201
+    },
+    "categories": [
+      "markets",
+      "food"
+    ],
+    "tags": {
+      "free": true,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "Free",
+    "url": "https://ptownchamber.com/events/the-canteen-holiday-market-2/",
+    "ticketUrl": "https://ptownchamber.com/events/the-canteen-holiday-market-2/",
+    "image": "",
+    "source": {
+      "id": "ptown-chamber",
+      "name": "Provincetown Chamber of Commerce",
+      "url": "https://ptownchamber.com/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "0095dce508c4",
+    "slug": "twas-the-night-before-christmas-life-above-below-stairs-2026-11-20-0095",
+    "title": "’Twas the Night Before Christmas: Life Above Below Stairs",
+    "summary": "Register Now Celebrating 20 years of holiday magic at Highfield Hall & Gardens. This year’s Holidays at Highfield exhibition, ’Twas the Night Before Christmas: Life Above & Below Stairs , invites visitors to experience…",
+    "start": "2026-11-20T15:00:00.000Z",
+    "end": "2026-11-20T21:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "family",
+      "classes"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$20 – $25",
+    "url": "https://highfieldhallandgardens.org/event/holidays-at-highfield-11-20-26/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/Holidays-at-Highfield-2026-5x7-1.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "76f82012a790",
+    "slug": "twilight-hours-holidays-at-highfield-after-dark-2026-11-20-76f8",
+    "title": "Twilight Hours: Holidays at Highfield After Dark",
+    "summary": "Register Now Celebrating 20 years of holiday magic at Highfield Hall & Gardens. As dusk settles and the mansion begins to glow, experience ’Twas the Night Before Christmas: Life Above & Below Stairs after hours at…",
+    "start": "2026-11-20T21:30:00.000Z",
+    "end": "2026-11-20T23:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "music",
+      "festivals"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$35",
+    "url": "https://highfieldhallandgardens.org/event/twilight-hours-11-20-26/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/Holidays-at-Highfield-2026-5x7-1.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "e41b6d0c2b14",
+    "slug": "twas-the-night-before-christmas-life-above-below-stairs-2026-11-21-e41b",
+    "title": "’Twas the Night Before Christmas: Life Above Below Stairs",
+    "summary": "Register Now Celebrating 20 years of holiday magic at Highfield Hall & Gardens. This year’s Holidays at Highfield exhibition, ’Twas the Night Before Christmas: Life Above & Below Stairs , invites visitors to experience…",
+    "start": "2026-11-21T15:00:00.000Z",
+    "end": "2026-11-21T21:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "family",
+      "classes"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$20 – $25",
+    "url": "https://highfieldhallandgardens.org/event/holidays-at-highfield-11-21-26/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/Holidays-at-Highfield-2026-5x7-1.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "9629cc4a093b",
+    "slug": "thanksgiving-classics-with-kate-rickard-2026-11-21-9629",
+    "title": "Thanksgiving Classics with Kate Rickard",
+    "summary": "Register Now Highfield Hall invites you to kick off the holiday season with a cozy, flavor packed Thanksgiving Classics Cooking Class led by Culinary Director Kate Rickard.",
+    "start": "2026-11-21T17:00:00.000Z",
+    "end": "2026-11-21T19:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "classes",
+      "food"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$90 – $100",
+    "url": "https://highfieldhallandgardens.org/event/thanksgiving-classics-2026/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/11-21-26-thanksgiving-classics-frame.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "a8fe9eb179ab",
+    "slug": "the-servants-tour-of-holidays-at-highfield-2026-11-22-a8fe",
+    "title": "The Servants’ Tour of Holidays at Highfield",
+    "summary": "Register Now Experience Holidays at Highfield with a guided tour of the ’Twas the Night Before Christmas: Life Above & Below Stairs .",
+    "start": "2026-11-22T14:00:00.000Z",
+    "end": "2026-11-22T15:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "classes"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": false,
+      "outdoor": true,
+      "byBoat": false
+    },
+    "priceText": "$40 – $45",
+    "url": "https://highfieldhallandgardens.org/event/the-servants-tour-11-22-26/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/Holidays-at-Highfield-5x7-Servants-Tour.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "d918a4662aaf",
+    "slug": "twas-the-night-before-christmas-life-above-below-stairs-2026-11-22-d918",
+    "title": "’Twas the Night Before Christmas: Life Above Below Stairs",
+    "summary": "Register Now Celebrating 20 years of holiday magic at Highfield Hall & Gardens. This year’s Holidays at Highfield exhibition, ’Twas the Night Before Christmas: Life Above & Below Stairs , invites visitors to experience…",
+    "start": "2026-11-22T15:00:00.000Z",
+    "end": "2026-11-22T21:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "family",
+      "classes"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$20 – $25",
+    "url": "https://highfieldhallandgardens.org/event/holidays-at-highfield-11-22-26/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/Holidays-at-Highfield-2026-5x7-1.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "554b88711559",
+    "slug": "holiday-hosting-culinary-workshop-with-kate-rickard-2026-11-22-554b",
+    "title": "Holiday Hosting Culinary Workshop with Kate Rickard",
+    "summary": "Register Now Celebrate the season in style at Highfield Hall with our Holiday Hosting Cooking Class, led by Culinary Director Kate Rickard.",
+    "start": "2026-11-22T17:00:00.000Z",
+    "end": "2026-11-22T19:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "classes",
+      "food"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$90 – $100",
+    "url": "https://highfieldhallandgardens.org/event/holiday-hosting-2026/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/11-22-26-holiday-hosting-frame.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "28f2710ddde7",
+    "slug": "festive-evergreen-tree-felting-workshop-with-cheryl-flett-2026-11-24-28f2",
+    "title": "Festive Evergreen Tree Felting Workshop with Cheryl Flett",
+    "summary": "Register Now Create your own festive felted tree just in time for the holidays. Join Cheryl Flett to learn how to create a merry evergreen using a needle felting process.",
+    "start": "2026-11-24T22:00:00.000Z",
+    "end": "2026-11-25T00:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "classes",
+      "family"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$40 – $50",
+    "url": "https://highfieldhallandgardens.org/event/festive-evergreen-tree-felting-2026/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/11-24-26-Felted-Tree-Cheryl-Flett-frame.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "b75817b6969d",
+    "slug": "lighting-of-the-pilgrim-monument-2026-11-25-b758",
+    "title": "Lighting of the Pilgrim Monument",
+    "summary": "Lighting on The Hill Wednesday, November 25, 2026 On Thanksgiving Eve, Provincetown comes together to “throw the switch” and light up the Monument for the season — a cherished tradition that has glowed above town for…",
+    "start": "2026-11-25T05:00:00.000Z",
+    "end": "2026-11-25T05:00:00.000Z",
+    "allDay": true,
+    "venue": {
+      "name": "Provincetown",
+      "town": "provincetown",
+      "lat": 42.0510868,
+      "lng": -70.1860201
+    },
+    "categories": [
+      "community"
+    ],
+    "tags": {
+      "free": true,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "Free",
+    "url": "https://ptownchamber.com/events/lighting-of-the-pilgrim-monument/",
+    "ticketUrl": "https://ptownchamber.com/events/lighting-of-the-pilgrim-monument/",
+    "image": "",
+    "source": {
+      "id": "ptown-chamber",
+      "name": "Provincetown Chamber of Commerce",
+      "url": "https://ptownchamber.com/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "0d1008473681",
+    "slug": "thanksgiving-weekend-2026-11-25-0d10",
+    "title": "Thanksgiving Weekend",
+    "summary": "Happy Thanksgiving! Beautiful Thanksgiving Holiday starts on Wednesday evening with Lighting of the Pilgrim Monument community celebration.",
+    "start": "2026-11-25T08:00:00.000Z",
+    "end": "2026-11-29T05:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Provincetown",
+      "town": "provincetown",
+      "lat": 42.0510868,
+      "lng": -70.1860201
     },
     "categories": [
       "festivals",
+      "community"
+    ],
+    "tags": {
+      "free": true,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "Free",
+    "url": "https://ptownchamber.com/events/thanksgiving-weekend-2/",
+    "ticketUrl": "https://ptownchamber.com/events/thanksgiving-weekend-2/",
+    "image": "",
+    "source": {
+      "id": "ptown-chamber",
+      "name": "Provincetown Chamber of Commerce",
+      "url": "https://ptownchamber.com/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "7934f6f5a3fa",
+    "slug": "pink-friday-2026-11-27-7934",
+    "title": "Pink Friday",
+    "summary": "Only in Provincetown! Friday, November 27, 2026 No big malls, no big brands stores here, just little stores and galleries with amazing collection of beautiful merchandise, famous Provincetown art and on of the kind work…",
+    "start": "2026-11-27T05:00:00.000Z",
+    "end": "2026-11-27T05:00:00.000Z",
+    "allDay": true,
+    "venue": {
+      "name": "Provincetown",
+      "town": "provincetown",
+      "lat": 42.0510868,
+      "lng": -70.1860201
+    },
+    "categories": [
+      "arts"
+    ],
+    "tags": {
+      "free": true,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "Free",
+    "url": "https://ptownchamber.com/events/pink-friday/",
+    "ticketUrl": "https://ptownchamber.com/events/pink-friday/",
+    "image": "",
+    "source": {
+      "id": "ptown-chamber",
+      "name": "Provincetown Chamber of Commerce",
+      "url": "https://ptownchamber.com/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "28dcd7a909b4",
+    "slug": "twas-the-night-before-christmas-life-above-below-stairs-2026-11-27-28dc",
+    "title": "’Twas the Night Before Christmas: Life Above Below Stairs",
+    "summary": "Register Now Celebrating 20 years of holiday magic at Highfield Hall & Gardens. This year’s Holidays at Highfield exhibition, ’Twas the Night Before Christmas: Life Above & Below Stairs , invites visitors to experience…",
+    "start": "2026-11-27T15:00:00.000Z",
+    "end": "2026-11-27T21:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "family",
+      "classes"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$20 – $25",
+    "url": "https://highfieldhallandgardens.org/event/holidays-at-highfield-11-27-26/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/Holidays-at-Highfield-2026-5x7-1.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "a755cc80b03a",
+    "slug": "twilight-hours-holidays-at-highfield-after-dark-2026-11-27-a755",
+    "title": "Twilight Hours: Holidays at Highfield After Dark",
+    "summary": "Register Now Celebrating 20 years of holiday magic at Highfield Hall & Gardens. As dusk settles and the mansion begins to glow, experience ’Twas the Night Before Christmas: Life Above & Below Stairs after hours at…",
+    "start": "2026-11-27T21:30:00.000Z",
+    "end": "2026-11-27T23:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "music",
+      "festivals"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$35",
+    "url": "https://highfieldhallandgardens.org/event/twilight-hours-11-27-26/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/Holidays-at-Highfield-2026-5x7-1.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "3d19bb22fd3b",
+    "slug": "lighting-of-the-lobster-pot-tree-2026-11-28-3d19",
+    "title": "Lighting of the Lobster Pot Tree",
+    "summary": "Fisherman's Christmas Tree! On the foot of MacMillan Pier, right next to Provincetown Chamber of Commerce Visitor Center on Lopez Square, proudly stays Fisherman's Christmas Tree made from lobsters pots.",
+    "start": "2026-11-28T05:00:00.000Z",
+    "end": "2026-11-28T05:00:00.000Z",
+    "allDay": true,
+    "venue": {
+      "name": "Location Name",
+      "town": "provincetown",
+      "lat": 42.038692000000005,
+      "lng": -70.19432800000001
+    },
+    "categories": [
+      "food",
       "family"
     ],
     "tags": {
       "free": true,
       "kids": true,
       "seniors": false,
-      "outdoor": true,
+      "outdoor": false,
       "byBoat": false
     },
     "priceText": "Free",
-    "url": "https://nearshoreadventures.com",
+    "url": "https://ptownchamber.com/events/lighting-of-the-lobster-pot-tree/",
+    "ticketUrl": "https://ptownchamber.com/events/lighting-of-the-lobster-pot-tree/",
+    "image": "",
     "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
+      "id": "ptown-chamber",
+      "name": "Provincetown Chamber of Commerce",
+      "url": "https://ptownchamber.com/events/"
     },
     "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
   },
   {
-    "id": "bd729b11803f",
-    "slug": "cape-rep-holiday-play-2026-12-11-bd72",
-    "title": "Cape Rep Holiday Play",
-    "summary": "A cozy holiday production in Cape Rep's indoor theater.",
-    "start": "2026-12-11T00:30:00.000Z",
-    "end": "2026-12-11T02:30:00.000Z",
+    "id": "edccdfb228cb",
+    "slug": "twas-the-night-before-christmas-life-above-below-stairs-2026-11-28-edcc",
+    "title": "’Twas the Night Before Christmas: Life Above Below Stairs",
+    "summary": "Register Now Celebrating 20 years of holiday magic at Highfield Hall & Gardens. This year’s Holidays at Highfield exhibition, ’Twas the Night Before Christmas: Life Above & Below Stairs , invites visitors to experience…",
+    "start": "2026-11-28T15:00:00.000Z",
+    "end": "2026-11-28T21:00:00.000Z",
     "allDay": false,
     "venue": {
-      "name": "Cape Rep Theatre",
-      "town": "brewster",
-      "lat": 41.7649,
-      "lng": -70.08
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
     },
     "categories": [
-      "theater"
+      "arts",
+      "family",
+      "classes"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$20 – $25",
+    "url": "https://highfieldhallandgardens.org/event/holidays-at-highfield-11-28-26/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/Holidays-at-Highfield-2026-5x7-1.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "781901005f94",
+    "slug": "the-designers-tour-of-holidays-at-highfield-2026-11-29-7819",
+    "title": "The Designers’ Tour of Holidays at Highfield",
+    "summary": "Register Now Experience Holidays at Highfield with a guided tour of the ’Twas the Night Before Christmas: Life Above & Below Stairs .",
+    "start": "2026-11-29T14:00:00.000Z",
+    "end": "2026-11-29T15:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "classes"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": false,
+      "outdoor": true,
+      "byBoat": false
+    },
+    "priceText": "$40 – $45",
+    "url": "https://highfieldhallandgardens.org/event/the-designers-tour-11-29-26/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/Holidays-at-Highfield-5x7-Designers-Tour.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "b89cca87ea5b",
+    "slug": "twas-the-night-before-christmas-life-above-below-stairs-2026-11-29-b89c",
+    "title": "’Twas the Night Before Christmas: Life Above Below Stairs",
+    "summary": "Register Now Celebrating 20 years of holiday magic at Highfield Hall & Gardens. This year’s Holidays at Highfield exhibition, ’Twas the Night Before Christmas: Life Above & Below Stairs , invites visitors to experience…",
+    "start": "2026-11-29T15:00:00.000Z",
+    "end": "2026-11-29T21:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "family",
+      "classes"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$20 – $25",
+    "url": "https://highfieldhallandgardens.org/event/holidays-at-highfield-11-29-26/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/Holidays-at-Highfield-2026-5x7-1.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "c40630b57e4c",
+    "slug": "holiday-tabletop-boxwood-tree-workshop-with-anna-holmes-2026-12-01-c406",
+    "title": "Holiday Tabletop Boxwood Tree Workshop with Anna Holmes",
+    "summary": "Register Now An annual favorite, this workshop is a great way to celebrate and decorate for the holidays! Join Anna Holmes to create your own tabletop tree with fresh boxwood branches, lights, ornaments, and ribbons.",
+    "start": "2026-12-01T22:30:00.000Z",
+    "end": "2026-12-02T01:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Falmouth",
+      "town": "falmouth",
+      "lat": 41.5570147,
+      "lng": -70.6233532
+    },
+    "categories": [
+      "arts",
+      "classes"
     ],
     "tags": {
       "free": false,
@@ -1382,34 +2068,1002 @@
       "outdoor": false,
       "byBoat": false
     },
-    "priceText": "$40",
-    "url": "https://nearshoreadventures.com",
+    "priceText": "$75 – $85",
+    "url": "https://highfieldhallandgardens.org/event/holiday-boxwood-workshop-12-1-26/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/12-1-26-Boxwood-Tree-frame.jpg",
     "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
     },
     "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
   },
   {
-    "id": "da20d8cd68a3",
-    "slug": "holly-folly-2026-12-11-da20",
+    "id": "1a7534a54a35",
+    "slug": "holiday-tabletop-boxwood-tree-workshop-with-anna-holmes-2026-12-02-1a75",
+    "title": "Holiday Tabletop Boxwood Tree Workshop with Anna Holmes",
+    "summary": "Register Now An annual favorite, this workshop is a great way to celebrate and decorate for the holidays! Join Anna Holmes to create your own tabletop tree with fresh boxwood branches, lights, ornaments, and ribbons.",
+    "start": "2026-12-02T15:00:00.000Z",
+    "end": "2026-12-02T18:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Falmouth",
+      "town": "falmouth",
+      "lat": 41.5570147,
+      "lng": -70.6233532
+    },
+    "categories": [
+      "arts",
+      "classes"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$75 – $85",
+    "url": "https://highfieldhallandgardens.org/event/holiday-boxwood-tree-12-2-26-morning-session/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/12-1-26-Boxwood-Tree-frame.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "27caece95cf8",
+    "slug": "twas-the-night-before-christmas-life-above-below-stairs-2026-12-03-27ca",
+    "title": "’Twas the Night Before Christmas: Life Above Below Stairs",
+    "summary": "Register Now Celebrating 20 years of holiday magic at Highfield Hall & Gardens. This year’s Holidays at Highfield exhibition, ’Twas the Night Before Christmas: Life Above & Below Stairs , invites visitors to experience…",
+    "start": "2026-12-03T15:00:00.000Z",
+    "end": "2026-12-03T21:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "family",
+      "classes"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$20 – $25",
+    "url": "https://highfieldhallandgardens.org/event/holidays-at-highfield-12-3-26/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/Holidays-at-Highfield-2026-5x7-1.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "737ced02b23a",
+    "slug": "holly-folly-2026-12-04-737c",
     "title": "Holly Folly",
-    "summary": "Provincetown's famously fun holiday weekend, with a parade, parties and plenty of glitter.",
-    "start": "2026-12-11T05:00:00.000Z",
-    "end": "2026-12-13T05:00:00.000Z",
+    "summary": "Celebrate the Holidays in Provincetown! Friday-Sunday, December 4-6, 2026 The nation’s largest and oldest LGBTQ+ Holiday Celebration, Holly Folly, first began in 1997 as an opportunity to gather and celebrate the…",
+    "start": "2026-12-04T05:00:00.000Z",
+    "end": "2026-12-06T05:00:00.000Z",
     "allDay": true,
     "venue": {
-      "name": "Commercial Street",
+      "name": "Provincetown",
       "town": "provincetown",
-      "lat": 42.0513,
-      "lng": -70.1874
+      "lat": 42.0510868,
+      "lng": -70.1860201
     },
     "categories": [
       "festivals",
+      "arts",
+      "family"
+    ],
+    "tags": {
+      "free": true,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "Free",
+    "url": "https://ptownchamber.com/events/holly-folly-kickoff-weekend/",
+    "ticketUrl": "https://ptownchamber.com/events/holly-folly-kickoff-weekend/",
+    "image": "",
+    "source": {
+      "id": "ptown-chamber",
+      "name": "Provincetown Chamber of Commerce",
+      "url": "https://ptownchamber.com/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "ec24b9178de8",
+    "slug": "twas-the-night-before-christmas-life-above-below-stairs-2026-12-04-ec24",
+    "title": "’Twas the Night Before Christmas: Life Above Below Stairs",
+    "summary": "Register Now Celebrating 20 years of holiday magic at Highfield Hall & Gardens. This year’s Holidays at Highfield exhibition, ’Twas the Night Before Christmas: Life Above & Below Stairs , invites visitors to experience…",
+    "start": "2026-12-04T15:00:00.000Z",
+    "end": "2026-12-04T21:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "family",
+      "classes"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$20 – $25",
+    "url": "https://highfieldhallandgardens.org/event/holidays-at-highfield-12-4-26/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/Holidays-at-Highfield-2026-5x7-1.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "8b346abf40fb",
+    "slug": "twilight-hours-holidays-at-highfield-after-dark-2026-12-04-8b34",
+    "title": "Twilight Hours: Holidays at Highfield After Dark",
+    "summary": "Register Now Celebrating 20 years of holiday magic at Highfield Hall & Gardens. As dusk settles and the mansion begins to glow, experience ’Twas the Night Before Christmas: Life Above & Below Stairs after hours at…",
+    "start": "2026-12-04T21:30:00.000Z",
+    "end": "2026-12-04T23:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "music",
+      "festivals"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$35",
+    "url": "https://highfieldhallandgardens.org/event/twilight-hours-12-4-26/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/Holidays-at-Highfield-2026-5x7-1.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "20c0ebd162fd",
+    "slug": "twas-the-night-before-christmas-life-above-below-stairs-2026-12-05-20c0",
+    "title": "’Twas the Night Before Christmas: Life Above Below Stairs",
+    "summary": "Register Now Celebrating 20 years of holiday magic at Highfield Hall & Gardens. This year’s Holidays at Highfield exhibition, ’Twas the Night Before Christmas: Life Above & Below Stairs , invites visitors to experience…",
+    "start": "2026-12-05T15:00:00.000Z",
+    "end": "2026-12-05T21:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "family",
+      "classes"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$20 – $25",
+    "url": "https://highfieldhallandgardens.org/event/holidays-at-highfield-12-5-26/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/Holidays-at-Highfield-2026-5x7-1.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "7615cc575629",
+    "slug": "the-servants-tour-of-holidays-at-highfield-2026-12-06-7615",
+    "title": "The Servants’ Tour of Holidays at Highfield",
+    "summary": "Register Now Experience Holidays at Highfield with a guided tour of the ’Twas the Night Before Christmas: Life Above & Below Stairs .",
+    "start": "2026-12-06T14:00:00.000Z",
+    "end": "2026-12-06T15:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "classes"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": false,
+      "outdoor": true,
+      "byBoat": false
+    },
+    "priceText": "$40 – $45",
+    "url": "https://highfieldhallandgardens.org/event/the-servants-tour-12-6-26/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/Holidays-at-Highfield-5x7-Servants-Tour.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "f568b47c31a5",
+    "slug": "twas-the-night-before-christmas-life-above-below-stairs-2026-12-06-f568",
+    "title": "’Twas the Night Before Christmas: Life Above Below Stairs",
+    "summary": "Register Now Celebrating 20 years of holiday magic at Highfield Hall & Gardens. This year’s Holidays at Highfield exhibition, ’Twas the Night Before Christmas: Life Above & Below Stairs , invites visitors to experience…",
+    "start": "2026-12-06T15:00:00.000Z",
+    "end": "2026-12-06T21:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "family",
+      "classes"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$20 – $25",
+    "url": "https://highfieldhallandgardens.org/event/holidays-at-highfield-12-6-26/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/Holidays-at-Highfield-2026-5x7-1.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "b8f263d8b979",
+    "slug": "yule-log-workshop-with-kate-rickard-2026-12-06-b8f2",
+    "title": "Yule Log Workshop with Kate Rickard",
+    "summary": "Register Now Get ready to whisk, roll, and decorate your way into classic festive cheer! Join us for a cozy, hands-on Yule Log class in Highfield’s kitchen.",
+    "start": "2026-12-06T17:00:00.000Z",
+    "end": "2026-12-06T19:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "classes",
+      "food"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$90 – $100",
+    "url": "https://highfieldhallandgardens.org/event/yule-log-2026/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/12-6-26-yule-log-frame.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "4b994d45af6f",
+    "slug": "fairy-angel-felting-workshop-with-cheryl-flett-2026-12-08-4b99",
+    "title": "Fairy Angel Felting Workshop with Cheryl Flett",
+    "summary": "Register Now In this workshop you’ll create your own fairy angel. Cheryl Flett will teach you all you need to know to create a festive fairy angel using a needle felting process.",
+    "start": "2026-12-08T22:00:00.000Z",
+    "end": "2026-12-09T00:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "classes",
+      "family"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$40 – $50",
+    "url": "https://highfieldhallandgardens.org/event/felted-angel-2026/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/12-8-26-Felted-Angel-frame.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "98e09cf2f57a",
+    "slug": "gifts-from-the-kitchen-with-kate-rickard-2026-12-09-98e0",
+    "title": "Gifts from the Kitchen with Kate Rickard",
+    "summary": "Register Now Gifts From the Kitchen, led by Culinary Director Kate Rickard, is both a demonstration and hands-on inspired class.",
+    "start": "2026-12-09T17:00:00.000Z",
+    "end": "2026-12-09T19:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "classes"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$75 – $85",
+    "url": "https://highfieldhallandgardens.org/event/gifts-from-kitchen-2026/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/12-9-26-gifts-from-kitchen-frame.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "6640ceb65d7b",
+    "slug": "twas-the-night-before-christmas-life-above-below-stairs-2026-12-10-6640",
+    "title": "’Twas the Night Before Christmas: Life Above Below Stairs",
+    "summary": "Register Now Celebrating 20 years of holiday magic at Highfield Hall & Gardens. This year’s Holidays at Highfield exhibition, ’Twas the Night Before Christmas: Life Above & Below Stairs , invites visitors to experience…",
+    "start": "2026-12-10T15:00:00.000Z",
+    "end": "2026-12-10T21:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "family",
+      "classes"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$20 – $25",
+    "url": "https://highfieldhallandgardens.org/event/holidays-at-highfield-12-10-26/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/Holidays-at-Highfield-2026-5x7-1.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "f78429c4a53a",
+    "slug": "twas-the-night-before-christmas-life-above-below-stairs-2026-12-11-f784",
+    "title": "’Twas the Night Before Christmas: Life Above Below Stairs",
+    "summary": "Register Now Celebrating 20 years of holiday magic at Highfield Hall & Gardens. This year’s Holidays at Highfield exhibition, ’Twas the Night Before Christmas: Life Above & Below Stairs , invites visitors to experience…",
+    "start": "2026-12-11T15:00:00.000Z",
+    "end": "2026-12-11T21:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "family",
+      "classes"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$20 – $25",
+    "url": "https://highfieldhallandgardens.org/event/holidays-at-highfield-12-11-26/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/Holidays-at-Highfield-2026-5x7-1.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "be6f6a94eaff",
+    "slug": "twilight-hours-holidays-at-highfield-after-dark-2026-12-11-be6f",
+    "title": "Twilight Hours: Holidays at Highfield After Dark",
+    "summary": "Register Now Celebrating 20 years of holiday magic at Highfield Hall & Gardens. As dusk settles and the mansion begins to glow, experience ’Twas the Night Before Christmas: Life Above & Below Stairs after hours at…",
+    "start": "2026-12-11T21:30:00.000Z",
+    "end": "2026-12-11T23:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "music",
+      "festivals"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$35",
+    "url": "https://highfieldhallandgardens.org/event/twilight-hours-12-11-26/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/Holidays-at-Highfield-2026-5x7-1.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "ec3cb22a263c",
+    "slug": "twas-the-night-before-christmas-life-above-below-stairs-2026-12-12-ec3c",
+    "title": "’Twas the Night Before Christmas: Life Above Below Stairs",
+    "summary": "Register Now Celebrating 20 years of holiday magic at Highfield Hall & Gardens. This year’s Holidays at Highfield exhibition, ’Twas the Night Before Christmas: Life Above & Below Stairs , invites visitors to experience…",
+    "start": "2026-12-12T15:00:00.000Z",
+    "end": "2026-12-12T21:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "family",
+      "classes"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$20 – $25",
+    "url": "https://highfieldhallandgardens.org/event/holidays-at-highfield-12-12-26/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/Holidays-at-Highfield-2026-5x7-1.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "72a66661e1d9",
+    "slug": "the-designers-tour-of-holidays-at-highfield-2026-12-13-72a6",
+    "title": "The Designers’ Tour of Holidays at Highfield",
+    "summary": "Register Now Experience Holidays at Highfield with a guided tour of the ’Twas the Night Before Christmas: Life Above & Below Stairs .",
+    "start": "2026-12-13T14:00:00.000Z",
+    "end": "2026-12-13T15:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "classes"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": false,
+      "outdoor": true,
+      "byBoat": false
+    },
+    "priceText": "$40 – $45",
+    "url": "https://highfieldhallandgardens.org/event/the-designers-tour-12-13-26/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/Holidays-at-Highfield-5x7-Designers-Tour.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "3836e2fdca9f",
+    "slug": "twas-the-night-before-christmas-life-above-below-stairs-2026-12-13-3836",
+    "title": "’Twas the Night Before Christmas: Life Above Below Stairs",
+    "summary": "Register Now Celebrating 20 years of holiday magic at Highfield Hall & Gardens. This year’s Holidays at Highfield exhibition, ’Twas the Night Before Christmas: Life Above & Below Stairs , invites visitors to experience…",
+    "start": "2026-12-13T15:00:00.000Z",
+    "end": "2026-12-13T21:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "family",
+      "classes"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$20 – $25",
+    "url": "https://highfieldhallandgardens.org/event/holidays-at-highfield-12-13-26/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/Holidays-at-Highfield-2026-5x7-1.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "81b706fcf3ff",
+    "slug": "baked-holiday-treats-with-kate-rickard-2026-12-13-81b7",
+    "title": "Baked Holiday Treats with Kate Rickard",
+    "summary": "Register Now Join Culinary Director Kate Rickard at Highfield Hall for a decadent Holiday Baking Demonstration featuring three show stopping seasonal treats.",
+    "start": "2026-12-13T17:00:00.000Z",
+    "end": "2026-12-13T19:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "classes"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$90 – $100",
+    "url": "https://highfieldhallandgardens.org/event/baked-holiday-treats-2026/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/12-13-26-baked-holiday-treats-frame.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "6b574123315a",
+    "slug": "twas-the-night-before-christmas-life-above-below-stairs-2026-12-17-6b57",
+    "title": "’Twas the Night Before Christmas: Life Above Below Stairs",
+    "summary": "Register Now Celebrating 20 years of holiday magic at Highfield Hall & Gardens. This year’s Holidays at Highfield exhibition, ’Twas the Night Before Christmas: Life Above & Below Stairs , invites visitors to experience…",
+    "start": "2026-12-17T15:00:00.000Z",
+    "end": "2026-12-17T21:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "family",
+      "classes"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$20 – $25",
+    "url": "https://highfieldhallandgardens.org/event/holidays-at-highfield-12-17-26/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/Holidays-at-Highfield-2026-5x7-1.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "ba241aee97be",
+    "slug": "classic-holiday-centerpiece-workshop-with-anna-holmes-2026-12-17-ba24",
+    "title": "Classic Holiday Centerpiece Workshop with Anna Holmes",
+    "summary": "Register Now Craft the perfect holiday focal point! Join Highfield’s floral designer Anna Holmes at the Iris Hotel’s Stomping Grounds II Restaurant in Falmouth for a festive morning of floral design.",
+    "start": "2026-12-17T15:00:00.000Z",
+    "end": "2026-12-17T17:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Stomping Grounds II Restaurant at the Iris Hotel",
+      "address": "291 Jones Road, Falmouth",
+      "town": "falmouth",
+      "lat": 41.5598011,
+      "lng": -70.6082214
+    },
+    "categories": [
+      "arts",
+      "classes"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$75 – $85",
+    "url": "https://highfieldhallandgardens.org/event/holiday-centerpiece-2026/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/12-17-26-Holiday-Centerpiece-frame.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "406716af21c5",
+    "slug": "twas-the-night-before-christmas-life-above-below-stairs-2026-12-18-4067",
+    "title": "’Twas the Night Before Christmas: Life Above Below Stairs",
+    "summary": "Register Now Celebrating 20 years of holiday magic at Highfield Hall & Gardens. This year’s Holidays at Highfield exhibition, ’Twas the Night Before Christmas: Life Above & Below Stairs , invites visitors to experience…",
+    "start": "2026-12-18T15:00:00.000Z",
+    "end": "2026-12-18T21:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "family",
+      "classes"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$20 – $25",
+    "url": "https://highfieldhallandgardens.org/event/holidays-at-highfield-12-18-26/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/Holidays-at-Highfield-2026-5x7-1.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "517e120b277f",
+    "slug": "twilight-hours-holidays-at-highfield-after-dark-2026-12-18-517e",
+    "title": "Twilight Hours: Holidays at Highfield After Dark",
+    "summary": "Register Now Celebrating 20 years of holiday magic at Highfield Hall & Gardens. As dusk settles and the mansion begins to glow, experience ’Twas the Night Before Christmas: Life Above & Below Stairs after hours at…",
+    "start": "2026-12-18T21:30:00.000Z",
+    "end": "2026-12-18T23:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "music",
+      "festivals"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$35",
+    "url": "https://highfieldhallandgardens.org/event/twilight-hours-12-18-26/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/Holidays-at-Highfield-2026-5x7-1.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "a174f5695f33",
+    "slug": "twas-the-night-before-christmas-life-above-below-stairs-2026-12-19-a174",
+    "title": "’Twas the Night Before Christmas: Life Above Below Stairs",
+    "summary": "Register Now Celebrating 20 years of holiday magic at Highfield Hall & Gardens. This year’s Holidays at Highfield exhibition, ’Twas the Night Before Christmas: Life Above & Below Stairs , invites visitors to experience…",
+    "start": "2026-12-19T15:00:00.000Z",
+    "end": "2026-12-19T21:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "family",
+      "classes"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$20 – $25",
+    "url": "https://highfieldhallandgardens.org/event/holidays-at-highfield-12-19-26/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/Holidays-at-Highfield-2026-5x7-1.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "b1bd173cab48",
+    "slug": "the-servants-tour-of-holidays-at-highfield-2026-12-20-b1bd",
+    "title": "The Servants’ Tour of Holidays at Highfield",
+    "summary": "Register Now Experience Holidays at Highfield with a guided tour of the ’Twas the Night Before Christmas: Life Above & Below Stairs .",
+    "start": "2026-12-20T14:00:00.000Z",
+    "end": "2026-12-20T15:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "classes"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": false,
+      "outdoor": true,
+      "byBoat": false
+    },
+    "priceText": "$40 – $45",
+    "url": "https://highfieldhallandgardens.org/event/the-servants-tour-12-20-26/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/Holidays-at-Highfield-5x7-Servants-Tour.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "6129382fd901",
+    "slug": "twas-the-night-before-christmas-life-above-below-stairs-2026-12-20-6129",
+    "title": "’Twas the Night Before Christmas: Life Above Below Stairs",
+    "summary": "Register Now Celebrating 20 years of holiday magic at Highfield Hall & Gardens. This year’s Holidays at Highfield exhibition, ’Twas the Night Before Christmas: Life Above & Below Stairs , invites visitors to experience…",
+    "start": "2026-12-20T15:00:00.000Z",
+    "end": "2026-12-20T21:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Highfield Hall",
+      "address": "56 Highfield Drive, Falmouth",
+      "town": "falmouth",
+      "lat": 41.557076,
+      "lng": -70.628925
+    },
+    "categories": [
+      "arts",
+      "family",
+      "classes"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$20 – $25",
+    "url": "https://highfieldhallandgardens.org/event/holidays-at-highfield-12-20-26/",
+    "image": "https://highfieldhallandgardens.org/wp-content/uploads/Holidays-at-Highfield-2026-5x7-1.jpg",
+    "source": {
+      "id": "highfield-hall",
+      "name": "Highfield Hall & Gardens",
+      "url": "https://highfieldhallandgardens.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "7a5c10fa0287",
+    "slug": "first-light-provincetown-new-years-celebrations-2026-12-31-7a5c",
+    "title": "First Light Provincetown – New Years Celebrations",
+    "summary": "First Light Celebration! Ring in the New Year on the tip of Cape Cod! Enjoy great performances, fine art, delicious fare and festive shopping experiences along Commercial Street all before you catch a front-row seat to…",
+    "start": "2026-12-31T05:00:00.000Z",
+    "end": "2027-01-03T05:00:00.000Z",
+    "allDay": true,
+    "venue": {
+      "name": "Provincetown",
+      "town": "provincetown",
+      "lat": 42.0510868,
+      "lng": -70.1860201
+    },
+    "categories": [
+      "festivals",
+      "arts",
       "theater"
     ],
     "tags": {
@@ -1420,89 +3074,1147 @@
       "byBoat": true
     },
     "priceText": "Free",
-    "url": "https://nearshoreadventures.com",
+    "url": "https://ptownchamber.com/events/holly-folly-2/",
+    "ticketUrl": "https://ptownchamber.com/events/holly-folly-2/",
+    "image": "https://ptownchamber.com/wp-content/uploads/2025/12/Town-of-Ptown-Drone-Show-Save-the-Date-2026-scaled.png",
     "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
+      "id": "ptown-chamber",
+      "name": "Provincetown Chamber of Commerce",
+      "url": "https://ptownchamber.com/events/"
     },
     "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
   },
   {
-    "id": "cf873be75242",
-    "slug": "chatham-christmas-stroll-2026-12-12-cf87",
-    "title": "Chatham Christmas Stroll",
-    "summary": "Shops open late, carolers on the corners and Santa at the bandstand.",
-    "start": "2026-12-12T15:00:00.000Z",
-    "end": "2026-12-12T21:00:00.000Z",
+    "id": "e85352ed88bf",
+    "slug": "circus-camp-kids-base-camp-for-ages-7-12-2027-06-28-e853",
+    "title": "Circus Camp // Kids Base Camp for Ages 7-12",
+    "summary": "",
+    "start": "2027-06-28T13:30:00.000Z",
+    "end": "2027-07-01T18:30:00.000Z",
     "allDay": false,
     "venue": {
-      "name": "Main Street, Chatham",
-      "town": "chatham",
-      "lat": 41.6798,
-      "lng": -69.9632
+      "name": "Cirque by the Sea at WHAT",
+      "address": "2357 State Highway Route 6, Wellfleet",
+      "town": "wellfleet",
+      "lat": 41.927872,
+      "lng": -70.043444
     },
     "categories": [
-      "festivals",
-      "markets"
-    ],
-    "tags": {
-      "free": true,
-      "kids": true,
-      "seniors": false,
-      "outdoor": false,
-      "byBoat": false
-    },
-    "priceText": "Free",
-    "url": "https://nearshoreadventures.com",
-    "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
-    },
-    "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
-  },
-  {
-    "id": "86ea185095eb",
-    "slug": "first-night-chatham-2026-12-31-86ea",
-    "title": "First Night Chatham",
-    "summary": "Ring in the new year with music, family shows and fireworks over Oyster Pond.",
-    "start": "2026-12-31T19:00:00.000Z",
-    "end": "2027-01-01T04:59:00.000Z",
-    "allDay": false,
-    "venue": {
-      "name": "Downtown Chatham",
-      "town": "chatham",
-      "lat": 41.6809,
-      "lng": -69.9578
-    },
-    "categories": [
-      "festivals",
-      "music"
+      "music",
+      "theater",
+      "family"
     ],
     "tags": {
       "free": false,
       "kids": true,
       "seniors": false,
-      "outdoor": true,
+      "outdoor": false,
       "byBoat": false
     },
-    "priceText": "Button $15",
-    "url": "https://nearshoreadventures.com",
+    "url": "https://payomet.org/calendar/circus-camp-kids-base-camp-for-ages-7-12-11/",
+    "ticketUrl": "https://tickets.payomet.org/kids-circus-camp",
+    "image": "https://payomet.org/wp-content/uploads/2026/06/BaseCamp-logo-860x562-1.webp",
     "source": {
-      "id": "sample",
-      "name": "Sample listing",
-      "url": "https://nearshoreadventures.com"
+      "id": "payomet",
+      "name": "Payomet Performing Arts Center",
+      "url": "https://payomet.org/events/"
     },
     "trusted": true,
-    "firstSeen": "2026-10-17T12:00:00.000Z",
-    "lastSeen": "2026-10-17T12:00:00.000Z",
-    "sample": true
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "fa4d0a9a5ae0",
+    "slug": "circus-camp-tiny-tent-for-ages-5-6-2027-06-28-fa4d",
+    "title": "Circus Camp // Tiny Tent for Ages 5 6",
+    "summary": "",
+    "start": "2027-06-28T13:30:00.000Z",
+    "end": "2027-07-01T18:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Cirque by the Sea at WHAT",
+      "address": "2357 State Highway Route 6, Wellfleet",
+      "town": "wellfleet",
+      "lat": 41.927872,
+      "lng": -70.043444
+    },
+    "categories": [
+      "music",
+      "theater",
+      "family"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "url": "https://payomet.org/calendar/circus-camp-tiny-tent-for-ages-5-6-9/",
+    "ticketUrl": "https://tickets.payomet.org/tiny-tent-circus-camp",
+    "image": "https://payomet.org/wp-content/uploads/2026/10/Tiny-Tent.webp",
+    "source": {
+      "id": "payomet",
+      "name": "Payomet Performing Arts Center",
+      "url": "https://payomet.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "d11bbf3c4355",
+    "slug": "circus-camp-teen-intensive-for-ages-13-16-2027-06-28-d11b",
+    "title": "Circus Camp // Teen Intensive for Ages 13-16",
+    "summary": "",
+    "start": "2027-06-28T19:00:00.000Z",
+    "end": "2027-07-02T19:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Cirque by the Sea at WHAT",
+      "address": "2357 State Highway Route 6, Wellfleet",
+      "town": "wellfleet",
+      "lat": 41.927872,
+      "lng": -70.043444
+    },
+    "categories": [
+      "music",
+      "theater",
+      "family"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "url": "https://payomet.org/calendar/circus-camp-teen-intensive-for-ages-13-16/",
+    "ticketUrl": "https://tickets.payomet.org/circus-camp-teens",
+    "image": "https://payomet.org/wp-content/uploads/2026/10/Teen_Intensive.webp",
+    "source": {
+      "id": "payomet",
+      "name": "Payomet Performing Arts Center",
+      "url": "https://payomet.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "a8a5179d2d8f",
+    "slug": "circus-camp-kids-base-camp-for-ages-7-12-2027-07-05-a8a5",
+    "title": "Circus Camp // Kids Base Camp for Ages 7-12",
+    "summary": "",
+    "start": "2027-07-05T13:30:00.000Z",
+    "end": "2027-07-08T18:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Cirque by the Sea at WHAT",
+      "address": "2357 State Highway Route 6, Wellfleet",
+      "town": "wellfleet",
+      "lat": 41.927872,
+      "lng": -70.043444
+    },
+    "categories": [
+      "music",
+      "theater",
+      "family"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "url": "https://payomet.org/calendar/circus-camp-kids-base-camp-for-ages-7-12-12/",
+    "ticketUrl": "https://tickets.payomet.org/kids-circus-camp",
+    "image": "https://payomet.org/wp-content/uploads/2026/06/BaseCamp-logo-860x562-1.webp",
+    "source": {
+      "id": "payomet",
+      "name": "Payomet Performing Arts Center",
+      "url": "https://payomet.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "f3b7e8fe0d5f",
+    "slug": "circus-camp-tiny-tent-for-ages-5-6-2027-07-05-f3b7",
+    "title": "Circus Camp // Tiny Tent for Ages 5 6",
+    "summary": "",
+    "start": "2027-07-05T13:30:00.000Z",
+    "end": "2027-07-08T18:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Cirque by the Sea at WHAT",
+      "address": "2357 State Highway Route 6, Wellfleet",
+      "town": "wellfleet",
+      "lat": 41.927872,
+      "lng": -70.043444
+    },
+    "categories": [
+      "music",
+      "theater",
+      "family"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "url": "https://payomet.org/calendar/circus-camp-tiny-tent-for-ages-5-6-10/",
+    "ticketUrl": "https://tickets.payomet.org/tiny-tent-circus-camp",
+    "image": "https://payomet.org/wp-content/uploads/2026/10/Tiny-Tent.webp",
+    "source": {
+      "id": "payomet",
+      "name": "Payomet Performing Arts Center",
+      "url": "https://payomet.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "a6f9dec14a29",
+    "slug": "circus-camp-teen-intensive-for-ages-13-16-2027-07-05-a6f9",
+    "title": "Circus Camp // Teen Intensive for Ages 13-16",
+    "summary": "",
+    "start": "2027-07-05T19:00:00.000Z",
+    "end": "2027-07-09T19:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Cirque by the Sea at WHAT",
+      "address": "2357 State Highway Route 6, Wellfleet",
+      "town": "wellfleet",
+      "lat": 41.927872,
+      "lng": -70.043444
+    },
+    "categories": [
+      "music",
+      "theater",
+      "family"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "url": "https://payomet.org/calendar/circus-camp-teen-intensive-for-ages-13-16-2/",
+    "ticketUrl": "https://tickets.payomet.org/circus-camp-teens",
+    "image": "https://payomet.org/wp-content/uploads/2026/10/Teen_Intensive.webp",
+    "source": {
+      "id": "payomet",
+      "name": "Payomet Performing Arts Center",
+      "url": "https://payomet.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "a6352cb2ae6e",
+    "slug": "circus-camp-kids-base-camp-for-ages-7-12-2027-07-12-a635",
+    "title": "Circus Camp // Kids Base Camp for Ages 7-12",
+    "summary": "",
+    "start": "2027-07-12T13:30:00.000Z",
+    "end": "2027-07-15T18:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Cirque by the Sea at WHAT",
+      "address": "2357 State Highway Route 6, Wellfleet",
+      "town": "wellfleet",
+      "lat": 41.927872,
+      "lng": -70.043444
+    },
+    "categories": [
+      "music",
+      "theater",
+      "family"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "url": "https://payomet.org/calendar/circus-camp-kids-base-camp-for-ages-7-12-13/",
+    "ticketUrl": "https://tickets.payomet.org/kids-circus-camp",
+    "image": "https://payomet.org/wp-content/uploads/2026/06/BaseCamp-logo-860x562-1.webp",
+    "source": {
+      "id": "payomet",
+      "name": "Payomet Performing Arts Center",
+      "url": "https://payomet.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "a359231b8b4d",
+    "slug": "circus-camp-tiny-tent-for-ages-5-6-2027-07-12-a359",
+    "title": "Circus Camp // Tiny Tent for Ages 5 6",
+    "summary": "",
+    "start": "2027-07-12T13:30:00.000Z",
+    "end": "2027-07-15T18:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Cirque by the Sea at WHAT",
+      "address": "2357 State Highway Route 6, Wellfleet",
+      "town": "wellfleet",
+      "lat": 41.927872,
+      "lng": -70.043444
+    },
+    "categories": [
+      "music",
+      "theater",
+      "family"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "url": "https://payomet.org/calendar/circus-camp-tiny-tent-for-ages-5-6-11/",
+    "ticketUrl": "https://tickets.payomet.org/tiny-tent-circus-camp",
+    "image": "https://payomet.org/wp-content/uploads/2026/10/Tiny-Tent.webp",
+    "source": {
+      "id": "payomet",
+      "name": "Payomet Performing Arts Center",
+      "url": "https://payomet.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "6dbc7188d65e",
+    "slug": "circus-camp-teen-intensive-for-ages-13-16-2027-07-12-6dbc",
+    "title": "Circus Camp // Teen Intensive for Ages 13-16",
+    "summary": "",
+    "start": "2027-07-12T19:00:00.000Z",
+    "end": "2027-07-16T19:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Cirque by the Sea at WHAT",
+      "address": "2357 State Highway Route 6, Wellfleet",
+      "town": "wellfleet",
+      "lat": 41.927872,
+      "lng": -70.043444
+    },
+    "categories": [
+      "music",
+      "theater",
+      "family"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "url": "https://payomet.org/calendar/circus-camp-teen-intensive-for-ages-13-16-3/",
+    "ticketUrl": "https://tickets.payomet.org/circus-camp-teens",
+    "image": "https://payomet.org/wp-content/uploads/2026/10/Teen_Intensive.webp",
+    "source": {
+      "id": "payomet",
+      "name": "Payomet Performing Arts Center",
+      "url": "https://payomet.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "3aafdf32c8b6",
+    "slug": "circus-camp-kids-base-camp-for-ages-7-12-2027-07-19-3aaf",
+    "title": "Circus Camp // Kids Base Camp for Ages 7-12",
+    "summary": "",
+    "start": "2027-07-19T13:30:00.000Z",
+    "end": "2027-07-22T18:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Cirque by the Sea at WHAT",
+      "address": "2357 State Highway Route 6, Wellfleet",
+      "town": "wellfleet",
+      "lat": 41.927872,
+      "lng": -70.043444
+    },
+    "categories": [
+      "music",
+      "theater",
+      "family"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "url": "https://payomet.org/calendar/circus-camp-kids-base-camp-for-ages-7-12-14/",
+    "ticketUrl": "https://tickets.payomet.org/kids-circus-camp",
+    "image": "https://payomet.org/wp-content/uploads/2026/06/BaseCamp-logo-860x562-1.webp",
+    "source": {
+      "id": "payomet",
+      "name": "Payomet Performing Arts Center",
+      "url": "https://payomet.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "052a3bd83feb",
+    "slug": "circus-camp-tiny-tent-for-ages-5-6-2027-07-19-052a",
+    "title": "Circus Camp // Tiny Tent for Ages 5 6",
+    "summary": "",
+    "start": "2027-07-19T13:30:00.000Z",
+    "end": "2027-07-22T18:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Cirque by the Sea at WHAT",
+      "address": "2357 State Highway Route 6, Wellfleet",
+      "town": "wellfleet",
+      "lat": 41.927872,
+      "lng": -70.043444
+    },
+    "categories": [
+      "music",
+      "theater",
+      "family"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "url": "https://payomet.org/calendar/circus-camp-tiny-tent-for-ages-5-6-12/",
+    "ticketUrl": "https://tickets.payomet.org/tiny-tent-circus-camp",
+    "image": "https://payomet.org/wp-content/uploads/2026/10/Tiny-Tent.webp",
+    "source": {
+      "id": "payomet",
+      "name": "Payomet Performing Arts Center",
+      "url": "https://payomet.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "0772680f9d68",
+    "slug": "circus-camp-teen-intensive-for-ages-13-16-2027-07-19-0772",
+    "title": "Circus Camp // Teen Intensive for Ages 13-16",
+    "summary": "",
+    "start": "2027-07-19T19:00:00.000Z",
+    "end": "2027-07-23T19:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Cirque by the Sea at WHAT",
+      "address": "2357 State Highway Route 6, Wellfleet",
+      "town": "wellfleet",
+      "lat": 41.927872,
+      "lng": -70.043444
+    },
+    "categories": [
+      "music",
+      "theater",
+      "family"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "url": "https://payomet.org/calendar/circus-camp-teen-intensive-for-ages-13-16-4/",
+    "ticketUrl": "https://tickets.payomet.org/circus-camp-teens",
+    "image": "https://payomet.org/wp-content/uploads/2026/10/Teen_Intensive.webp",
+    "source": {
+      "id": "payomet",
+      "name": "Payomet Performing Arts Center",
+      "url": "https://payomet.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "8e22d4ddb2cc",
+    "slug": "circus-camp-kids-base-camp-for-ages-7-12-2027-07-26-8e22",
+    "title": "Circus Camp // Kids Base Camp for Ages 7-12",
+    "summary": "",
+    "start": "2027-07-26T13:30:00.000Z",
+    "end": "2027-07-29T18:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Cirque by the Sea at WHAT",
+      "address": "2357 State Highway Route 6, Wellfleet",
+      "town": "wellfleet",
+      "lat": 41.927872,
+      "lng": -70.043444
+    },
+    "categories": [
+      "music",
+      "theater",
+      "family"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "url": "https://payomet.org/calendar/circus-camp-kids-base-camp-for-ages-7-12-15/",
+    "ticketUrl": "https://tickets.payomet.org/kids-circus-camp",
+    "image": "https://payomet.org/wp-content/uploads/2026/06/BaseCamp-logo-860x562-1.webp",
+    "source": {
+      "id": "payomet",
+      "name": "Payomet Performing Arts Center",
+      "url": "https://payomet.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "6901e2c90fbf",
+    "slug": "circus-camp-tiny-tent-for-ages-5-6-2027-07-26-6901",
+    "title": "Circus Camp // Tiny Tent for Ages 5 6",
+    "summary": "",
+    "start": "2027-07-26T13:30:00.000Z",
+    "end": "2027-07-29T18:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Cirque by the Sea at WHAT",
+      "address": "2357 State Highway Route 6, Wellfleet",
+      "town": "wellfleet",
+      "lat": 41.927872,
+      "lng": -70.043444
+    },
+    "categories": [
+      "music",
+      "theater",
+      "family"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "url": "https://payomet.org/calendar/circus-camp-tiny-tent-for-ages-5-6-13/",
+    "ticketUrl": "https://tickets.payomet.org/tiny-tent-circus-camp",
+    "image": "https://payomet.org/wp-content/uploads/2026/10/Tiny-Tent.webp",
+    "source": {
+      "id": "payomet",
+      "name": "Payomet Performing Arts Center",
+      "url": "https://payomet.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "efae1c7d2c8e",
+    "slug": "circus-camp-teen-intensive-for-ages-13-16-2027-07-26-efae",
+    "title": "Circus Camp // Teen Intensive for Ages 13-16",
+    "summary": "",
+    "start": "2027-07-26T19:00:00.000Z",
+    "end": "2027-07-30T19:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Cirque by the Sea at WHAT",
+      "address": "2357 State Highway Route 6, Wellfleet",
+      "town": "wellfleet",
+      "lat": 41.927872,
+      "lng": -70.043444
+    },
+    "categories": [
+      "music",
+      "theater",
+      "family"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "url": "https://payomet.org/calendar/circus-camp-teen-intensive-for-ages-13-16-5/",
+    "ticketUrl": "https://tickets.payomet.org/circus-camp-teens",
+    "image": "https://payomet.org/wp-content/uploads/2026/10/Teen_Intensive.webp",
+    "source": {
+      "id": "payomet",
+      "name": "Payomet Performing Arts Center",
+      "url": "https://payomet.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "e446c83b6366",
+    "slug": "circus-camp-kids-base-camp-for-ages-7-12-2027-08-02-e446",
+    "title": "Circus Camp // Kids Base Camp for Ages 7-12",
+    "summary": "",
+    "start": "2027-08-02T13:30:00.000Z",
+    "end": "2027-08-05T18:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Cirque by the Sea at WHAT",
+      "address": "2357 State Highway Route 6, Wellfleet",
+      "town": "wellfleet",
+      "lat": 41.927872,
+      "lng": -70.043444
+    },
+    "categories": [
+      "music",
+      "theater",
+      "family"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "url": "https://payomet.org/calendar/circus-camp-kids-base-camp-for-ages-7-12-16/",
+    "ticketUrl": "https://tickets.payomet.org/kids-circus-camp",
+    "image": "https://payomet.org/wp-content/uploads/2026/06/BaseCamp-logo-860x562-1.webp",
+    "source": {
+      "id": "payomet",
+      "name": "Payomet Performing Arts Center",
+      "url": "https://payomet.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "58432375df4d",
+    "slug": "circus-camp-tiny-tent-for-ages-5-6-2027-08-02-5843",
+    "title": "Circus Camp // Tiny Tent for Ages 5 6",
+    "summary": "",
+    "start": "2027-08-02T13:30:00.000Z",
+    "end": "2027-08-05T18:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Cirque by the Sea at WHAT",
+      "address": "2357 State Highway Route 6, Wellfleet",
+      "town": "wellfleet",
+      "lat": 41.927872,
+      "lng": -70.043444
+    },
+    "categories": [
+      "music",
+      "theater",
+      "family"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "url": "https://payomet.org/calendar/circus-camp-tiny-tent-for-ages-5-6-14/",
+    "ticketUrl": "https://tickets.payomet.org/tiny-tent-circus-camp",
+    "image": "https://payomet.org/wp-content/uploads/2026/10/Tiny-Tent.webp",
+    "source": {
+      "id": "payomet",
+      "name": "Payomet Performing Arts Center",
+      "url": "https://payomet.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "00c34b59c8f4",
+    "slug": "circus-camp-teen-intensive-for-ages-13-16-2027-08-02-00c3",
+    "title": "Circus Camp // Teen Intensive for Ages 13-16",
+    "summary": "",
+    "start": "2027-08-02T19:00:00.000Z",
+    "end": "2027-08-06T19:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Cirque by the Sea at WHAT",
+      "address": "2357 State Highway Route 6, Wellfleet",
+      "town": "wellfleet",
+      "lat": 41.927872,
+      "lng": -70.043444
+    },
+    "categories": [
+      "music",
+      "theater",
+      "family"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "url": "https://payomet.org/calendar/circus-camp-teen-intensive-for-ages-13-16-6/",
+    "ticketUrl": "https://tickets.payomet.org/circus-camp-teens",
+    "image": "https://payomet.org/wp-content/uploads/2026/10/Teen_Intensive.webp",
+    "source": {
+      "id": "payomet",
+      "name": "Payomet Performing Arts Center",
+      "url": "https://payomet.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "0ece8bf5dd77",
+    "slug": "circus-camp-kids-base-camp-for-ages-7-12-2027-08-09-0ece",
+    "title": "Circus Camp // Kids Base Camp for Ages 7-12",
+    "summary": "",
+    "start": "2027-08-09T13:30:00.000Z",
+    "end": "2027-08-12T18:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Cirque by the Sea at WHAT",
+      "address": "2357 State Highway Route 6, Wellfleet",
+      "town": "wellfleet",
+      "lat": 41.927872,
+      "lng": -70.043444
+    },
+    "categories": [
+      "music",
+      "theater",
+      "family"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "url": "https://payomet.org/calendar/circus-camp-kids-base-camp-for-ages-7-12-17/",
+    "ticketUrl": "https://tickets.payomet.org/kids-circus-camp",
+    "image": "https://payomet.org/wp-content/uploads/2026/06/BaseCamp-logo-860x562-1.webp",
+    "source": {
+      "id": "payomet",
+      "name": "Payomet Performing Arts Center",
+      "url": "https://payomet.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "507a1bd48f48",
+    "slug": "circus-camp-tiny-tent-for-ages-5-6-2027-08-09-507a",
+    "title": "Circus Camp // Tiny Tent for Ages 5 6",
+    "summary": "",
+    "start": "2027-08-09T13:30:00.000Z",
+    "end": "2027-08-12T18:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Cirque by the Sea at WHAT",
+      "address": "2357 State Highway Route 6, Wellfleet",
+      "town": "wellfleet",
+      "lat": 41.927872,
+      "lng": -70.043444
+    },
+    "categories": [
+      "music",
+      "theater",
+      "family"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "url": "https://payomet.org/calendar/circus-camp-tiny-tent-for-ages-5-6-15/",
+    "ticketUrl": "https://tickets.payomet.org/tiny-tent-circus-camp",
+    "image": "https://payomet.org/wp-content/uploads/2026/10/Tiny-Tent.webp",
+    "source": {
+      "id": "payomet",
+      "name": "Payomet Performing Arts Center",
+      "url": "https://payomet.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "236fef155693",
+    "slug": "circus-camp-teen-intensive-for-ages-13-16-2027-08-09-236f",
+    "title": "Circus Camp // Teen Intensive for Ages 13-16",
+    "summary": "",
+    "start": "2027-08-09T19:00:00.000Z",
+    "end": "2027-08-13T19:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Cirque by the Sea at WHAT",
+      "address": "2357 State Highway Route 6, Wellfleet",
+      "town": "wellfleet",
+      "lat": 41.927872,
+      "lng": -70.043444
+    },
+    "categories": [
+      "music",
+      "theater",
+      "family"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "url": "https://payomet.org/calendar/circus-camp-teen-intensive-for-ages-13-16-7/",
+    "ticketUrl": "https://tickets.payomet.org/circus-camp-teens",
+    "image": "https://payomet.org/wp-content/uploads/2026/10/Teen_Intensive.webp",
+    "source": {
+      "id": "payomet",
+      "name": "Payomet Performing Arts Center",
+      "url": "https://payomet.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "f6480befc683",
+    "slug": "circus-camp-kids-base-camp-for-ages-7-12-2027-08-16-f648",
+    "title": "Circus Camp // Kids Base Camp for Ages 7-12",
+    "summary": "",
+    "start": "2027-08-16T13:30:00.000Z",
+    "end": "2027-08-19T18:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Cirque by the Sea at WHAT",
+      "address": "2357 State Highway Route 6, Wellfleet",
+      "town": "wellfleet",
+      "lat": 41.927872,
+      "lng": -70.043444
+    },
+    "categories": [
+      "music",
+      "theater",
+      "family"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "url": "https://payomet.org/calendar/circus-camp-kids-base-camp-for-ages-7-12-18/",
+    "ticketUrl": "https://tickets.payomet.org/kids-circus-camp",
+    "image": "https://payomet.org/wp-content/uploads/2026/06/BaseCamp-logo-860x562-1.webp",
+    "source": {
+      "id": "payomet",
+      "name": "Payomet Performing Arts Center",
+      "url": "https://payomet.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "2cbeebdcc8c8",
+    "slug": "circus-camp-tiny-tent-for-ages-5-6-2027-08-16-2cbe",
+    "title": "Circus Camp // Tiny Tent for Ages 5 6",
+    "summary": "",
+    "start": "2027-08-16T13:30:00.000Z",
+    "end": "2027-08-19T18:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Cirque by the Sea at WHAT",
+      "address": "2357 State Highway Route 6, Wellfleet",
+      "town": "wellfleet",
+      "lat": 41.927872,
+      "lng": -70.043444
+    },
+    "categories": [
+      "music",
+      "theater",
+      "family"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "url": "https://payomet.org/calendar/circus-camp-tiny-tent-for-ages-5-6-16/",
+    "ticketUrl": "https://tickets.payomet.org/tiny-tent-circus-camp",
+    "image": "https://payomet.org/wp-content/uploads/2026/10/Tiny-Tent.webp",
+    "source": {
+      "id": "payomet",
+      "name": "Payomet Performing Arts Center",
+      "url": "https://payomet.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "cf7d5b09f44e",
+    "slug": "circus-camp-teen-intensive-for-ages-13-16-2027-08-16-cf7d",
+    "title": "Circus Camp // Teen Intensive for Ages 13-16",
+    "summary": "",
+    "start": "2027-08-16T19:00:00.000Z",
+    "end": "2027-08-20T19:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Cirque by the Sea at WHAT",
+      "address": "2357 State Highway Route 6, Wellfleet",
+      "town": "wellfleet",
+      "lat": 41.927872,
+      "lng": -70.043444
+    },
+    "categories": [
+      "music",
+      "theater",
+      "family"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "url": "https://payomet.org/calendar/circus-camp-teen-intensive-for-ages-13-16-8/",
+    "ticketUrl": "https://tickets.payomet.org/circus-camp-teens",
+    "image": "https://payomet.org/wp-content/uploads/2026/10/Teen_Intensive.webp",
+    "source": {
+      "id": "payomet",
+      "name": "Payomet Performing Arts Center",
+      "url": "https://payomet.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "651625cde851",
+    "slug": "circus-camp-kids-base-camp-for-ages-7-12-2027-08-23-6516",
+    "title": "Circus Camp // Kids Base Camp for Ages 7-12",
+    "summary": "",
+    "start": "2027-08-23T13:30:00.000Z",
+    "end": "2027-08-26T18:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Cirque by the Sea at WHAT",
+      "address": "2357 State Highway Route 6, Wellfleet",
+      "town": "wellfleet",
+      "lat": 41.927872,
+      "lng": -70.043444
+    },
+    "categories": [
+      "music",
+      "theater",
+      "family"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "url": "https://payomet.org/calendar/circus-camp-kids-base-camp-for-ages-7-12-19/",
+    "ticketUrl": "https://tickets.payomet.org/kids-circus-camp",
+    "image": "https://payomet.org/wp-content/uploads/2026/06/BaseCamp-logo-860x562-1.webp",
+    "source": {
+      "id": "payomet",
+      "name": "Payomet Performing Arts Center",
+      "url": "https://payomet.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "8ab71aca1595",
+    "slug": "circus-camp-tiny-tent-for-ages-5-6-2027-08-23-8ab7",
+    "title": "Circus Camp // Tiny Tent for Ages 5 6",
+    "summary": "",
+    "start": "2027-08-23T13:30:00.000Z",
+    "end": "2027-08-26T18:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Cirque by the Sea at WHAT",
+      "address": "2357 State Highway Route 6, Wellfleet",
+      "town": "wellfleet",
+      "lat": 41.927872,
+      "lng": -70.043444
+    },
+    "categories": [
+      "music",
+      "theater",
+      "family"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "url": "https://payomet.org/calendar/circus-camp-tiny-tent-for-ages-5-6-17/",
+    "ticketUrl": "https://tickets.payomet.org/tiny-tent-circus-camp",
+    "image": "https://payomet.org/wp-content/uploads/2026/10/Tiny-Tent.webp",
+    "source": {
+      "id": "payomet",
+      "name": "Payomet Performing Arts Center",
+      "url": "https://payomet.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "10efe47c7448",
+    "slug": "circus-camp-teen-intensive-for-ages-13-16-2027-08-23-10ef",
+    "title": "Circus Camp // Teen Intensive for Ages 13-16",
+    "summary": "",
+    "start": "2027-08-23T19:00:00.000Z",
+    "end": "2027-08-27T19:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Cirque by the Sea at WHAT",
+      "address": "2357 State Highway Route 6, Wellfleet",
+      "town": "wellfleet",
+      "lat": 41.927872,
+      "lng": -70.043444
+    },
+    "categories": [
+      "music",
+      "theater",
+      "family"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "url": "https://payomet.org/calendar/circus-camp-teen-intensive-for-ages-13-16-9/",
+    "ticketUrl": "https://tickets.payomet.org/circus-camp-teens",
+    "image": "https://payomet.org/wp-content/uploads/2026/10/Teen_Intensive.webp",
+    "source": {
+      "id": "payomet",
+      "name": "Payomet Performing Arts Center",
+      "url": "https://payomet.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "7140d3c43bd3",
+    "slug": "circus-camp-kids-base-camp-for-ages-7-12-2027-08-30-7140",
+    "title": "Circus Camp // Kids Base Camp for Ages 7-12",
+    "summary": "",
+    "start": "2027-08-30T13:30:00.000Z",
+    "end": "2027-09-02T18:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Cirque by the Sea at WHAT",
+      "address": "2357 State Highway Route 6, Wellfleet",
+      "town": "wellfleet",
+      "lat": 41.927872,
+      "lng": -70.043444
+    },
+    "categories": [
+      "music",
+      "theater",
+      "family"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "url": "https://payomet.org/calendar/circus-camp-kids-base-camp-for-ages-7-12-20/",
+    "ticketUrl": "https://tickets.payomet.org/kids-circus-camp",
+    "image": "https://payomet.org/wp-content/uploads/2026/06/BaseCamp-logo-860x562-1.webp",
+    "source": {
+      "id": "payomet",
+      "name": "Payomet Performing Arts Center",
+      "url": "https://payomet.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
+  },
+  {
+    "id": "de650bef57a4",
+    "slug": "circus-camp-tiny-tent-for-ages-5-6-2027-08-30-de65",
+    "title": "Circus Camp // Tiny Tent for Ages 5 6",
+    "summary": "",
+    "start": "2027-08-30T13:30:00.000Z",
+    "end": "2027-09-02T18:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Cirque by the Sea at WHAT",
+      "address": "2357 State Highway Route 6, Wellfleet",
+      "town": "wellfleet",
+      "lat": 41.927872,
+      "lng": -70.043444
+    },
+    "categories": [
+      "music",
+      "theater",
+      "family"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "url": "https://payomet.org/calendar/circus-camp-tiny-tent-for-ages-5-6-18/",
+    "ticketUrl": "https://tickets.payomet.org/tiny-tent-circus-camp",
+    "image": "https://payomet.org/wp-content/uploads/2026/10/Tiny-Tent.webp",
+    "source": {
+      "id": "payomet",
+      "name": "Payomet Performing Arts Center",
+      "url": "https://payomet.org/events/"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T17:57:28.145Z",
+    "lastSeen": "2026-10-17T17:57:28.145Z"
   }
 ]
