@@ -24,7 +24,7 @@ Everything happening on Cape Cod, by land or by sea. A mobile-first events calen
 
 ## Setting it up
 
-1. **Cloudways:** create a "Custom PHP" app (PHP 8.2+) on your Flexible server, turn Varnish off for it, add the domain and a free Let's Encrypt certificate, and add an SSH public key under Master Credentials.
+1. **Cloudways:** create a "Custom PHP" app (PHP 8.2+) on your Flexible server, turn Varnish off for it, add the domain and a free Let's Encrypt certificate, and note the server's master credentials and the app's folder name.
 2. **GitHub → Settings → Secrets and variables → Actions:** add everything listed in `.env.example`.
 3. **Publish:** Actions → "Publish to Cloudways" → Run workflow. Then Actions → "Event round-up" → Run workflow for the first real events (sample events disappear once real ones arrive).
 
