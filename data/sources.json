@@ -5,12 +5,13 @@
     "url": "https://www.capecodchamber.org/events/",
     "type": "auto",
     "trusted": true,
-    "enabled": true
+    "enabled": true,
+    "notes": "Events load with JavaScript; nothing readable in the page yet"
   },
   {
     "id": "falmouth-chamber",
     "name": "Falmouth Chamber of Commerce",
-    "url": "https://www.falmouthchamber.com/events/",
+    "url": "https://www.capecodchamber.org/falmouth-chamber/events/community-events/",
     "type": "auto",
     "trusted": true,
     "enabled": true,
@@ -28,7 +29,7 @@
   {
     "id": "sandwich-chamber",
     "name": "Sandwich Chamber of Commerce",
-    "url": "https://www.sandwichchamber.com/events/",
+    "url": "https://www.sandwichchamber.com/2026-event-schedule.html",
     "type": "auto",
     "trusted": true,
     "enabled": true,
@@ -55,7 +56,7 @@
   {
     "id": "dennis-chamber",
     "name": "Dennis Chamber of Commerce",
-    "url": "https://www.dennischamber.com/events/",
+    "url": "https://business.dennischamber.com/calendar",
     "type": "auto",
     "trusted": true,
     "enabled": true,
@@ -91,7 +92,7 @@
   {
     "id": "orleans-chamber",
     "name": "Orleans Chamber of Commerce",
-    "url": "https://www.orleanscapecod.org/events/",
+    "url": "https://members.orleanscapecod.org/events/calendar",
     "type": "auto",
     "trusted": true,
     "enabled": true,
@@ -109,7 +110,7 @@
   {
     "id": "wellfleet-chamber",
     "name": "Wellfleet Chamber of Commerce",
-    "url": "https://www.wellfleetchamber.com/events/",
+    "url": "https://www.wellfleetchamber.com/event-calendar/",
     "type": "auto",
     "trusted": true,
     "enabled": true,
