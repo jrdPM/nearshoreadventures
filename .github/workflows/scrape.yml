@@ -17,7 +17,10 @@ jobs:
       group: scrape
     timeout-minutes: 45
     steps:
+      # Always work on main, even when the run is started from another branch.
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-node@v4
         with:
           node-version: 22
@@ -34,8 +37,8 @@ jobs:
           git add data/
           if git diff --cached --quiet; then echo "No changes"; exit 0; fi
           git commit -m "Event round-up $(date -u +%Y-%m-%d)"
-          git pull --rebase origin ${{ github.ref_name }}
-          git push
+          git pull --rebase origin main
+          git push origin HEAD:main
 
   # Pushes made by this workflow don't trigger other workflows, so publish explicitly.
   publish:
