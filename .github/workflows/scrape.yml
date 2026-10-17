@@ -1,0 +1,40 @@
+name: Event round-up
+
+# Monday, Wednesday and Friday mornings (about every 2–3 days).
+# Wednesday's run feeds Thursday's email.
+on:
+  schedule:
+    - cron: "0 10 * * 1,3,5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-updates
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Pull events from every source
+        run: npm run scrape
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      - name: Save the results
+        run: |
+          git config user.name "nearshore-bot"
+          git config user.email "nearshore-bot@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "Event round-up $(date -u +%Y-%m-%d)"
+          git pull --rebase origin ${{ github.ref_name }}
+          git push

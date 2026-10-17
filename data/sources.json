@@ -1,0 +1,514 @@
+[
+  {
+    "id": "capecodchamber",
+    "name": "Cape Cod Chamber of Commerce",
+    "url": "https://www.capecodchamber.org/events/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true
+  },
+  {
+    "id": "falmouth-chamber",
+    "name": "Falmouth Chamber of Commerce",
+    "url": "https://www.falmouthchamber.com/events/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "falmouth"
+  },
+  {
+    "id": "hyannis-chamber",
+    "name": "Hyannis Area Chamber",
+    "url": "https://www.hyannis.com/events/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "barnstable"
+  },
+  {
+    "id": "sandwich-chamber",
+    "name": "Sandwich Chamber of Commerce",
+    "url": "https://www.sandwichchamber.com/events/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "sandwich"
+  },
+  {
+    "id": "mashpee-chamber",
+    "name": "Mashpee Chamber of Commerce",
+    "url": "https://www.mashpeechamber.com/events/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "mashpee"
+  },
+  {
+    "id": "yarmouth-chamber",
+    "name": "Yarmouth Chamber of Commerce",
+    "url": "https://www.yarmouthcapecod.com/events/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "yarmouth"
+  },
+  {
+    "id": "dennis-chamber",
+    "name": "Dennis Chamber of Commerce",
+    "url": "https://www.dennischamber.com/events/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "dennis"
+  },
+  {
+    "id": "harwich-chamber",
+    "name": "Harwich Chamber of Commerce",
+    "url": "https://www.harwichcc.com/events/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "harwich"
+  },
+  {
+    "id": "brewster-chamber",
+    "name": "Brewster Chamber of Commerce",
+    "url": "https://www.brewster-capecod.org/events/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "brewster"
+  },
+  {
+    "id": "chatham-chamber",
+    "name": "Chatham Chamber of Commerce",
+    "url": "https://www.chathaminfo.com/events/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "chatham"
+  },
+  {
+    "id": "orleans-chamber",
+    "name": "Orleans Chamber of Commerce",
+    "url": "https://www.orleanscapecod.org/events/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "orleans"
+  },
+  {
+    "id": "eastham-chamber",
+    "name": "Eastham Chamber of Commerce",
+    "url": "https://www.easthamchamber.com/events/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "eastham"
+  },
+  {
+    "id": "wellfleet-chamber",
+    "name": "Wellfleet Chamber of Commerce",
+    "url": "https://www.wellfleetchamber.com/events/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "wellfleet"
+  },
+  {
+    "id": "ptown-chamber",
+    "name": "Provincetown Chamber of Commerce",
+    "url": "https://ptownchamber.com/events/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "provincetown"
+  },
+  {
+    "id": "melody-tent",
+    "name": "Cape Cod Melody Tent",
+    "url": "https://www.melodytent.org/events",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "barnstable",
+    "categories": [
+      "music"
+    ]
+  },
+  {
+    "id": "payomet",
+    "name": "Payomet Performing Arts Center",
+    "url": "https://payomet.org/events/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "truro",
+    "categories": [
+      "music",
+      "theater"
+    ]
+  },
+  {
+    "id": "cape-playhouse",
+    "name": "The Cape Playhouse",
+    "url": "https://capeplayhouse.com/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "dennis",
+    "categories": [
+      "theater"
+    ]
+  },
+  {
+    "id": "cape-cinema",
+    "name": "Cape Cinema",
+    "url": "https://capecinema.org/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "dennis",
+    "categories": [
+      "theater"
+    ]
+  },
+  {
+    "id": "cultural-center",
+    "name": "Cultural Center of Cape Cod",
+    "url": "https://cultural-center.org/events/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "yarmouth",
+    "categories": [
+      "arts",
+      "classes"
+    ]
+  },
+  {
+    "id": "ccmoa",
+    "name": "Cape Cod Museum of Art",
+    "url": "https://ccmoa.org/events/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "dennis",
+    "categories": [
+      "arts"
+    ]
+  },
+  {
+    "id": "paam",
+    "name": "Provincetown Art Association and Museum",
+    "url": "https://paam.org/events/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "provincetown",
+    "categories": [
+      "arts"
+    ]
+  },
+  {
+    "id": "highfield-hall",
+    "name": "Highfield Hall & Gardens",
+    "url": "https://highfieldhallandgardens.org/events/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "falmouth",
+    "categories": [
+      "arts"
+    ]
+  },
+  {
+    "id": "heritage-gardens",
+    "name": "Heritage Museums & Gardens",
+    "url": "https://heritagemuseumsandgardens.org/events/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "sandwich",
+    "categories": [
+      "outdoors",
+      "family"
+    ]
+  },
+  {
+    "id": "ccmnh",
+    "name": "Cape Cod Museum of Natural History",
+    "url": "https://ccmnh.org/events/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "brewster",
+    "categories": [
+      "outdoors",
+      "family"
+    ]
+  },
+  {
+    "id": "wht",
+    "name": "Woods Hole Theater Company",
+    "url": "https://woodsholetheater.org/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "falmouth",
+    "categories": [
+      "theater"
+    ]
+  },
+  {
+    "id": "cape-rep",
+    "name": "Cape Rep Theatre",
+    "url": "https://caperep.org/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "brewster",
+    "categories": [
+      "theater"
+    ]
+  },
+  {
+    "id": "wellfleet-harbor-actors",
+    "name": "Wellfleet Harbor Actors Theater",
+    "url": "https://what.org/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "wellfleet",
+    "categories": [
+      "theater"
+    ]
+  },
+  {
+    "id": "cape-symphony",
+    "name": "Cape Symphony",
+    "url": "https://capesymphony.org/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "barnstable",
+    "categories": [
+      "music"
+    ]
+  },
+  {
+    "id": "zion-union",
+    "name": "Zion Union Heritage Museum",
+    "url": "https://zionunionheritagemuseum.org/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "barnstable",
+    "categories": [
+      "arts"
+    ]
+  },
+  {
+    "id": "wellfleet-oysterfest",
+    "name": "Wellfleet OysterFest",
+    "url": "https://www.wellfleetoysterfest.org/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "wellfleet",
+    "categories": [
+      "festivals",
+      "food"
+    ]
+  },
+  {
+    "id": "capecodtimes",
+    "name": "Cape Cod Times events",
+    "url": "https://www.capecodtimes.com/things-to-do/events/",
+    "type": "auto",
+    "trusted": false,
+    "enabled": true,
+    "notes": "Aggregator: events are held for review until we trust it."
+  },
+  {
+    "id": "capecod-com",
+    "name": "CapeCod.com events",
+    "url": "https://www.capecod.com/events/",
+    "type": "auto",
+    "trusted": false,
+    "enabled": true,
+    "notes": "Aggregator: events are held for review until we trust it."
+  },
+  {
+    "id": "barnstable-town",
+    "name": "Town of Barnstable calendar",
+    "url": "https://www.townofbarnstable.us/Calendar.aspx",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "barnstable",
+    "categories": [
+      "community"
+    ]
+  },
+  {
+    "id": "falmouth-town",
+    "name": "Town of Falmouth calendar",
+    "url": "https://www.falmouthma.gov/calendar.aspx",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "falmouth",
+    "categories": [
+      "community"
+    ]
+  },
+  {
+    "id": "chatham-town",
+    "name": "Town of Chatham calendar",
+    "url": "https://www.chatham-ma.gov/calendar.aspx",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "chatham",
+    "categories": [
+      "community"
+    ]
+  },
+  {
+    "id": "brewster-coa",
+    "name": "Brewster Council on Aging",
+    "url": "https://www.brewster-ma.gov/council-on-aging",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "brewster",
+    "categories": [
+      "seniors"
+    ]
+  },
+  {
+    "id": "barnstable-senior",
+    "name": "Barnstable Adult Community Center",
+    "url": "https://www.townofbarnstable.us/Departments/SeniorServices/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "barnstable",
+    "categories": [
+      "seniors"
+    ]
+  },
+  {
+    "id": "sturgis-library",
+    "name": "Sturgis Library",
+    "url": "https://sturgislibrary.org/events/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "barnstable",
+    "categories": [
+      "community",
+      "arts"
+    ]
+  },
+  {
+    "id": "eldredge-library",
+    "name": "Eldredge Public Library",
+    "url": "https://www.eldredgelibrary.org/events/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "chatham",
+    "categories": [
+      "community"
+    ]
+  },
+  {
+    "id": "falmouth-library",
+    "name": "Falmouth Public Library",
+    "url": "https://www.falmouthpubliclibrary.org/events/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "falmouth",
+    "categories": [
+      "community"
+    ]
+  },
+  {
+    "id": "mass-audubon-wellfleet",
+    "name": "Mass Audubon Wellfleet Bay",
+    "url": "https://www.massaudubon.org/places-to-explore/wildlife-sanctuaries/wellfleet-bay/programs",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "wellfleet",
+    "categories": [
+      "outdoors"
+    ]
+  },
+  {
+    "id": "cape-cod-nps",
+    "name": "Cape Cod National Seashore",
+    "url": "https://www.nps.gov/caco/planyourvisit/calendar.htm",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "eastham",
+    "categories": [
+      "outdoors"
+    ]
+  },
+  {
+    "id": "hyannis-main-street",
+    "name": "Hyannis Main Street BID",
+    "url": "https://hyannismainstreet.com/events/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "barnstable",
+    "categories": [
+      "community"
+    ]
+  },
+  {
+    "id": "falmouth-art-center",
+    "name": "Falmouth Art Center",
+    "url": "https://falmouthart.org/events/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "falmouth",
+    "categories": [
+      "arts",
+      "classes"
+    ]
+  },
+  {
+    "id": "creative-arts-center",
+    "name": "Creative Arts Center Chatham",
+    "url": "https://capecodcreativearts.org/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "chatham",
+    "categories": [
+      "arts",
+      "classes"
+    ]
+  },
+  {
+    "id": "fine-arts-work-center",
+    "name": "Fine Arts Work Center",
+    "url": "https://fawc.org/events/",
+    "type": "auto",
+    "trusted": true,
+    "enabled": true,
+    "town": "provincetown",
+    "categories": [
+      "arts",
+      "classes"
+    ]
+  }
+]

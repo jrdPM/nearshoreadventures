@@ -1,0 +1,42 @@
+name: Thursday email
+
+# 7:30am Eastern on Thursdays (11:30 UTC in summer, 12:30 UTC in winter; this runs at 11:30 UTC).
+on:
+  schedule:
+    - cron: "30 11 * * 4"
+  workflow_dispatch:
+    inputs:
+      dry:
+        description: "Build it without sending"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-updates
+  cancel-in-progress: false
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Build and send
+        run: npm run newsletter -- ${{ inputs.dry && '--dry' || '' }}
+        env:
+          BEEHIIV_API_KEY: ${{ secrets.BEEHIIV_API_KEY }}
+          BEEHIIV_PUBLICATION_ID: ${{ secrets.BEEHIIV_PUBLICATION_ID }}
+          NEXT_PUBLIC_SITE_URL: ${{ vars.SITE_URL }}
+      - name: Keep a copy
+        run: |
+          git config user.name "nearshore-bot"
+          git config user.email "nearshore-bot@users.noreply.github.com"
+          git add newsletter/
+          git diff --cached --quiet || (git commit -m "Thursday email $(date -u +%Y-%m-%d)" && git pull --rebase origin ${{ github.ref_name }} && git push)

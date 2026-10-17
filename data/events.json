@@ -1,0 +1,1508 @@
+[
+  {
+    "id": "bfa83b01c1ce",
+    "slug": "wellfleet-oysterfest-2026-10-17-bfa8",
+    "title": "Wellfleet OysterFest",
+    "summary": "Two days of shucking contests, local oysters, live bands and crafts filling the middle of town.",
+    "start": "2026-10-17T14:00:00.000Z",
+    "end": "2026-10-18T21:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Downtown Wellfleet",
+      "town": "wellfleet",
+      "lat": 41.9385,
+      "lng": -70.0295
+    },
+    "categories": [
+      "festivals",
+      "food"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": false,
+      "outdoor": true,
+      "byBoat": true
+    },
+    "priceText": "$5 suggested donation",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "5d17a10686f7",
+    "slug": "jazz-brunch-on-the-harbor-2026-10-18-5d17",
+    "title": "Jazz Brunch on the Harbor",
+    "summary": "A trio plays standards while you eat brunch looking out at Hyannis Harbor. Dock space nearby.",
+    "start": "2026-10-18T15:00:00.000Z",
+    "end": "2026-10-18T18:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Bismore Park",
+      "town": "barnstable",
+      "lat": 41.6513,
+      "lng": -70.2845
+    },
+    "categories": [
+      "music",
+      "food",
+      "water"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": true
+    },
+    "priceText": "$35",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "f7807072b112",
+    "slug": "canal-sunset-bike-ride-2026-10-19-f780",
+    "title": "Canal Sunset Bike Ride",
+    "summary": "An easy group ride along the canal path toward the railroad bridge at sunset.",
+    "start": "2026-10-19T20:30:00.000Z",
+    "end": "2026-10-19T22:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Cape Cod Canal Visitor Center",
+      "town": "bourne",
+      "lat": 41.7422,
+      "lng": -70.5944
+    },
+    "categories": [
+      "outdoors"
+    ],
+    "tags": {
+      "free": true,
+      "kids": false,
+      "seniors": false,
+      "outdoor": true,
+      "byBoat": false
+    },
+    "priceText": "Free",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "5c97489e8238",
+    "slug": "senior-tai-chi-2026-10-20-5c97",
+    "title": "Senior Tai Chi",
+    "summary": "Gentle, low-impact tai chi for balance and flexibility. Drop-ins welcome.",
+    "start": "2026-10-20T13:30:00.000Z",
+    "end": "2026-10-20T14:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Brewster Council on Aging",
+      "town": "brewster",
+      "lat": 41.7554,
+      "lng": -70.0793
+    },
+    "categories": [
+      "seniors",
+      "classes"
+    ],
+    "tags": {
+      "free": true,
+      "kids": false,
+      "seniors": true,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "Free",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "e1c7f3a5af68",
+    "slug": "cranberry-bog-tour-2026-10-20-e1c7",
+    "title": "Cranberry Bog Tour",
+    "summary": "See the fall harvest up close and learn how Cape cranberries get from bog to table.",
+    "start": "2026-10-20T18:00:00.000Z",
+    "end": "2026-10-20T19:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Harwich Cranberry Bogs",
+      "town": "harwich",
+      "lat": 41.6911,
+      "lng": -70.076
+    },
+    "categories": [
+      "outdoors",
+      "food"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": true,
+      "byBoat": false
+    },
+    "priceText": "$20",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "98366869f774",
+    "slug": "watercolor-basics-painting-the-marsh-2026-10-21-9836",
+    "title": "Watercolor Basics: Painting the Marsh",
+    "summary": "A beginner-friendly watercolor workshop focused on Cape marsh light. All supplies provided.",
+    "start": "2026-10-21T14:00:00.000Z",
+    "end": "2026-10-21T17:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Cultural Center of Cape Cod",
+      "town": "yarmouth",
+      "lat": 41.7073,
+      "lng": -70.2332
+    },
+    "categories": [
+      "classes",
+      "arts"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": true,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$55",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "3b5b1cc3e187",
+    "slug": "wednesday-trivia-night-2026-10-21-3b5b",
+    "title": "Wednesday Trivia Night",
+    "summary": "Teams of up to six. Prizes for the winners and the best team name.",
+    "start": "2026-10-21T23:00:00.000Z",
+    "end": "2026-10-22T01:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Barnstable Brewing",
+      "town": "barnstable",
+      "lat": 41.6577,
+      "lng": -70.2913
+    },
+    "categories": [
+      "food",
+      "community"
+    ],
+    "tags": {
+      "free": true,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "Free",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "f1b48e5b08c1",
+    "slug": "story-time-at-sturgis-library-2026-10-22-f1b4",
+    "title": "Story Time at Sturgis Library",
+    "summary": "Picture books, songs and a craft for little ones ages 2 to 5.",
+    "start": "2026-10-22T14:30:00.000Z",
+    "end": "2026-10-22T15:15:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Sturgis Library",
+      "town": "barnstable",
+      "lat": 41.6558,
+      "lng": -70.2848
+    },
+    "categories": [
+      "family"
+    ],
+    "tags": {
+      "free": true,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "Free",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "3f9ee734fab5",
+    "slug": "open-mic-night-2026-10-22-3f9e",
+    "title": "Open Mic Night",
+    "summary": "Local songwriters and first-timers share the stage. Sign-ups start at 6:30.",
+    "start": "2026-10-22T23:00:00.000Z",
+    "end": "2026-10-23T02:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Harbor Glen Pub",
+      "town": "dennis",
+      "lat": 41.739,
+      "lng": -70.1962
+    },
+    "categories": [
+      "music"
+    ],
+    "tags": {
+      "free": true,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "Free",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "44ed39cffd0b",
+    "slug": "memory-caf-2026-10-23-44ed",
+    "title": "Memory Café",
+    "summary": "A relaxed social hour with music and coffee for people living with memory loss and their care partners.",
+    "start": "2026-10-23T17:00:00.000Z",
+    "end": "2026-10-23T18:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Falmouth Senior Center",
+      "town": "falmouth",
+      "lat": 41.551,
+      "lng": -70.6161
+    },
+    "categories": [
+      "seniors",
+      "community"
+    ],
+    "tags": {
+      "free": true,
+      "kids": false,
+      "seniors": true,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "Free",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "28c7a5457956",
+    "slug": "cape-cinema-classic-film-night-2026-10-23-28c7",
+    "title": "Cape Cinema: Classic Film Night",
+    "summary": "A big-screen showing of a black-and-white classic under the cinema's famous ceiling mural.",
+    "start": "2026-10-23T23:00:00.000Z",
+    "end": "2026-10-24T01:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Cape Cinema",
+      "town": "dennis",
+      "lat": 41.7343,
+      "lng": -70.1908
+    },
+    "categories": [
+      "theater"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$14",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "7650e623ebaf",
+    "slug": "orleans-winter-farmers-market-2026-10-24-7650",
+    "title": "Orleans Winter Farmers Market",
+    "summary": "Local farms, bakers, fishermen and makers, every Saturday morning all winter.",
+    "start": "2026-10-24T13:00:00.000Z",
+    "end": "2026-10-24T16:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Nauset Regional Middle School",
+      "town": "orleans",
+      "lat": 41.7936,
+      "lng": -69.9914
+    },
+    "categories": [
+      "markets",
+      "food"
+    ],
+    "tags": {
+      "free": true,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "Free",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "7ca21f9f4de1",
+    "slug": "beach-cleanup-at-nauset-2026-10-24-7ca2",
+    "title": "Beach Cleanup at Nauset",
+    "summary": "Grab a bag and a buddy and help keep the Seashore clean. Gloves provided.",
+    "start": "2026-10-24T13:00:00.000Z",
+    "end": "2026-10-24T15:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Nauset Light Beach",
+      "town": "eastham",
+      "lat": 41.8257,
+      "lng": -69.974
+    },
+    "categories": [
+      "outdoors",
+      "community"
+    ],
+    "tags": {
+      "free": true,
+      "kids": true,
+      "seniors": false,
+      "outdoor": true,
+      "byBoat": false
+    },
+    "priceText": "Free",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "df1b37c299d6",
+    "slug": "harvest-moon-paddle-on-pleasant-bay-2026-10-24-df1b",
+    "title": "Harvest Moon Paddle on Pleasant Bay",
+    "summary": "A guided sunset kayak paddle under the full moon. Boats and gear included, no experience needed.",
+    "start": "2026-10-24T21:30:00.000Z",
+    "end": "2026-10-24T23:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Meetinghouse Pond Landing",
+      "town": "orleans",
+      "lat": 41.7863,
+      "lng": -69.9904
+    },
+    "categories": [
+      "water",
+      "outdoors"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": false,
+      "outdoor": true,
+      "byBoat": true
+    },
+    "priceText": "$65",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "d7b11e7b0402",
+    "slug": "seal-walk-at-race-point-2026-10-25-d7b1",
+    "title": "Seal Walk at Race Point",
+    "summary": "Walk the beach with a ranger to spot gray seals and learn how they live off the Outer Cape.",
+    "start": "2026-10-25T14:00:00.000Z",
+    "end": "2026-10-25T15:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Race Point Beach",
+      "town": "provincetown",
+      "lat": 42.049,
+      "lng": -70.1879
+    },
+    "categories": [
+      "outdoors",
+      "water"
+    ],
+    "tags": {
+      "free": true,
+      "kids": true,
+      "seniors": false,
+      "outdoor": true,
+      "byBoat": false
+    },
+    "priceText": "Free",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "319666bac7dd",
+    "slug": "cape-symphony-fall-classics-2026-10-25-3196",
+    "title": "Cape Symphony: Fall Classics",
+    "summary": "The Cape Symphony plays Beethoven and Dvořák in its fall season opener.",
+    "start": "2026-10-25T19:00:00.000Z",
+    "end": "2026-10-25T21:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Barnstable Performing Arts Center",
+      "town": "barnstable",
+      "lat": 41.6576,
+      "lng": -70.2832
+    },
+    "categories": [
+      "music"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$25–$85",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "a47106b41936",
+    "slug": "senior-tai-chi-2026-10-27-a471",
+    "title": "Senior Tai Chi",
+    "summary": "Gentle, low-impact tai chi for balance and flexibility. Drop-ins welcome.",
+    "start": "2026-10-27T13:30:00.000Z",
+    "end": "2026-10-27T14:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Brewster Council on Aging",
+      "town": "brewster",
+      "lat": 41.7648,
+      "lng": -70.085
+    },
+    "categories": [
+      "seniors",
+      "classes"
+    ],
+    "tags": {
+      "free": true,
+      "kids": false,
+      "seniors": true,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "Free",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "bff4f136d634",
+    "slug": "bird-walk-at-wellfleet-bay-2026-10-28-bff4",
+    "title": "Bird Walk at Wellfleet Bay",
+    "summary": "Fall migration is in full swing. Bring binoculars and join a naturalist on the trails.",
+    "start": "2026-10-28T12:00:00.000Z",
+    "end": "2026-10-28T14:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Mass Audubon Wellfleet Bay Wildlife Sanctuary",
+      "town": "wellfleet",
+      "lat": 41.9361,
+      "lng": -70.0295
+    },
+    "categories": [
+      "outdoors"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": false,
+      "outdoor": true,
+      "byBoat": false
+    },
+    "priceText": "$12",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "922c4d2a042b",
+    "slug": "story-time-at-sturgis-library-2026-10-29-922c",
+    "title": "Story Time at Sturgis Library",
+    "summary": "Picture books, songs and a craft for little ones ages 2 to 5.",
+    "start": "2026-10-29T14:30:00.000Z",
+    "end": "2026-10-29T15:15:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Sturgis Library",
+      "town": "barnstable",
+      "lat": 41.6502,
+      "lng": -70.2839
+    },
+    "categories": [
+      "family"
+    ],
+    "tags": {
+      "free": true,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "Free",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "be66aae5ee30",
+    "slug": "wine-tasting-at-truro-vineyards-2026-10-30-be66",
+    "title": "Wine Tasting at Truro Vineyards",
+    "summary": "Taste the fall releases and South Hollow spirits by the fire.",
+    "start": "2026-10-30T20:00:00.000Z",
+    "end": "2026-10-30T22:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Truro Vineyards",
+      "town": "truro",
+      "lat": 41.9924,
+      "lng": -70.0467
+    },
+    "categories": [
+      "food"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$25",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "1f03bea26ad9",
+    "slug": "hyannis-main-street-halloween-stroll-2026-10-31-1f03",
+    "title": "Hyannis Main Street Halloween Stroll",
+    "summary": "Kids in costume trick-or-treat at shops up and down Main Street. Free and family-friendly.",
+    "start": "2026-10-31T15:00:00.000Z",
+    "end": "2026-10-31T18:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Main Street, Hyannis",
+      "town": "barnstable",
+      "lat": 41.6521,
+      "lng": -70.2869
+    },
+    "categories": [
+      "family",
+      "community"
+    ],
+    "tags": {
+      "free": true,
+      "kids": true,
+      "seniors": false,
+      "outdoor": true,
+      "byBoat": false
+    },
+    "priceText": "Free",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "c016c33c9540",
+    "slug": "provincetown-halloween-on-commercial-street-2026-10-31-c016",
+    "title": "Provincetown Halloween on Commercial Street",
+    "summary": "P-town goes all out. Costume parade, street performers and parties along Commercial Street.",
+    "start": "2026-10-31T23:00:00.000Z",
+    "end": "2026-11-01T03:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Commercial Street",
+      "town": "provincetown",
+      "lat": 42.0547,
+      "lng": -70.1826
+    },
+    "categories": [
+      "festivals",
+      "theater"
+    ],
+    "tags": {
+      "free": true,
+      "kids": false,
+      "seniors": false,
+      "outdoor": true,
+      "byBoat": true
+    },
+    "priceText": "Free",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "edfaf134c7d5",
+    "slug": "pottery-wheel-intro-2026-11-02-edfa",
+    "title": "Pottery Wheel Intro",
+    "summary": "Get your hands muddy. A first try at the wheel, with firing and glazing included.",
+    "start": "2026-11-02T23:00:00.000Z",
+    "end": "2026-11-03T01:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Creative Arts Center",
+      "town": "chatham",
+      "lat": 41.6793,
+      "lng": -69.9572
+    },
+    "categories": [
+      "classes",
+      "arts"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$60",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "d64aa44f19db",
+    "slug": "brewster-ladies-library-author-talk-2026-11-04-d64a",
+    "title": "Brewster Ladies' Library Author Talk",
+    "summary": "A Cape author talks about her new novel set on the bay, with a signing after.",
+    "start": "2026-11-04T23:00:00.000Z",
+    "end": "2026-11-05T00:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Brewster Ladies' Library",
+      "town": "brewster",
+      "lat": 41.7609,
+      "lng": -70.085
+    },
+    "categories": [
+      "arts",
+      "community"
+    ],
+    "tags": {
+      "free": true,
+      "kids": false,
+      "seniors": true,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "Free",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "bdbd962adf63",
+    "slug": "payomet-indoor-concert-series-2026-11-07-bdbd",
+    "title": "Payomet Indoor Concert Series",
+    "summary": "An intimate folk and Americana show in Payomet's cozy winter space.",
+    "start": "2026-11-07T00:30:00.000Z",
+    "end": "2026-11-07T02:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Payomet Performing Arts Center",
+      "town": "truro",
+      "lat": 41.9955,
+      "lng": -70.0468
+    },
+    "categories": [
+      "music"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$30",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "a7fef3f06b9a",
+    "slug": "orleans-winter-farmers-market-2026-11-07-a7fe",
+    "title": "Orleans Winter Farmers Market",
+    "summary": "Local farms, bakers, fishermen and makers, every Saturday morning all winter.",
+    "start": "2026-11-07T14:00:00.000Z",
+    "end": "2026-11-07T17:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Nauset Regional Middle School",
+      "town": "orleans",
+      "lat": 41.7854,
+      "lng": -69.9915
+    },
+    "categories": [
+      "markets",
+      "food"
+    ],
+    "tags": {
+      "free": true,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "Free",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "358dca8a1353",
+    "slug": "clam-chowder-cook-off-2026-11-08-358d",
+    "title": "Clam Chowder Cook-Off",
+    "summary": "Local restaurants compete for the best chowder on the Cape. You get to be the judge.",
+    "start": "2026-11-08T17:00:00.000Z",
+    "end": "2026-11-08T20:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Yarmouth Senior Center",
+      "town": "yarmouth",
+      "lat": 41.7016,
+      "lng": -70.2329
+    },
+    "categories": [
+      "food",
+      "community"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": true,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$15",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "75a46492f6bd",
+    "slug": "falmouth-art-center-holiday-show-opening-2026-11-13-75a4",
+    "title": "Falmouth Art Center Holiday Show Opening",
+    "summary": "Opening reception for the annual members' holiday show. Small works, perfect for gifts.",
+    "start": "2026-11-13T22:00:00.000Z",
+    "end": "2026-11-14T00:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Falmouth Art Center",
+      "town": "falmouth",
+      "lat": 41.5481,
+      "lng": -70.6163
+    },
+    "categories": [
+      "arts"
+    ],
+    "tags": {
+      "free": true,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "Free",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "4f106118ee09",
+    "slug": "orleans-winter-farmers-market-2026-11-14-4f10",
+    "title": "Orleans Winter Farmers Market",
+    "summary": "Local farms, bakers, fishermen and makers, every Saturday morning all winter.",
+    "start": "2026-11-14T14:00:00.000Z",
+    "end": "2026-11-14T17:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Nauset Regional Middle School",
+      "town": "orleans",
+      "lat": 41.7888,
+      "lng": -69.9892
+    },
+    "categories": [
+      "markets",
+      "food"
+    ],
+    "tags": {
+      "free": true,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "Free",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "28fd8361a506",
+    "slug": "pilgrim-monument-lighting-2026-11-25-28fd",
+    "title": "Pilgrim Monument Lighting",
+    "summary": "The monument lights up for the holidays with music, cocoa and a crowd of locals.",
+    "start": "2026-11-25T22:00:00.000Z",
+    "end": "2026-11-26T00:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Pilgrim Monument",
+      "town": "provincetown",
+      "lat": 42.0566,
+      "lng": -70.1829
+    },
+    "categories": [
+      "festivals",
+      "community"
+    ],
+    "tags": {
+      "free": true,
+      "kids": true,
+      "seniors": false,
+      "outdoor": true,
+      "byBoat": true
+    },
+    "priceText": "Free",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "ff24ad65a074",
+    "slug": "turkey-trot-5k-2026-11-26-ff24",
+    "title": "Turkey Trot 5K",
+    "summary": "Run or walk off the pie before it happens. Proceeds go to the local food pantry.",
+    "start": "2026-11-26T13:00:00.000Z",
+    "end": "2026-11-26T15:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Sandwich High School",
+      "town": "sandwich",
+      "lat": 41.7556,
+      "lng": -70.4979
+    },
+    "categories": [
+      "outdoors",
+      "community"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": true,
+      "byBoat": false
+    },
+    "priceText": "$30",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "59a358ca959e",
+    "slug": "mashpee-commons-tree-lighting-2026-11-28-59a3",
+    "title": "Mashpee Commons Tree Lighting",
+    "summary": "Carols, cocoa and the big tree lighting in the Commons.",
+    "start": "2026-11-28T22:00:00.000Z",
+    "end": "2026-11-28T23:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Mashpee Commons",
+      "town": "mashpee",
+      "lat": 41.6481,
+      "lng": -70.4782
+    },
+    "categories": [
+      "community",
+      "family"
+    ],
+    "tags": {
+      "free": true,
+      "kids": true,
+      "seniors": false,
+      "outdoor": true,
+      "byBoat": false
+    },
+    "priceText": "Free",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "9ffeae876a03",
+    "slug": "wreath-making-workshop-2026-12-02-9ffe",
+    "title": "Wreath-Making Workshop",
+    "summary": "Build a fresh evergreen wreath with natural materials from the gardens. Bring clippers.",
+    "start": "2026-12-02T18:00:00.000Z",
+    "end": "2026-12-02T20:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Heritage Museums & Gardens",
+      "town": "sandwich",
+      "lat": 41.7598,
+      "lng": -70.497
+    },
+    "categories": [
+      "classes"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$75",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "737014a7eb95",
+    "slug": "christmas-in-sandwich-2026-12-04-7370",
+    "title": "Christmas in Sandwich",
+    "summary": "A weekend of tree lightings, open houses, caroling and festive shops in the Cape's oldest town.",
+    "start": "2026-12-04T05:00:00.000Z",
+    "end": "2026-12-06T05:00:00.000Z",
+    "allDay": true,
+    "venue": {
+      "name": "Sandwich Village",
+      "town": "sandwich",
+      "lat": 41.7592,
+      "lng": -70.4959
+    },
+    "categories": [
+      "festivals",
+      "community"
+    ],
+    "tags": {
+      "free": true,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "Free",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "0db4edcb1515",
+    "slug": "orleans-holiday-stroll-2026-12-05-0db4",
+    "title": "Orleans Holiday Stroll",
+    "summary": "Shopping, the tree lighting and Santa arriving at the town hall.",
+    "start": "2026-12-05T20:00:00.000Z",
+    "end": "2026-12-06T00:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Downtown Orleans",
+      "town": "orleans",
+      "lat": 41.7856,
+      "lng": -69.9923
+    },
+    "categories": [
+      "community",
+      "markets"
+    ],
+    "tags": {
+      "free": true,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "Free",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "a4fc9ac60705",
+    "slug": "hyannis-harbor-lighted-boat-parade-2026-12-05-a4fc",
+    "title": "Hyannis Harbor Lighted Boat Parade",
+    "summary": "Boats decked out in holiday lights parade around the inner harbor. Best views from Bismore Park.",
+    "start": "2026-12-05T22:00:00.000Z",
+    "end": "2026-12-05T23:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Hyannis Harbor",
+      "town": "barnstable",
+      "lat": 41.6518,
+      "lng": -70.2902
+    },
+    "categories": [
+      "water",
+      "festivals"
+    ],
+    "tags": {
+      "free": true,
+      "kids": true,
+      "seniors": false,
+      "outdoor": true,
+      "byBoat": true
+    },
+    "priceText": "Free",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "1d6a87198346",
+    "slug": "falmouth-christmas-by-the-sea-parade-2026-12-06-1d6a",
+    "title": "Falmouth Christmas by the Sea Parade",
+    "summary": "Floats, marching bands and Santa roll down Main Street in one of the Cape's biggest parades.",
+    "start": "2026-12-06T18:00:00.000Z",
+    "end": "2026-12-06T20:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Main Street, Falmouth",
+      "town": "falmouth",
+      "lat": 41.5495,
+      "lng": -70.614
+    },
+    "categories": [
+      "festivals",
+      "family"
+    ],
+    "tags": {
+      "free": true,
+      "kids": true,
+      "seniors": false,
+      "outdoor": true,
+      "byBoat": false
+    },
+    "priceText": "Free",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "bd729b11803f",
+    "slug": "cape-rep-holiday-play-2026-12-11-bd72",
+    "title": "Cape Rep Holiday Play",
+    "summary": "A cozy holiday production in Cape Rep's indoor theater.",
+    "start": "2026-12-11T00:30:00.000Z",
+    "end": "2026-12-11T02:30:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Cape Rep Theatre",
+      "town": "brewster",
+      "lat": 41.7649,
+      "lng": -70.08
+    },
+    "categories": [
+      "theater"
+    ],
+    "tags": {
+      "free": false,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "$40",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "da20d8cd68a3",
+    "slug": "holly-folly-2026-12-11-da20",
+    "title": "Holly Folly",
+    "summary": "Provincetown's famously fun holiday weekend, with a parade, parties and plenty of glitter.",
+    "start": "2026-12-11T05:00:00.000Z",
+    "end": "2026-12-13T05:00:00.000Z",
+    "allDay": true,
+    "venue": {
+      "name": "Commercial Street",
+      "town": "provincetown",
+      "lat": 42.0513,
+      "lng": -70.1874
+    },
+    "categories": [
+      "festivals",
+      "theater"
+    ],
+    "tags": {
+      "free": true,
+      "kids": false,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": true
+    },
+    "priceText": "Free",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "cf873be75242",
+    "slug": "chatham-christmas-stroll-2026-12-12-cf87",
+    "title": "Chatham Christmas Stroll",
+    "summary": "Shops open late, carolers on the corners and Santa at the bandstand.",
+    "start": "2026-12-12T15:00:00.000Z",
+    "end": "2026-12-12T21:00:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Main Street, Chatham",
+      "town": "chatham",
+      "lat": 41.6798,
+      "lng": -69.9632
+    },
+    "categories": [
+      "festivals",
+      "markets"
+    ],
+    "tags": {
+      "free": true,
+      "kids": true,
+      "seniors": false,
+      "outdoor": false,
+      "byBoat": false
+    },
+    "priceText": "Free",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  },
+  {
+    "id": "86ea185095eb",
+    "slug": "first-night-chatham-2026-12-31-86ea",
+    "title": "First Night Chatham",
+    "summary": "Ring in the new year with music, family shows and fireworks over Oyster Pond.",
+    "start": "2026-12-31T19:00:00.000Z",
+    "end": "2027-01-01T04:59:00.000Z",
+    "allDay": false,
+    "venue": {
+      "name": "Downtown Chatham",
+      "town": "chatham",
+      "lat": 41.6809,
+      "lng": -69.9578
+    },
+    "categories": [
+      "festivals",
+      "music"
+    ],
+    "tags": {
+      "free": false,
+      "kids": true,
+      "seniors": false,
+      "outdoor": true,
+      "byBoat": false
+    },
+    "priceText": "Button $15",
+    "url": "https://nearshoreadventures.com",
+    "source": {
+      "id": "sample",
+      "name": "Sample listing",
+      "url": "https://nearshoreadventures.com"
+    },
+    "trusted": true,
+    "firstSeen": "2026-10-17T12:00:00.000Z",
+    "lastSeen": "2026-10-17T12:00:00.000Z",
+    "sample": true
+  }
+]
