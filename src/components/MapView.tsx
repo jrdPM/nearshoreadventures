@@ -1,6 +1,7 @@
 "use client";
 import "leaflet/dist/leaflet.css";
 import L from "leaflet";
+import { addBasemap } from "@/lib/basemap";
 import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import { X } from "lucide-react";
@@ -36,11 +37,7 @@ export default function MapView({ events }: { events: CapeEvent[] }) {
     if (!el.current || map.current) return;
     map.current = L.map(el.current, { zoomControl: false, attributionControl: true, maxBounds: [[41.3, -71.1], [42.3, -69.6]] }).fitBounds(CAPE_BOUNDS);
     L.control.zoom({ position: "bottomright" }).addTo(map.current);
-    L.tileLayer("https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png", {
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/">CARTO</a>',
-      subdomains: "abcd",
-      maxZoom: 19,
-    }).addTo(map.current);
+    addBasemap(map.current);
     layer.current = L.layerGroup().addTo(map.current);
     return () => {
       map.current?.remove();
