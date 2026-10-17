@@ -1,0 +1,27 @@
+name: Check event sources
+
+# Run by hand (or by Claude) to test pages before adding them as sources.
+on:
+  workflow_dispatch:
+    inputs:
+      urls:
+        description: "Pages to check, separated by spaces"
+        required: true
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run probe -- $URLS
+        env:
+          URLS: ${{ inputs.urls }}

@@ -11,7 +11,8 @@
     "test": "tsx --test scripts/**/*.test.ts",
     "scrape": "tsx scripts/scrape/index.ts",
     "newsletter": "tsx scripts/newsletter.ts",
-    "intake": "tsx scripts/intake.ts"
+    "intake": "tsx scripts/intake.ts",
+    "probe": "tsx scripts/probe.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.135.0",
