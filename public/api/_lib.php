@@ -108,13 +108,25 @@ function clean(?string $s, int $max): string {
 
 // ---------- Admin session ----------
 
-function admin_session(): void {
-    session_name('na_admin');
-    session_set_cookie_params(['lifetime' => 60 * 60 * 24 * 30, 'path' => '/', 'secure' => !empty($_SERVER['HTTPS']), 'httponly' => true, 'samesite' => 'Strict']);
-    session_start();
+// Admin sign-in is a signed cookie rather than a PHP session, so it doesn't depend on
+// the server's session storage. Changing ADMIN_PASSWORD signs everyone out.
+const ADMIN_COOKIE = 'na_admin';
+const ADMIN_DAYS = 30;
+
+function admin_sig(int $expires): string {
+    return hash_hmac('sha256', 'admin|' . $expires, 'nearshore|' . trim(cfg('admin_password')));
+}
+
+function admin_sign_in(): void {
+    $expires = time() + 60 * 60 * 24 * ADMIN_DAYS;
+    setcookie(ADMIN_COOKIE, $expires . '.' . admin_sig($expires), [
+        'expires' => $expires, 'path' => '/', 'secure' => !empty($_SERVER['HTTPS']), 'httponly' => true, 'samesite' => 'Strict',
+    ]);
 }
 
 function require_admin(): void {
-    admin_session();
-    if (empty($_SESSION['admin']) || cfg('admin_password') === '') json_out(['error' => 'Not signed in'], 401);
+    [$expires, $sig] = array_pad(explode('.', (string)($_COOKIE[ADMIN_COOKIE] ?? ''), 2), 2, '');
+    $ok = trim(cfg('admin_password')) !== '' && ctype_digit($expires) && (int)$expires > time()
+        && hash_equals(admin_sig((int)$expires), $sig);
+    if (!$ok) json_out(['error' => 'Not signed in'], 401);
 }

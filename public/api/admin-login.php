@@ -8,7 +8,5 @@ if ($real === '') json_out(['error' => 'Add ADMIN_PASSWORD to the GitHub secrets
 usleep(300000); // slow down guessing
 if (!hash_equals($real, trim((string)($b['password'] ?? '')))) json_out(['error' => 'Wrong password.'], 401);
 
-admin_session();
-session_regenerate_id(true);
-$_SESSION['admin'] = true;
+admin_sign_in();
 json_out(['ok' => true]);
