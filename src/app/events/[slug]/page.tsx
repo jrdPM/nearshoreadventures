@@ -14,8 +14,8 @@ import { MiniMapLazy } from "@/components/MiniMapLazy";
 import { Row } from "@/components/Row";
 import { CategoryIcon } from "@/components/CategoryIcon";
 
-export const revalidate = 3600;
-export const dynamicParams = true;
+
+export const dynamicParams = false;
 
 export function generateStaticParams() {
   return getEvents().map((e) => ({ slug: e.slug }));

@@ -1,0 +1,4 @@
+# Never serve the secrets file or the helper library directly.
+<FilesMatch "^_">
+  Require all denied
+</FilesMatch>

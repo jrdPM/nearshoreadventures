@@ -10,7 +10,6 @@ import { CategoryIcon } from "@/components/CategoryIcon";
 import { NewsletterForm } from "@/components/NewsletterForm";
 import { SampleBanner } from "@/components/SampleBanner";
 
-export const revalidate = 3600;
 
 const REGION_PHOTOS: Record<RegionId, string> = {
   upper: "photo-1499002238440-d264edd596ec",

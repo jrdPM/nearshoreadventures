@@ -46,7 +46,9 @@ function useSearchIndex(events: CapeEvent[]) {
   }, [events]);
 }
 
-export function Explorer({ events }: { events: CapeEvent[] }) {
+export function Explorer({ events: built }: { events: CapeEvent[] }) {
+  // The page is rebuilt daily; drop anything that has ended since then.
+  const events = useMemo(() => built.filter((e) => new Date(e.end ?? e.start).getTime() >= Date.now()), [built]);
   const router = useRouter();
   const pathname = usePathname();
   const params = useSearchParams();

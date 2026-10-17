@@ -10,13 +10,11 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: data-updates
-  cancel-in-progress: false
-
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    concurrency:
+      group: scrape
     timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
@@ -38,3 +36,9 @@ jobs:
           git commit -m "Event round-up $(date -u +%Y-%m-%d)"
           git pull --rebase origin ${{ github.ref_name }}
           git push
+
+  # Pushes made by this workflow don't trigger other workflows, so publish explicitly.
+  publish:
+    needs: scrape
+    uses: ./.github/workflows/deploy.yml
+    secrets: inherit

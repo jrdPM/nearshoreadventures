@@ -7,7 +7,6 @@ import { EventCard } from "@/components/EventCard";
 import { TOWN_BY_SLUG } from "@/lib/towns";
 import { timeLabel } from "@/lib/dates";
 
-export const revalidate = 3600;
 export const metadata: Metadata = {
   title: "The Thursday email",
   description: "The best of what's happening on Cape Cod, in your inbox every Thursday morning.",

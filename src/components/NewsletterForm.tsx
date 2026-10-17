@@ -11,7 +11,7 @@ export function NewsletterForm({ dark = false }: { dark?: boolean }) {
     e.preventDefault();
     setState("sending");
     try {
-      const res = await fetch("/api/subscribe", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ email }) });
+      const res = await fetch("/api/subscribe.php", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ email }) });
       const json = await res.json();
       if (!res.ok) throw new Error(json.error || "Something went wrong");
       setState("done");

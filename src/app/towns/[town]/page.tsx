@@ -7,7 +7,8 @@ import { TOWNS, TOWN_BY_SLUG, REGIONS } from "@/lib/towns";
 import { EventGrid } from "@/components/EventCard";
 import { SampleBanner } from "@/components/SampleBanner";
 
-export const revalidate = 3600;
+
+export const dynamicParams = false;
 
 export function generateStaticParams() {
   return TOWNS.map((t) => ({ town: t.slug }));

@@ -6,7 +6,7 @@ Everything happening on Cape Cod, by land or by sea. A mobile-first events calen
 
 ```
  Mon/Wed/Fri  ┌──────────────────────┐   trusted & clean   ┌──────────────────┐
- GitHub  ───▶ │ npm run scrape       │ ──────────────────▶ │ data/events.json │ ──▶ Vercel redeploys the site
+ GitHub  ───▶ │ npm run scrape       │ ──────────────────▶ │ data/events.json │ ──▶ build → rsync to Cloudways
  Actions      │ 46 Cape sources      │                     └──────────────────┘
               │ feeds → markup → AI  │   iffy / untrusted  ┌────────────────────────┐
               └──────────────────────┘ ──────────────────▶ │ data/review-queue.json │ ──▶ /admin (approve, remove,
@@ -14,7 +14,8 @@ Everything happening on Cape Cod, by land or by sea. A mobile-first events calen
  Thursday 7:30am ──▶ npm run newsletter ──▶ Beehiiv
 ```
 
-- **The site** is Next.js on Vercel. All event data lives in `data/` as JSON, so there's no database to pay for or babysit.
+- **The site** is Next.js, exported as plain files and uploaded to a Cloudways app by `.github/workflows/deploy.yml` (on every push to main, daily at 5am ET, and after each round-up). All event data lives in `data/` as JSON, so there's no database or Node server to babysit.
+- **Forms and admin** run on small PHP scripts in `public/api/`. They save to the repo through the GitHub API (`data/submissions.json`, `data/pending-decisions.json`); the next deploy runs `npm run intake` to apply them.
 - **The round-up** (`scripts/scrape`) checks every source in `data/sources.json`. For each one it tries, in order: the WordPress "The Events Calendar" API, schema.org event markup on the page, any iCal feed the page links to, and finally (if `ANTHROPIC_API_KEY` is set) Claude reading the page. It follows robots.txt, identifies itself, keeps only short excerpts and always links back to the organizer.
 - **Review queue.** Events from trusted sources go live on their own. Anything from an untrusted source, or that looks off (no link, unsure AI read, cancelled), waits at `/admin`. Trusting a source there approves its waiting events and lets future ones through automatically.
 - **Venue submissions** from `/submit` land in the same queue.
@@ -23,9 +24,9 @@ Everything happening on Cape Cod, by land or by sea. A mobile-first events calen
 
 ## Setting it up
 
-1. **Vercel:** import this repo, then add the variables from `.env.example` (`NEXT_PUBLIC_SITE_URL`, `ADMIN_PASSWORD`, `GITHUB_TOKEN`, Beehiiv keys). Point your domain at it.
-2. **GitHub → Settings → Secrets and variables → Actions:** add `ANTHROPIC_API_KEY` (optional, for pages with no feed), `BEEHIIV_API_KEY`, `BEEHIIV_PUBLICATION_ID`, and a variable `SITE_URL`.
-3. **Run the first round-up:** Actions → "Event round-up" → Run workflow. Sample events disappear once real ones arrive.
+1. **Cloudways:** create a "Custom PHP" app (PHP 8.2+) on your Flexible server, turn Varnish off for it, add the domain and a free Let's Encrypt certificate, and add an SSH public key under Master Credentials.
+2. **GitHub → Settings → Secrets and variables → Actions:** add everything listed in `.env.example`.
+3. **Publish:** Actions → "Publish to Cloudways" → Run workflow. Then Actions → "Event round-up" → Run workflow for the first real events (sample events disappear once real ones arrive).
 
 ## Day to day
 

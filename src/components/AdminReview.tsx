@@ -27,7 +27,7 @@ export function AdminReview() {
   const [saved, setSaved] = useState("");
 
   async function load() {
-    const res = await fetch("/api/admin/queue", { cache: "no-store" });
+    const res = await fetch("/api/admin-queue.php", { cache: "no-store" });
     if (res.status === 401) return setNeedLogin(true);
     const json = await res.json();
     if (!res.ok) return setErr(json.error);
@@ -50,7 +50,7 @@ export function AdminReview() {
 
   async function login(e: React.FormEvent) {
     e.preventDefault();
-    const res = await fetch("/api/admin/login", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ password: pw }) });
+    const res = await fetch("/api/admin-login.php", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ password: pw }) });
     const json = await res.json();
     if (!res.ok) return setErr(json.error);
     setErr("");
@@ -61,7 +61,7 @@ export function AdminReview() {
     setSaving(true);
     const approve = Object.entries(choices).filter(([, c]) => c === "approve").map(([id]) => id);
     const reject = Object.entries(choices).filter(([, c]) => c === "reject").map(([id]) => id);
-    const res = await fetch("/api/admin/review", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ approve, reject, trustSources: trust }) });
+    const res = await fetch("/api/admin-review.php", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ approve, reject, trustSources: trust }) });
     setSaving(false);
     if (!res.ok) return setErr((await res.json()).error ?? "Save failed");
     setSaved(`Saved. ${approve.length} approved, ${reject.length} removed. The site updates in a couple of minutes.`);

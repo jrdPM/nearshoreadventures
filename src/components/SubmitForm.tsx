@@ -16,7 +16,7 @@ export function SubmitForm() {
     setState("sending");
     const body = Object.fromEntries(new FormData(e.currentTarget).entries());
     try {
-      const res = await fetch("/api/submit", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify(body) });
+      const res = await fetch("/api/submit.php", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify(body) });
       const json = await res.json();
       if (!res.ok) throw new Error(json.error);
       setState("done");

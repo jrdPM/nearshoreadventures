@@ -1,0 +1,77 @@
+name: Publish to Cloudways
+
+# Builds the site and uploads it to Cloudways.
+# Runs when anything lands on main (including form submissions and admin
+# decisions, which the PHP scripts save to the repo), once a day so "this
+# weekend" stays current, and after every event round-up.
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "newsletter/**"
+      - "**.md"
+  schedule:
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+  workflow_call:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: publish
+      cancel-in-progress: false
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+
+      - name: Take in new submissions and review decisions
+        run: |
+          npm run intake
+          git config user.name "nearshore-bot"
+          git config user.email "nearshore-bot@users.noreply.github.com"
+          git add data/
+          if ! git diff --cached --quiet; then
+            git commit -m "Take in submissions and review decisions"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+
+      - name: Build the site
+        run: npm run build
+        env:
+          NEXT_PUBLIC_SITE_URL: ${{ vars.SITE_URL || 'https://nearshoreadventures.com' }}
+
+      - name: Add server settings for the PHP scripts
+        env:
+          ADMIN_PASSWORD: ${{ secrets.ADMIN_PASSWORD }}
+          SITE_GITHUB_TOKEN: ${{ secrets.SITE_GITHUB_TOKEN }}
+          BEEHIIV_API_KEY: ${{ secrets.BEEHIIV_API_KEY }}
+          BEEHIIV_PUBLICATION_ID: ${{ secrets.BEEHIIV_PUBLICATION_ID }}
+        run: node scripts/write-php-config.mjs out/api/_config.php
+
+      - name: Upload to Cloudways
+        env:
+          SSH_KEY: ${{ secrets.CLOUDWAYS_SSH_KEY }}
+          HOST: ${{ secrets.CLOUDWAYS_HOST }}
+          USER: ${{ secrets.CLOUDWAYS_USER }}
+          REMOTE_PATH: ${{ secrets.CLOUDWAYS_PATH }}
+        run: |
+          if [ -z "$SSH_KEY" ] || [ -z "$HOST" ]; then
+            echo "::warning::Cloudways secrets aren't set yet, so the site was built but not uploaded."
+            exit 0
+          fi
+          mkdir -p ~/.ssh
+          printf '%s\n' "$SSH_KEY" > ~/.ssh/cloudways && chmod 600 ~/.ssh/cloudways
+          ssh-keyscan -H "$HOST" >> ~/.ssh/known_hosts 2>/dev/null
+          rsync -rlz --delete --chmod=D755,F644 -e "ssh -i ~/.ssh/cloudways" out/ "$USER@$HOST:$REMOTE_PATH/"

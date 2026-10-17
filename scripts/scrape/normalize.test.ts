@@ -46,3 +46,14 @@ test("schema.org Event markup is read", () => {
   assert.equal(e.city, "North Truro");
   assert.equal(e.price, "$25");
 });
+
+test("intake: submissions go to the queue, decisions publish them", async () => {
+  const { submissionToReview, applyDecisions } = await import("../intake");
+  const item = submissionToReview({ title: "Grange Supper", date: future, time: "18:00", town: "brewster", venue: "Brewster Grange", org: "The Grange" }, new Date().toISOString())!;
+  assert.equal(item.kind, "submitted");
+  const out = applyDecisions([{ approve: [item.event.id] }], { queue: [item], events: [], decisions: {}, sources: [] });
+  assert.equal(out.queue.length, 0);
+  assert.equal(out.events[0].title, "Grange Supper");
+  assert.equal(out.decisions[item.event.id], "approved");
+  assert.equal(submissionToReview({ title: "x", date: future, town: "boston", venue: "y" }, ""), null);
+});

@@ -4,7 +4,6 @@ import { getEvents } from "@/lib/events";
 import { Explorer } from "@/components/Explorer";
 import { SampleBanner } from "@/components/SampleBanner";
 
-export const revalidate = 3600;
 
 export const metadata: Metadata = {
   title: "Explore Cape Cod events",
