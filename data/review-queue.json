@@ -1,57 +1,15 @@
 [
   {
     "event": {
-      "id": "732169f65358",
-      "slug": "the-2026-annual-all-ages-envelope-art-contest-2026-06-19-7321",
-      "title": "The 2026 Annual All-Ages Envelope Art Contest",
-      "summary": "An envelope art contest open to all ages, inspired by Edward Gorey; entry forms are available from the House. Submissions accepted through December 1.",
-      "start": "2026-06-19T20:30:00.000Z",
-      "end": "2026-12-01T21:00:00.000Z",
-      "allDay": false,
-      "venue": {
-        "name": "The Edward Gorey House",
-        "address": "8 Strawberry Lane, Yarmouth Port, MA",
-        "town": "yarmouth"
-      },
-      "categories": [
-        "arts",
-        "family"
-      ],
-      "tags": {
-        "free": false,
-        "kids": true,
-        "seniors": false,
-        "outdoor": false,
-        "byBoat": false
-      },
-      "url": "https://edwardgoreyhouse.org/events/envelope-2026",
-      "source": {
-        "id": "edward-gorey-house",
-        "name": "Edward Gorey House",
-        "url": "https://edwardgoreyhouse.org/events"
-      },
-      "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
-    },
-    "reasons": [
-      "AI wasn't sure about the details (70%)"
-    ],
-    "kind": "scraped",
-    "queuedAt": "2026-10-17T19:56:51.674Z"
-  },
-  {
-    "event": {
       "id": "b8f945579bd2",
       "slug": "the-fall-of-the-house-of-usher-2026-09-30-b8f9",
       "title": "The Fall of the House of Usher",
-      "summary": "Cape Rep Theatre stages an indoor production adapted from the Poe gothic tale, part of its 2026 subscription season.",
+      "summary": "Cape Rep's indoor stage production based on the Poe tale, running through late October as part of the 2026 subscription season.",
       "start": "2026-09-30T04:00:00.000Z",
       "end": "2026-10-25T04:00:00.000Z",
       "allDay": true,
       "venue": {
         "name": "Cape Rep Theatre",
-        "address": "3299 Route 6A, Brewster, MA",
         "town": "brewster"
       },
       "categories": [
@@ -72,8 +30,8 @@
         "url": "https://caperep.org/"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (70%)"
@@ -86,7 +44,7 @@
       "id": "6a6865d13deb",
       "slug": "pumpkin-patch-2026-2026-10-01-6a68",
       "title": "Pumpkin Patch 2026",
-      "summary": "A month-long community pumpkin patch in Chatham supporting charity.",
+      "summary": "A month-long community pumpkin patch in Chatham benefiting charity.",
       "start": "2026-10-01T04:00:00.000Z",
       "end": "2026-10-31T04:00:00.000Z",
       "allDay": true,
@@ -114,8 +72,8 @@
         "url": "https://www.chathaminfo.com/events/"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (70%)"
@@ -128,7 +86,7 @@
       "id": "21b35b4b5e70",
       "slug": "pumpkinpalooza-2026-pumpkin-people-in-the-park-2026-10-14-21b3",
       "title": "Pumpkinpalooza 2026: Pumpkin People in the Park",
-      "summary": "Decorated pumpkin people figures are displayed around the park for the fall season.",
+      "summary": "Decorated pumpkin people figures are displayed in the park for the Halloween season.",
       "start": "2026-10-14T04:00:00.000Z",
       "end": "2026-11-01T04:00:00.000Z",
       "allDay": true,
@@ -156,8 +114,8 @@
         "url": "https://www.chathaminfo.com/events/"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (70%)"
@@ -180,12 +138,12 @@
       },
       "categories": [
         "classes",
-        "music",
-        "water"
+        "family",
+        "music"
       ],
       "tags": {
         "free": false,
-        "kids": false,
+        "kids": true,
         "seniors": false,
         "outdoor": false,
         "byBoat": false
@@ -197,8 +155,8 @@
         "url": "https://www.hyannis.com/events/"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (70%)"
@@ -211,7 +169,7 @@
       "id": "fa22f4bf3654",
       "slug": "the-fall-of-the-house-of-usher-2026-10-17-fa22",
       "title": "The Fall of the House of Usher",
-      "summary": "A staging of Poe's gothic tale The Fall of the House of Usher, running through late October.",
+      "summary": "A staging of the Poe-inspired gothic tale, running daily through October 25.",
       "start": "2026-10-17T04:00:00.000Z",
       "end": "2026-10-25T04:00:00.000Z",
       "allDay": true,
@@ -230,15 +188,15 @@
         "outdoor": false,
         "byBoat": false
       },
-      "url": "https://business.harwichcc.com/events/details/the-fall-of-the-house-of-usher-25889?calendarMonth=2026-10-01",
+      "url": "https://business.harwichcc.com/events/details/the-fall-of-the-house-of-usher-25889",
       "source": {
         "id": "harwich-chamber",
         "name": "Harwich Chamber of Commerce",
         "url": "https://business.harwichcc.com/events/calendar"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (60%)"
@@ -251,7 +209,7 @@
       "id": "09018f3af50c",
       "slug": "home-life-ready-fall-showcase-2026-10-17-0901",
       "title": "Home-Life- Ready Fall Showcase",
-      "summary": "A fall showcase centered on home and lifestyle readiness.",
+      "summary": "A fall showcase featuring home and lifestyle offerings.",
       "start": "2026-10-17T04:00:00.000Z",
       "allDay": true,
       "venue": {
@@ -268,15 +226,15 @@
         "outdoor": false,
         "byBoat": false
       },
-      "url": "https://business.harwichcc.com/events/details/home-life-ready-fall-showcase-25748?calendarMonth=2026-10-01",
+      "url": "https://business.harwichcc.com/events/details/home-life-ready-fall-showcase-25748",
       "source": {
         "id": "harwich-chamber",
         "name": "Harwich Chamber of Commerce",
         "url": "https://business.harwichcc.com/events/calendar"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (60%)"
@@ -289,7 +247,7 @@
       "id": "e49260830399",
       "slug": "cape-symphony-alfred-hitchcock-s-psycho-in-concert-2026-10-17-e492",
       "title": "Cape Symphony: Alfred Hitchcock's \"Psycho\" in Concert",
-      "summary": "The Cape Symphony performs the score live while Hitchcock's Psycho is screened.",
+      "summary": "The Cape Symphony performs Bernard Herrmann's score live alongside a screening of Hitchcock's Psycho.",
       "start": "2026-10-17T04:00:00.000Z",
       "allDay": true,
       "venue": {
@@ -298,7 +256,8 @@
       },
       "categories": [
         "music",
-        "arts"
+        "arts",
+        "theater"
       ],
       "tags": {
         "free": false,
@@ -307,21 +266,61 @@
         "outdoor": false,
         "byBoat": false
       },
-      "url": "https://business.harwichcc.com/events/details/cape-symphony-alfred-hitchcock-s-psycho-in-concert-25899?calendarMonth=2026-10-01",
+      "url": "https://business.harwichcc.com/events/details/cape-symphony-alfred-hitchcock-s-psycho-in-concert-25899",
       "source": {
         "id": "harwich-chamber",
         "name": "Harwich Chamber of Commerce",
         "url": "https://business.harwichcc.com/events/calendar"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
-      "AI wasn't sure about the details (60%)"
+      "AI wasn't sure about the details (65%)"
     ],
     "kind": "scraped",
     "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "b2463efa449a",
+      "slug": "marconi-rca-wireless-museum-open-2026-10-17-b246",
+      "title": "Marconi-RCA Wireless Museum Open",
+      "summary": "Explore the history of ship-to-shore radio at the former site of a major U.S. coastal marine radio station.",
+      "start": "2026-10-17T04:00:00.000Z",
+      "allDay": true,
+      "venue": {
+        "name": "Marconi-RCA Wireless Museum",
+        "address": "Chatham, MA",
+        "town": "chatham"
+      },
+      "categories": [
+        "arts",
+        "community"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://business.chathaminfo.com/events/details/marconi-rca-wireless-museum-open-10-17-2026-32868",
+      "source": {
+        "id": "chatham-chamber",
+        "name": "Chatham Chamber of Commerce",
+        "url": "https://www.chathaminfo.com/events/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T20:04:45.507Z"
   },
   {
     "event": {
@@ -354,8 +353,8 @@
         "url": "https://www.chathaminfo.com/events/"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (70%)"
@@ -394,8 +393,8 @@
         "url": "https://www.chathaminfo.com/events/"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (70%)"
@@ -432,8 +431,8 @@
         "url": "https://www.easthamchamber.com/events/"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (60%)"
@@ -446,7 +445,7 @@
       "id": "d9b9459e0c68",
       "slug": "the-fall-of-the-house-of-usher-2026-10-17-d9b9",
       "title": "The Fall of the House of Usher",
-      "summary": "A stage production based on Edgar Allan Poe's gothic tale.",
+      "summary": "A staged production of the Poe tale \"The Fall of the House of Usher\", one of a series of October performances.",
       "start": "2026-10-17T04:00:00.000Z",
       "allDay": false,
       "venue": {
@@ -470,8 +469,8 @@
         "url": "https://www.easthamchamber.com/events/"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (60%)"
@@ -484,7 +483,7 @@
       "id": "9cda2399bab8",
       "slug": "cape-symphony-alfred-hitchcock-s-psycho-in-concert-2026-10-17-9cda",
       "title": "Cape Symphony: Alfred Hitchcock's \"Psycho\" in Concert",
-      "summary": "The Cape Symphony performs the score live alongside a screening of Hitchcock's Psycho.",
+      "summary": "The Cape Symphony performs Bernard Herrmann's score live alongside a screening of Hitchcock's Psycho.",
       "start": "2026-10-17T04:00:00.000Z",
       "allDay": false,
       "venue": {
@@ -509,8 +508,8 @@
         "url": "https://www.easthamchamber.com/events/"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (60%)"
@@ -520,10 +519,87 @@
   },
   {
     "event": {
+      "id": "3a2a3e495fe3",
+      "slug": "tomat-community-concert-2026-10-17-3a2a",
+      "title": "Tomat Community Concert",
+      "summary": "A community concert listed on the Orleans Chamber calendar.",
+      "start": "2026-10-17T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Orleans",
+        "town": "orleans"
+      },
+      "categories": [
+        "music",
+        "community"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://members.orleanscapecod.org/events/details/tomat-community-concert-25551?calendarMonth=2026-10-01",
+      "source": {
+        "id": "orleans-chamber",
+        "name": "Orleans Chamber of Commerce",
+        "url": "https://members.orleanscapecod.org/events/calendar"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T20:04:45.507Z"
+  },
+  {
+    "event": {
+      "id": "fd5e809b5a06",
+      "slug": "the-fall-of-the-house-of-usher-2026-10-17-fd5e",
+      "title": "The Fall of the House of Usher",
+      "summary": "A stage production of the Poe tale running through late October.",
+      "start": "2026-10-17T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Orleans",
+        "town": "orleans"
+      },
+      "categories": [
+        "theater"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://members.orleanscapecod.org/events/details/the-fall-of-the-house-of-usher-10-17-2026-25538?calendarMonth=2026-10-01",
+      "source": {
+        "id": "orleans-chamber",
+        "name": "Orleans Chamber of Commerce",
+        "url": "https://members.orleanscapecod.org/events/calendar"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T20:04:45.507Z"
+  },
+  {
+    "event": {
       "id": "def43afe27eb",
       "slug": "haunted-hallows-2026-10-17-def4",
       "title": "Haunted Hallows",
-      "summary": "Immersive Halloween experience on Friday and Saturday nights through Halloween.",
+      "summary": "An immersive Halloween experience held Friday and Saturday nights through Halloween.",
       "start": "2026-10-17T04:00:00.000Z",
       "end": "2026-10-31T04:00:00.000Z",
       "allDay": true,
@@ -550,8 +626,8 @@
         "url": "https://www.capecod.com/events/"
       },
       "trusted": false,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (60%)",
@@ -565,7 +641,7 @@
       "id": "bfa83b01c1ce",
       "slug": "wellfleet-oysterfest-2026-10-17-bfa8",
       "title": "Wellfleet OysterFest",
-      "summary": "Two-day oyster festival with food, artisans, music, a 5K and the Oyster Shuck-Off; advance tickets required.",
+      "summary": "Two-day oyster celebration with food, artisans, lectures, live music, a 5K, kids' activities and the Oyster Shuck-Off. Advance tickets required.",
       "start": "2026-10-17T04:00:00.000Z",
       "end": "2026-10-18T04:00:00.000Z",
       "allDay": true,
@@ -581,7 +657,7 @@
       ],
       "tags": {
         "free": false,
-        "kids": false,
+        "kids": true,
         "seniors": false,
         "outdoor": false,
         "byBoat": false
@@ -594,8 +670,8 @@
         "url": "https://www.capecod.com/events/"
       },
       "trusted": false,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "CapeCod.com events isn't a trusted source yet"
@@ -608,7 +684,7 @@
       "id": "46178c2010f3",
       "slug": "cape-symphony-presents-psycho-2026-10-17-4617",
       "title": "Cape Symphony Presents Psycho",
-      "summary": "Hitchcock's Psycho screened with the Cape Symphony performing Herrmann's score live.",
+      "summary": "Hitchcock's Psycho screened with the Cape Symphony performing Herrmann's score live, conducted by Alyssa Wang.",
       "start": "2026-10-17T04:00:00.000Z",
       "end": "2026-10-18T04:00:00.000Z",
       "allDay": true,
@@ -618,7 +694,8 @@
         "town": "barnstable"
       },
       "categories": [
-        "music"
+        "music",
+        "arts"
       ],
       "tags": {
         "free": false,
@@ -634,8 +711,8 @@
         "url": "https://www.capecod.com/events/"
       },
       "trusted": false,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "CapeCod.com events isn't a trusted source yet"
@@ -648,7 +725,7 @@
       "id": "8a55cb1a68d8",
       "slug": "16th-annual-feet-for-flippers-5k-2026-10-17-8a55",
       "title": "16th Annual Feet For Flippers 5K",
-      "summary": "5K race, in person or virtual, raising funds for the National Marine Life Center's sea turtle and seal care.",
+      "summary": "5K run, in person or virtual, benefiting the National Marine Life Center's sea turtle and seal care.",
       "start": "2026-10-17T14:00:00.000Z",
       "allDay": false,
       "venue": {
@@ -674,8 +751,8 @@
         "url": "https://www.capecod.com/events/"
       },
       "trusted": false,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "CapeCod.com events isn't a trusted source yet"
@@ -688,7 +765,7 @@
       "id": "b036600eae14",
       "slug": "ccals-stroll-and-roll-pending-approval-2026-10-17-b036",
       "title": "CCALS Stroll and Roll (pending approval)",
-      "summary": "A stroll-and-roll walk event at Bourne Farm benefiting Cape Cod ALS efforts; still pending town approval.",
+      "summary": "A walk-and-roll community fundraiser event at Bourne Farm; still pending town approval.",
       "start": "2026-10-17T15:00:00.000Z",
       "end": "2026-10-17T18:00:00.000Z",
       "allDay": false,
@@ -716,11 +793,11 @@
         "url": "https://www.falmouthma.gov/calendar.aspx"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
-      "AI wasn't sure about the details (70%)"
+      "AI wasn't sure about the details (60%)"
     ],
     "kind": "scraped",
     "queuedAt": "2026-10-17T19:56:51.674Z"
@@ -730,7 +807,7 @@
       "id": "0c7697f9d6dd",
       "slug": "pumpkinfest-2026-10-17-0c76",
       "title": "PumpkinFest",
-      "summary": "Fall family festival with scarecrow stuffing, gourd bowling, farmers market and face painting.",
+      "summary": "Fall family fest with scarecrow stuffing, gourd bowling, farmers market, face painting and food.",
       "start": "2026-10-17T15:00:00.000Z",
       "allDay": false,
       "venue": {
@@ -757,8 +834,8 @@
         "url": "https://www.capecod.com/events/"
       },
       "trusted": false,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "CapeCod.com events isn't a trusted source yet"
@@ -771,7 +848,7 @@
       "id": "0a970c6b7a36",
       "slug": "creare-symphonia-in-concert-2026-10-17-0a97",
       "title": "Creare Symphonia in Concert",
-      "summary": "Concert of English 20th-century music including Vaughan Williams' The Lark Ascending and Finzi.",
+      "summary": "Program of English music including Vaughan Williams' The Lark Ascending and Finzi's Love's Labours Lost. Free for youth 18 and under.",
       "start": "2026-10-17T23:30:00.000Z",
       "allDay": false,
       "venue": {
@@ -783,13 +860,13 @@
         "music"
       ],
       "tags": {
-        "free": false,
+        "free": true,
         "kids": false,
         "seniors": false,
         "outdoor": false,
         "byBoat": false
       },
-      "priceText": "Free for students and youth 18 and under",
+      "priceText": "Free for students and youth 18 & under",
       "url": "https://artsempoweringlife.org/creare-symphonia-in-concert-6/",
       "source": {
         "id": "capecod-com",
@@ -797,8 +874,8 @@
         "url": "https://www.capecod.com/events/"
       },
       "trusted": false,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "CapeCod.com events isn't a trusted source yet"
@@ -811,7 +888,7 @@
       "id": "b97b3cdae889",
       "slug": "cape-symphony-alfred-hitchcock-s-psycho-in-concert-2026-10-18-b97b",
       "title": "Cape Symphony: Alfred Hitchcock's \"Psycho\" in Concert",
-      "summary": "A second performance of the Cape Symphony playing the Psycho score live alongside the film.",
+      "summary": "A second performance of the Cape Symphony playing the Psycho score live with the film.",
       "start": "2026-10-18T04:00:00.000Z",
       "allDay": true,
       "venue": {
@@ -830,18 +907,18 @@
         "outdoor": false,
         "byBoat": false
       },
-      "url": "https://business.harwichcc.com/events/details/cape-symphony-alfred-hitchcock-s-psycho-in-concert-10-18-2026-25900?calendarMonth=2026-10-01",
+      "url": "https://business.harwichcc.com/events/details/cape-symphony-alfred-hitchcock-s-psycho-in-concert-10-18-2026-25900",
       "source": {
         "id": "harwich-chamber",
         "name": "Harwich Chamber of Commerce",
         "url": "https://business.harwichcc.com/events/calendar"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
-      "AI wasn't sure about the details (60%)"
+      "AI wasn't sure about the details (65%)"
     ],
     "kind": "scraped",
     "queuedAt": "2026-10-17T19:56:51.674Z"
@@ -877,8 +954,8 @@
         "url": "https://www.chathaminfo.com/events/"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (70%)"
@@ -891,7 +968,7 @@
       "id": "a04371da5016",
       "slug": "the-fall-of-the-house-of-usher-2026-10-18-a043",
       "title": "The Fall of the House of Usher",
-      "summary": "A stage production based on Edgar Allan Poe's gothic tale.",
+      "summary": "A staged production of the Poe tale \"The Fall of the House of Usher\", one of a series of October performances.",
       "start": "2026-10-18T04:00:00.000Z",
       "allDay": false,
       "venue": {
@@ -915,8 +992,8 @@
         "url": "https://www.easthamchamber.com/events/"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (60%)"
@@ -929,7 +1006,7 @@
       "id": "c98d9c57355c",
       "slug": "cape-symphony-alfred-hitchcock-s-psycho-in-concert-2026-10-18-c98d",
       "title": "Cape Symphony: Alfred Hitchcock's \"Psycho\" in Concert",
-      "summary": "The Cape Symphony performs the score live alongside a screening of Hitchcock's Psycho.",
+      "summary": "The Cape Symphony performs the film score live alongside a screening of Hitchcock's Psycho.",
       "start": "2026-10-18T04:00:00.000Z",
       "allDay": false,
       "venue": {
@@ -954,8 +1031,8 @@
         "url": "https://www.easthamchamber.com/events/"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (60%)"
@@ -992,8 +1069,8 @@
         "url": "https://www.easthamchamber.com/events/"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (60%)"
@@ -1003,10 +1080,86 @@
   },
   {
     "event": {
+      "id": "1af56a6aa60f",
+      "slug": "the-lark-ascending-creare-symphonia-2026-10-18-1af5",
+      "title": "The Lark Ascending: Creare Symphonia",
+      "summary": "Creare Symphonia performs a concert featuring The Lark Ascending.",
+      "start": "2026-10-18T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Orleans",
+        "town": "orleans"
+      },
+      "categories": [
+        "music"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://members.orleanscapecod.org/events/details/creare-symphonia-in-concert-10-18-2026-25501?calendarMonth=2026-10-01",
+      "source": {
+        "id": "orleans-chamber",
+        "name": "Orleans Chamber of Commerce",
+        "url": "https://members.orleanscapecod.org/events/calendar"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T20:04:45.507Z"
+  },
+  {
+    "event": {
+      "id": "64af9e236b4c",
+      "slug": "the-fall-of-the-house-of-usher-2026-10-18-64af",
+      "title": "The Fall of the House of Usher",
+      "summary": "A stage production of the Poe tale.",
+      "start": "2026-10-18T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Orleans",
+        "town": "orleans"
+      },
+      "categories": [
+        "theater"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://members.orleanscapecod.org/events/details/the-fall-of-the-house-of-usher-10-18-2026-25539?calendarMonth=2026-10-01",
+      "source": {
+        "id": "orleans-chamber",
+        "name": "Orleans Chamber of Commerce",
+        "url": "https://members.orleanscapecod.org/events/calendar"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T20:04:45.507Z"
+  },
+  {
+    "event": {
       "id": "7741513218e4",
       "slug": "pedal-to-parcels-pending-approval-2026-10-18-7741",
       "title": "Pedal to Parcels (pending approval)",
-      "summary": "The 300 Committee leads a group bike ride visiting its conserved land parcels, starting and ending at the Chapoquoit Beach parking lot; pending approval.",
+      "summary": "The 300 Committee leads a group bike ride visiting its conserved land parcels, starting and ending at the Chapoquoit Beach parking lot. Pending town approval.",
       "start": "2026-10-18T13:00:00.000Z",
       "end": "2026-10-18T16:00:00.000Z",
       "allDay": false,
@@ -1033,11 +1186,11 @@
         "url": "https://www.falmouthma.gov/calendar.aspx"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
-      "AI wasn't sure about the details (70%)"
+      "AI wasn't sure about the details (60%)"
     ],
     "kind": "scraped",
     "queuedAt": "2026-10-17T19:56:51.674Z"
@@ -1047,7 +1200,7 @@
       "id": "40601f230e01",
       "slug": "creare-symphonia-in-concert-2026-10-18-4060",
       "title": "Creare Symphonia in Concert",
-      "summary": "Matinee of English 20th-century music including The Lark Ascending and Finzi.",
+      "summary": "Matinee of the English-themed program featuring The Lark Ascending. Free for youth 18 and under.",
       "start": "2026-10-18T19:30:00.000Z",
       "allDay": false,
       "venue": {
@@ -1059,13 +1212,13 @@
         "music"
       ],
       "tags": {
-        "free": false,
+        "free": true,
         "kids": false,
         "seniors": false,
         "outdoor": false,
         "byBoat": false
       },
-      "priceText": "Free for students and youth 18 and under",
+      "priceText": "Free for students and youth 18 & under",
       "url": "https://artsempoweringlife.org/creare-symphonia-in-concert-6/",
       "source": {
         "id": "capecod-com",
@@ -1073,14 +1226,54 @@
         "url": "https://www.capecod.com/events/"
       },
       "trusted": false,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "CapeCod.com events isn't a trusted source yet"
     ],
     "kind": "scraped",
     "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "16d59a62807c",
+      "slug": "sense-and-sensibility-open-captions-2026-10-20-16d5",
+      "title": "Sense and Sensibility (Open Captions)",
+      "summary": "Open-captioned screenings of the new Jane Austen adaptation at 12:00, 3:30 and 7:00 PM.",
+      "start": "2026-10-20T16:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Cape Cinema",
+        "address": "Dennis Village, Dennis, MA",
+        "town": "dennis"
+      },
+      "categories": [
+        "arts",
+        "theater"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://capecinema.org/production/sense-and-sensibility-new/",
+      "source": {
+        "id": "cape-cinema",
+        "name": "Cape Cinema",
+        "url": "https://capecinema.org/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T20:04:45.507Z"
   },
   {
     "event": {
@@ -1113,8 +1306,8 @@
         "url": "https://www.chathaminfo.com/events/"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (70%)"
@@ -1127,7 +1320,7 @@
       "id": "4ef1f58ab679",
       "slug": "the-fall-of-the-house-of-usher-2026-10-21-4ef1",
       "title": "The Fall of the House of Usher",
-      "summary": "A stage production based on Edgar Allan Poe's gothic tale.",
+      "summary": "A staged production of the Poe tale \"The Fall of the House of Usher\".",
       "start": "2026-10-21T04:00:00.000Z",
       "allDay": false,
       "venue": {
@@ -1151,8 +1344,8 @@
         "url": "https://www.easthamchamber.com/events/"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (60%)"
@@ -1162,10 +1355,126 @@
   },
   {
     "event": {
+      "id": "f21b087cfbc5",
+      "slug": "putnam-farm-guided-walk-2026-10-21-f21b",
+      "title": "Putnam Farm Guided Walk",
+      "summary": "A guided walk around Putnam Farm.",
+      "start": "2026-10-21T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Putnam Farm",
+        "town": "orleans"
+      },
+      "categories": [
+        "outdoors"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": true,
+        "byBoat": false
+      },
+      "url": "https://members.orleanscapecod.org/events/details/putnam-farm-guided-walk-25339?calendarMonth=2026-10-01",
+      "source": {
+        "id": "orleans-chamber",
+        "name": "Orleans Chamber of Commerce",
+        "url": "https://members.orleanscapecod.org/events/calendar"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T20:04:45.507Z"
+  },
+  {
+    "event": {
+      "id": "b5cd7f80b8e7",
+      "slug": "the-fall-of-the-house-of-usher-2026-10-21-b5cd",
+      "title": "The Fall of the House of Usher",
+      "summary": "A stage production of the Poe tale.",
+      "start": "2026-10-21T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Orleans",
+        "town": "orleans"
+      },
+      "categories": [
+        "theater"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://members.orleanscapecod.org/events/details/the-fall-of-the-house-of-usher-10-21-2026-25540?calendarMonth=2026-10-01",
+      "source": {
+        "id": "orleans-chamber",
+        "name": "Orleans Chamber of Commerce",
+        "url": "https://members.orleanscapecod.org/events/calendar"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T20:04:45.507Z"
+  },
+  {
+    "event": {
+      "id": "3743cafb6861",
+      "slug": "sense-and-sensibility-2026-10-21-3743",
+      "title": "Sense and Sensibility",
+      "summary": "A new film adaptation of Jane Austen's novel about two sisters navigating love. Showings at 12:00, 3:30 and 7:00 PM.",
+      "start": "2026-10-21T16:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Cape Cinema",
+        "address": "Dennis Village, Dennis, MA",
+        "town": "dennis"
+      },
+      "categories": [
+        "arts",
+        "theater"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://capecinema.org/production/sense-and-sensibility-new/",
+      "source": {
+        "id": "cape-cinema",
+        "name": "Cape Cinema",
+        "url": "https://capecinema.org/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T20:04:45.507Z"
+  },
+  {
+    "event": {
       "id": "41d6a9bea749",
       "slug": "live-at-5-05-business-after-hours-2026-10-22-41d6",
       "title": "Live at 5:05- Business After Hours",
-      "summary": "A Harwich Chamber after-hours networking gathering for local businesses.",
+      "summary": "A chamber networking gathering for local businesses after the workday.",
       "start": "2026-10-22T04:00:00.000Z",
       "allDay": true,
       "venue": {
@@ -1182,15 +1491,15 @@
         "outdoor": false,
         "byBoat": false
       },
-      "url": "https://business.harwichcc.com/events/details/live-at-5-05-business-after-hours-25893?calendarMonth=2026-10-01",
+      "url": "https://business.harwichcc.com/events/details/live-at-5-05-business-after-hours-25893",
       "source": {
         "id": "harwich-chamber",
         "name": "Harwich Chamber of Commerce",
         "url": "https://business.harwichcc.com/events/calendar"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (60%)"
@@ -1212,8 +1521,7 @@
         "town": "chatham"
       },
       "categories": [
-        "arts",
-        "community"
+        "arts"
       ],
       "tags": {
         "free": false,
@@ -1229,8 +1537,8 @@
         "url": "https://www.chathaminfo.com/events/"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (70%)"
@@ -1269,8 +1577,8 @@
         "url": "https://www.chathaminfo.com/events/"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (70%)"
@@ -1283,7 +1591,7 @@
       "id": "312657063883",
       "slug": "the-fall-of-the-house-of-usher-2026-10-22-3126",
       "title": "The Fall of the House of Usher",
-      "summary": "A stage production based on Edgar Allan Poe's gothic tale.",
+      "summary": "A staged production of the Poe tale \"The Fall of the House of Usher\".",
       "start": "2026-10-22T04:00:00.000Z",
       "allDay": false,
       "venue": {
@@ -1307,8 +1615,8 @@
         "url": "https://www.easthamchamber.com/events/"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (60%)"
@@ -1318,10 +1626,210 @@
   },
   {
     "event": {
+      "id": "0fcfdbf50e88",
+      "slug": "sound-healing-salt-therapy-experience-2026-10-22-0fcf",
+      "title": "Sound Healing & Salt Therapy Experience",
+      "summary": "A relaxation session combining sound healing with salt therapy.",
+      "start": "2026-10-22T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Orleans",
+        "town": "orleans"
+      },
+      "categories": [
+        "classes"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://members.orleanscapecod.org/events/details/sound-healing-salt-therapy-experience-10-22-2026-21020?calendarMonth=2026-10-01",
+      "source": {
+        "id": "orleans-chamber",
+        "name": "Orleans Chamber of Commerce",
+        "url": "https://members.orleanscapecod.org/events/calendar"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T20:04:45.507Z"
+  },
+  {
+    "event": {
+      "id": "26faa8647ebf",
+      "slug": "the-fall-of-the-house-of-usher-2026-10-22-26fa",
+      "title": "The Fall of the House of Usher",
+      "summary": "A stage production of the Poe tale.",
+      "start": "2026-10-22T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Orleans",
+        "town": "orleans"
+      },
+      "categories": [
+        "theater"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://members.orleanscapecod.org/events/details/the-fall-of-the-house-of-usher-10-22-2026-25541?calendarMonth=2026-10-01",
+      "source": {
+        "id": "orleans-chamber",
+        "name": "Orleans Chamber of Commerce",
+        "url": "https://members.orleanscapecod.org/events/calendar"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T20:04:45.507Z"
+  },
+  {
+    "event": {
+      "id": "bc323686ad65",
+      "slug": "farmers-market-rain-date-2026-10-22-bc32",
+      "title": "Farmers Market (Rain Date)",
+      "summary": "Rain date for the Falmouth farmers market at Marina Park, with local produce and vendors.",
+      "start": "2026-10-22T15:00:00.000Z",
+      "end": "2026-10-22T19:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Marina Park",
+        "address": "180 Scranton Ave, Falmouth, MA 02540",
+        "town": "falmouth"
+      },
+      "categories": [
+        "markets",
+        "food",
+        "water"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": true,
+        "byBoat": true
+      },
+      "url": "https://www.falmouthma.gov/Calendar.aspx?EID=3919&month=10&year=2026&day=17&calType=0",
+      "source": {
+        "id": "falmouth-town",
+        "name": "Town of Falmouth calendar",
+        "url": "https://www.falmouthma.gov/calendar.aspx"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T20:04:45.507Z"
+  },
+  {
+    "event": {
+      "id": "ca9191f8e2df",
+      "slug": "sense-and-sensibility-2026-10-22-ca91",
+      "title": "Sense and Sensibility",
+      "summary": "A new film adaptation of Jane Austen's novel about two sisters navigating love. Showings at 12:00, 3:30 and 7:00 PM.",
+      "start": "2026-10-22T16:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Cape Cinema",
+        "address": "Dennis Village, Dennis, MA",
+        "town": "dennis"
+      },
+      "categories": [
+        "arts",
+        "theater"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://capecinema.org/production/sense-and-sensibility-new/",
+      "source": {
+        "id": "cape-cinema",
+        "name": "Cape Cinema",
+        "url": "https://capecinema.org/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T20:04:45.507Z"
+  },
+  {
+    "event": {
+      "id": "eb1b4643a3a2",
+      "slug": "lunch-and-learn-2026-10-22-eb1b",
+      "title": "Lunch and Learn",
+      "summary": "Council on Aging lunchtime educational program; registration required.",
+      "start": "2026-10-22T16:00:00.000Z",
+      "end": "2026-10-22T17:30:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Chatham",
+        "address": "Chatham, MA 02633",
+        "town": "chatham"
+      },
+      "categories": [
+        "seniors",
+        "food",
+        "classes"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": true,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://www.chatham-ma.gov/Calendar.aspx?EID=9660&month=10&year=2026&day=17&calType=0",
+      "source": {
+        "id": "chatham-town",
+        "name": "Town of Chatham calendar",
+        "url": "https://www.chatham-ma.gov/calendar.aspx"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T20:04:45.507Z"
+  },
+  {
+    "event": {
       "id": "f5abbf42796a",
       "slug": "a-weekend-of-mahjong-at-the-platinum-pebble-2026-10-23-f5ab",
       "title": "A Weekend of Mahjong at The Platinum Pebble",
-      "summary": "A weekend of mahjong play hosted at The Platinum Pebble.",
+      "summary": "Three days of mahjong play hosted at The Platinum Pebble.",
       "start": "2026-10-23T04:00:00.000Z",
       "end": "2026-10-25T04:00:00.000Z",
       "allDay": true,
@@ -1341,18 +1849,18 @@
         "outdoor": false,
         "byBoat": false
       },
-      "url": "https://business.harwichcc.com/events/details/a-weekend-of-mahjong-at-the-platinum-pebble-25896?calendarMonth=2026-10-01",
+      "url": "https://business.harwichcc.com/events/details/a-weekend-of-mahjong-at-the-platinum-pebble-25896",
       "source": {
         "id": "harwich-chamber",
         "name": "Harwich Chamber of Commerce",
         "url": "https://business.harwichcc.com/events/calendar"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
-      "AI wasn't sure about the details (60%)"
+      "AI wasn't sure about the details (65%)"
     ],
     "kind": "scraped",
     "queuedAt": "2026-10-17T19:56:51.674Z"
@@ -1362,7 +1870,7 @@
       "id": "60f20ec30264",
       "slug": "the-fall-of-the-house-of-usher-2026-10-23-60f2",
       "title": "The Fall of the House of Usher",
-      "summary": "A stage production based on Edgar Allan Poe's gothic tale.",
+      "summary": "A staged production of the Poe tale \"The Fall of the House of Usher\".",
       "start": "2026-10-23T04:00:00.000Z",
       "allDay": false,
       "venue": {
@@ -1386,8 +1894,8 @@
         "url": "https://www.easthamchamber.com/events/"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (60%)"
@@ -1397,10 +1905,48 @@
   },
   {
     "event": {
+      "id": "335124e79407",
+      "slug": "the-fall-of-the-house-of-usher-2026-10-23-3351",
+      "title": "The Fall of the House of Usher",
+      "summary": "A stage production of the Poe tale.",
+      "start": "2026-10-23T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Orleans",
+        "town": "orleans"
+      },
+      "categories": [
+        "theater"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://members.orleanscapecod.org/events/details/the-fall-of-the-house-of-usher-10-23-2026-25542?calendarMonth=2026-10-01",
+      "source": {
+        "id": "orleans-chamber",
+        "name": "Orleans Chamber of Commerce",
+        "url": "https://members.orleanscapecod.org/events/calendar"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T20:04:45.507Z"
+  },
+  {
+    "event": {
       "id": "4466d0040617",
       "slug": "annual-halloween-party-2026-10-23-4466",
       "title": "Annual Halloween Party",
-      "summary": "Library Halloween party with dancing, treats, crafts and a photo booth.",
+      "summary": "A library Halloween party featuring dancing, crafts, treats and a photo booth.",
       "start": "2026-10-23T21:00:00.000Z",
       "allDay": false,
       "venue": {
@@ -1426,8 +1972,8 @@
         "url": "https://www.capecod.com/events/"
       },
       "trusted": false,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "CapeCod.com events isn't a trusted source yet"
@@ -1440,7 +1986,7 @@
       "id": "c117332f5846",
       "slug": "so-percussion-concert-2026-10-24-c117",
       "title": "So Percussion Concert",
-      "summary": "The percussion quartet Sō Percussion performs in concert.",
+      "summary": "A concert by the acclaimed percussion quartet So Percussion.",
       "start": "2026-10-24T04:00:00.000Z",
       "allDay": false,
       "venue": {
@@ -1464,8 +2010,8 @@
         "url": "https://www.easthamchamber.com/events/"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (60%)"
@@ -1478,7 +2024,7 @@
       "id": "a8713d7c3efd",
       "slug": "the-fall-of-the-house-of-usher-2026-10-24-a871",
       "title": "The Fall of the House of Usher",
-      "summary": "A stage production based on Edgar Allan Poe's gothic tale.",
+      "summary": "A staged production of the Poe tale \"The Fall of the House of Usher\".",
       "start": "2026-10-24T04:00:00.000Z",
       "allDay": false,
       "venue": {
@@ -1502,8 +2048,8 @@
         "url": "https://www.easthamchamber.com/events/"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (60%)"
@@ -1513,10 +2059,125 @@
   },
   {
     "event": {
+      "id": "db2ca1ed3078",
+      "slug": "model-train-sale-2026-10-24-db2c",
+      "title": "Model Train Sale",
+      "summary": "A sale of model trains and related items.",
+      "start": "2026-10-24T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Orleans",
+        "town": "orleans"
+      },
+      "categories": [
+        "markets",
+        "community"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://members.orleanscapecod.org/events/details/model-train-sale-25507?calendarMonth=2026-10-01",
+      "source": {
+        "id": "orleans-chamber",
+        "name": "Orleans Chamber of Commerce",
+        "url": "https://members.orleanscapecod.org/events/calendar"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T20:04:45.507Z"
+  },
+  {
+    "event": {
+      "id": "be5f7b0805ba",
+      "slug": "so-percussion-concert-2026-10-24-be5f",
+      "title": "So Percussion Concert",
+      "summary": "The percussion ensemble So Percussion performs in concert.",
+      "start": "2026-10-24T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Orleans",
+        "town": "orleans"
+      },
+      "categories": [
+        "music"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://members.orleanscapecod.org/events/details/so-percussion-concert-25499?calendarMonth=2026-10-01",
+      "source": {
+        "id": "orleans-chamber",
+        "name": "Orleans Chamber of Commerce",
+        "url": "https://members.orleanscapecod.org/events/calendar"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T20:04:45.507Z"
+  },
+  {
+    "event": {
+      "id": "c6d01a43a088",
+      "slug": "the-fall-of-the-house-of-usher-2026-10-24-c6d0",
+      "title": "The Fall of the House of Usher",
+      "summary": "A stage production of the Poe tale.",
+      "start": "2026-10-24T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Orleans",
+        "town": "orleans"
+      },
+      "categories": [
+        "theater"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://members.orleanscapecod.org/events/details/the-fall-of-the-house-of-usher-10-24-2026-25543?calendarMonth=2026-10-01",
+      "source": {
+        "id": "orleans-chamber",
+        "name": "Orleans Chamber of Commerce",
+        "url": "https://members.orleanscapecod.org/events/calendar"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T20:04:45.507Z"
+  },
+  {
+    "event": {
       "id": "14b32abcfa84",
       "slug": "family-trunk-n-treat-candy-and-fire-trucks-2026-10-24-14b3",
       "title": "Family Trunk N' Treat, Candy and Fire Trucks",
-      "summary": "Family trunk-or-treat with candy and fire trucks; costumes encouraged.",
+      "summary": "Trunk-or-treat with fire trucks on hand; costumes are encouraged.",
       "start": "2026-10-24T17:00:00.000Z",
       "allDay": false,
       "venue": {
@@ -1541,8 +2202,8 @@
         "url": "https://www.capecod.com/events/"
       },
       "trusted": false,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "CapeCod.com events isn't a trusted source yet"
@@ -1555,7 +2216,7 @@
       "id": "93ddb47e895d",
       "slug": "halloween-dog-costume-contest-2026-10-24-93dd",
       "title": "Halloween Dog Costume Contest",
-      "summary": "Costume contest for dogs at the town dog park.",
+      "summary": "Dogs dress up and compete in a Halloween costume contest.",
       "start": "2026-10-24T18:00:00.000Z",
       "allDay": false,
       "venue": {
@@ -1581,8 +2242,8 @@
         "url": "https://www.capecod.com/events/"
       },
       "trusted": false,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "CapeCod.com events isn't a trusted source yet"
@@ -1595,7 +2256,7 @@
       "id": "eaa429a7c570",
       "slug": "orleans-halloween-stroll-2026-10-24-eaa4",
       "title": "Orleans Halloween Stroll",
-      "summary": "Halloween stroll along Main Street in Orleans.",
+      "summary": "A Halloween stroll along Orleans' Main Street.",
       "start": "2026-10-24T19:00:00.000Z",
       "allDay": false,
       "venue": {
@@ -1622,8 +2283,8 @@
         "url": "https://www.capecod.com/events/"
       },
       "trusted": false,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "CapeCod.com events isn't a trusted source yet"
@@ -1636,7 +2297,7 @@
       "id": "fd70c5a55cef",
       "slug": "so-percussion-concert-2026-10-24-fd70",
       "title": "Sō Percussion Concert",
-      "summary": "Grammy-winning percussion quartet performs works by Steve Reich and others.",
+      "summary": "The Grammy-winning percussion quartet plays works by Steve Reich, Oliver Tarpaga and Kendall Williams.",
       "start": "2026-10-24T23:30:00.000Z",
       "allDay": false,
       "venue": {
@@ -1648,13 +2309,13 @@
         "music"
       ],
       "tags": {
-        "free": false,
+        "free": true,
         "kids": false,
         "seniors": false,
         "outdoor": false,
         "byBoat": false
       },
-      "priceText": "Free for students and youth 18 and under",
+      "priceText": "Free for students and youth 18 & under",
       "url": "https://artsempoweringlife.org/so-percussion-concert-2/",
       "source": {
         "id": "capecod-com",
@@ -1662,8 +2323,8 @@
         "url": "https://www.capecod.com/events/"
       },
       "trusted": false,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "CapeCod.com events isn't a trusted source yet"
@@ -1676,7 +2337,7 @@
       "id": "8d0220595b46",
       "slug": "the-fall-of-the-house-of-usher-2026-10-25-8d02",
       "title": "The Fall of the House of Usher",
-      "summary": "A stage production based on Edgar Allan Poe's gothic tale.",
+      "summary": "Final listed performance of this staged version of Poe's \"The Fall of the House of Usher\".",
       "start": "2026-10-25T04:00:00.000Z",
       "allDay": false,
       "venue": {
@@ -1700,8 +2361,8 @@
         "url": "https://www.easthamchamber.com/events/"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (60%)"
@@ -1711,10 +2372,48 @@
   },
   {
     "event": {
+      "id": "49b6594270ba",
+      "slug": "the-fall-of-the-house-of-usher-2026-10-25-49b6",
+      "title": "The Fall of the House of Usher",
+      "summary": "Final listed performance of this Poe stage adaptation.",
+      "start": "2026-10-25T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Orleans",
+        "town": "orleans"
+      },
+      "categories": [
+        "theater"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://members.orleanscapecod.org/events/details/the-fall-of-the-house-of-usher-10-25-2026-25544?calendarMonth=2026-10-01",
+      "source": {
+        "id": "orleans-chamber",
+        "name": "Orleans Chamber of Commerce",
+        "url": "https://members.orleanscapecod.org/events/calendar"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T20:04:45.507Z"
+  },
+  {
+    "event": {
       "id": "d3ddfca0757b",
       "slug": "howl-o-ween-pet-parade-2026-10-25-d3dd",
       "title": "Howl O'Ween Pet Parade",
-      "summary": "Costumed pet parade benefiting the Sampson Fund.",
+      "summary": "A costumed pet parade raising money for the Sampson Fund.",
       "start": "2026-10-25T16:00:00.000Z",
       "allDay": false,
       "venue": {
@@ -1741,8 +2440,8 @@
         "url": "https://www.capecod.com/events/"
       },
       "trusted": false,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "CapeCod.com events isn't a trusted source yet"
@@ -1755,7 +2454,7 @@
       "id": "ac18bb6284ac",
       "slug": "2nd-annual-harwich-pto-and-harwich-chamber-halloween-parade-2026-10-28-ac18",
       "title": "2nd Annual Harwich PTO and Harwich Chamber Halloween Parade",
-      "summary": "The Harwich PTO and Chamber team up for their second annual Halloween parade.",
+      "summary": "A family Halloween parade organized by the Harwich PTO and the Chamber, now in its second year.",
       "start": "2026-10-28T04:00:00.000Z",
       "allDay": true,
       "venue": {
@@ -1774,33 +2473,70 @@
         "outdoor": false,
         "byBoat": false
       },
-      "url": "https://business.harwichcc.com/events/details/2nd-annual-harwich-pto-and-harwich-chamber-halloween-parade-25885?calendarMonth=2026-10-01",
+      "url": "https://business.harwichcc.com/events/details/2nd-annual-harwich-pto-and-harwich-chamber-halloween-parade-25885",
       "source": {
         "id": "harwich-chamber",
         "name": "Harwich Chamber of Commerce",
         "url": "https://business.harwichcc.com/events/calendar"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
-      "AI wasn't sure about the details (60%)"
+      "AI wasn't sure about the details (65%)"
     ],
     "kind": "scraped",
     "queuedAt": "2026-10-17T19:56:51.674Z"
   },
   {
     "event": {
+      "id": "eb0bc5db418d",
+      "slug": "sound-healing-salt-therapy-experience-2026-10-29-eb0b",
+      "title": "Sound Healing & Salt Therapy Experience",
+      "summary": "A relaxation session combining sound healing with salt therapy.",
+      "start": "2026-10-29T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Orleans",
+        "town": "orleans"
+      },
+      "categories": [
+        "classes"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://members.orleanscapecod.org/events/details/sound-healing-salt-therapy-experience-10-29-2026-21021?calendarMonth=2026-10-01",
+      "source": {
+        "id": "orleans-chamber",
+        "name": "Orleans Chamber of Commerce",
+        "url": "https://members.orleanscapecod.org/events/calendar"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T20:04:45.507Z"
+  },
+  {
+    "event": {
       "id": "ae318b6e7bdc",
       "slug": "true-tales-of-the-paranormal-with-adam-berry-2026-10-29-ae31",
       "title": "True Tales of the Paranormal with Adam Berry",
-      "summary": "A special event evening where paranormal investigator Adam Berry shares stories of hauntings and ghostly encounters.",
+      "summary": "A special event at Cape Rep featuring paranormal investigator Adam Berry sharing ghostly true stories just before Halloween.",
       "start": "2026-10-29T04:00:00.000Z",
       "allDay": true,
       "venue": {
         "name": "Cape Rep Theatre",
-        "address": "3299 Route 6A, Brewster, MA",
         "town": "brewster"
       },
       "categories": [
@@ -1821,8 +2557,8 @@
         "url": "https://caperep.org/"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (70%)"
@@ -1835,7 +2571,7 @@
       "id": "2973eebc0836",
       "slug": "halloween-in-p-town-2026-10-29-2973",
       "title": "Halloween in P'Town",
-      "summary": "Multi-day Provincetown Halloween celebration with parties, dances, a haunted house and a costume ball.",
+      "summary": "Several days of Halloween parties, dances, a haunted house and a costume ball in Provincetown.",
       "start": "2026-10-29T04:00:00.000Z",
       "end": "2026-11-01T04:00:00.000Z",
       "allDay": true,
@@ -1861,8 +2597,8 @@
         "url": "https://www.capecod.com/events/"
       },
       "trusted": false,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "CapeCod.com events isn't a trusted source yet"
@@ -1875,7 +2611,7 @@
       "id": "115d88e0aa1d",
       "slug": "brewster-halloween-parade-2026-10-29-115d",
       "title": "Brewster Halloween Parade",
-      "summary": "Halloween costume parade starting at the library.",
+      "summary": "A morning Halloween parade for kids starting at the library.",
       "start": "2026-10-29T14:30:00.000Z",
       "allDay": false,
       "venue": {
@@ -1902,8 +2638,8 @@
         "url": "https://www.capecod.com/events/"
       },
       "trusted": false,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "CapeCod.com events isn't a trusted source yet"
@@ -1926,8 +2662,7 @@
         "town": "chatham"
       },
       "categories": [
-        "seniors",
-        "music"
+        "seniors"
       ],
       "tags": {
         "free": false,
@@ -1943,8 +2678,8 @@
         "url": "https://www.chatham-ma.gov/calendar.aspx"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (70%)"
@@ -1982,8 +2717,8 @@
         "url": "https://www.capecod.com/events/"
       },
       "trusted": false,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "CapeCod.com events isn't a trusted source yet"
@@ -1996,7 +2731,7 @@
       "id": "31847a231075",
       "slug": "wicked-at-wick-s-2026-10-30-3184",
       "title": "Wicked at Wick's",
-      "summary": "Children's Halloween celebration with a costume parade and trick-or-treating.",
+      "summary": "A children's Halloween celebration with a costume parade and trick-or-treating.",
       "start": "2026-10-30T22:00:00.000Z",
       "allDay": false,
       "venue": {
@@ -2022,8 +2757,8 @@
         "url": "https://www.capecod.com/events/"
       },
       "trusted": false,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "CapeCod.com events isn't a trusted source yet"
@@ -2036,7 +2771,7 @@
       "id": "f345a2fc9bda",
       "slug": "mashpee-commons-halloween-parade-and-trick-or-treating-2026-10-31-f345",
       "title": "Mashpee Commons Halloween Parade and Trick or Treating",
-      "summary": "Halloween parade followed by trick-or-treating at shops.",
+      "summary": "Halloween parade followed by trick-or-treating at the shops.",
       "start": "2026-10-31T15:00:00.000Z",
       "allDay": false,
       "venue": {
@@ -2062,8 +2797,8 @@
         "url": "https://www.capecod.com/events/"
       },
       "trusted": false,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "CapeCod.com events isn't a trusted source yet"
@@ -2076,12 +2811,12 @@
       "id": "3c07d3b5fa56",
       "slug": "falmouth-village-halloween-stroll-2026-10-31-3c07",
       "title": "Falmouth Village Halloween Stroll",
-      "summary": "Halloween stroll through Falmouth village.",
+      "summary": "Afternoon Halloween stroll through Falmouth village.",
       "start": "2026-10-31T17:00:00.000Z",
       "end": "2026-10-31T19:00:00.000Z",
       "allDay": false,
       "venue": {
-        "name": "Falmouth",
+        "name": "Falmouth Village",
         "address": "Falmouth",
         "town": "falmouth"
       },
@@ -2104,8 +2839,8 @@
         "url": "https://www.capecod.com/events/"
       },
       "trusted": false,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "CapeCod.com events isn't a trusted source yet"
@@ -2118,7 +2853,7 @@
       "id": "fa4966b42d5e",
       "slug": "fall-festival-2026-10-31-fa49",
       "title": "Fall Festival",
-      "summary": "Fall arts and crafts for all ages plus treats at the museum; ticketed, free for members.",
+      "summary": "Fall crafts for all ages, treats and a take-home project amid the museum's exhibitions. Ticketed; free for members.",
       "start": "2026-10-31T17:00:00.000Z",
       "allDay": false,
       "venue": {
@@ -2127,8 +2862,8 @@
         "town": "barnstable"
       },
       "categories": [
-        "arts",
         "family",
+        "arts",
         "festivals"
       ],
       "tags": {
@@ -2146,8 +2881,8 @@
         "url": "https://www.capecod.com/events/"
       },
       "trusted": false,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "CapeCod.com events isn't a trusted source yet"
@@ -2160,7 +2895,7 @@
       "id": "90a6ec0a4e9d",
       "slug": "wellfleet-trunk-or-treat-2026-10-31-90a6",
       "title": "Wellfleet Trunk or Treat",
-      "summary": "Trunk-or-treat held at the drive-in.",
+      "summary": "Trunk-or-treat festival at the drive-in.",
       "start": "2026-10-31T19:00:00.000Z",
       "allDay": false,
       "venue": {
@@ -2170,6 +2905,7 @@
       },
       "categories": [
         "family",
+        "festivals",
         "theater"
       ],
       "tags": {
@@ -2186,8 +2922,8 @@
         "url": "https://www.capecod.com/events/"
       },
       "trusted": false,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "CapeCod.com events isn't a trusted source yet"
@@ -2200,7 +2936,7 @@
       "id": "63f1fb02af33",
       "slug": "haunted-halloween-around-the-common-2026-10-31-63f1",
       "title": "Haunted Halloween Around the Common",
-      "summary": "Halloween festivities around the common at the Edward Gorey House.",
+      "summary": "Halloween festivities around the common hosted by the Edward Gorey House.",
       "start": "2026-10-31T20:00:00.000Z",
       "allDay": false,
       "venue": {
@@ -2226,8 +2962,8 @@
         "url": "https://www.capecod.com/events/"
       },
       "trusted": false,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "CapeCod.com events isn't a trusted source yet"
@@ -2265,8 +3001,8 @@
         "url": "https://www.capecod.com/events/"
       },
       "trusted": false,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "CapeCod.com events isn't a trusted source yet"
@@ -2279,7 +3015,7 @@
       "id": "13864fe52469",
       "slug": "46th-annual-shipwrecked-falmouth-in-the-fall-road-race-2026-11-01-1386",
       "title": "46th Annual Shipwrecked Falmouth in the Fall Road Race",
-      "summary": "Seven-mile race on the Falmouth Road Race course with a finish festival; ages 10 and up.",
+      "summary": "Seven-mile race on the Falmouth Road Race course with a finish festival; runners 10 and up.",
       "start": "2026-11-01T16:00:00.000Z",
       "allDay": false,
       "venue": {
@@ -2306,8 +3042,8 @@
         "url": "https://www.capecod.com/events/"
       },
       "trusted": false,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "CapeCod.com events isn't a trusted source yet"
@@ -2320,7 +3056,7 @@
       "id": "f7d9a786ab63",
       "slug": "thanksgiving-hymn-sing-2026-11-01-f7d9",
       "title": "Thanksgiving Hymn Sing",
-      "summary": "Free community hymn sing of thanks with light refreshments.",
+      "summary": "Free community hymn sing giving thanks, with light refreshments.",
       "start": "2026-11-01T20:30:00.000Z",
       "allDay": false,
       "venue": {
@@ -2347,8 +3083,8 @@
         "url": "https://www.capecod.com/events/"
       },
       "trusted": false,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "CapeCod.com events isn't a trusted source yet"
@@ -2361,7 +3097,7 @@
       "id": "65494d7e6766",
       "slug": "6th-annual-provincetown-food-and-wine-festival-2026-11-05-6549",
       "title": "6th Annual Provincetown Food and Wine Festival",
-      "summary": "Four days of dinners, tastings, brunches and entertainment celebrating Provincetown food and drink.",
+      "summary": "Dinners, tastings, brunches and entertainment themed around Provincetown's community, culture and camp.",
       "start": "2026-11-05T05:00:00.000Z",
       "end": "2026-11-08T05:00:00.000Z",
       "allDay": true,
@@ -2372,11 +3108,12 @@
       },
       "categories": [
         "food",
-        "festivals"
+        "festivals",
+        "family"
       ],
       "tags": {
         "free": false,
-        "kids": false,
+        "kids": true,
         "seniors": false,
         "outdoor": false,
         "byBoat": false
@@ -2388,8 +3125,8 @@
         "url": "https://www.capecod.com/events/"
       },
       "trusted": false,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "CapeCod.com events isn't a trusted source yet"
@@ -2415,13 +3152,13 @@
         "community"
       ],
       "tags": {
-        "free": false,
+        "free": true,
         "kids": false,
         "seniors": false,
         "outdoor": false,
         "byBoat": false
       },
-      "priceText": "Free for students and youth 18 and under",
+      "priceText": "Free for students and youth 18 & under",
       "url": "https://www.churchofthetransfiguration.org/daniel-roth-11-6-26/",
       "source": {
         "id": "capecod-com",
@@ -2429,8 +3166,8 @@
         "url": "https://www.capecod.com/events/"
       },
       "trusted": false,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "CapeCod.com events isn't a trusted source yet"
@@ -2443,7 +3180,7 @@
       "id": "fa04564c46f1",
       "slug": "lost-voices-of-byzantium-2026-11-07-fa04",
       "title": "Lost Voices of Byzantium",
-      "summary": "Dr. Spyridon Antonopoulos explores and performs Byzantine chant; free admission.",
+      "summary": "Dr. Spyridon Antonopoulos explores and performs Byzantine chant. Free admission.",
       "start": "2026-11-07T20:30:00.000Z",
       "allDay": false,
       "venue": {
@@ -2469,8 +3206,8 @@
         "url": "https://www.capecod.com/events/"
       },
       "trusted": false,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "CapeCod.com events isn't a trusted source yet"
@@ -2510,8 +3247,8 @@
         "url": "https://www.capecod.com/events/"
       },
       "trusted": false,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "CapeCod.com events isn't a trusted source yet"
@@ -2524,13 +3261,12 @@
       "id": "fbaabb83a543",
       "slug": "the-hundred-aker-wood-2026-11-12-fbaa",
       "title": "The Hundred Aker Wood",
-      "summary": "The closing indoor show of Cape Rep's 2026 season, a holiday-season production set in the Hundred Aker Wood.",
+      "summary": "The final indoor show of Cape Rep's 2026 season, a stage piece set in the Hundred Aker Wood running through the holiday season.",
       "start": "2026-11-12T05:00:00.000Z",
       "end": "2026-12-13T05:00:00.000Z",
       "allDay": true,
       "venue": {
         "name": "Cape Rep Theatre",
-        "address": "3299 Route 6A, Brewster, MA",
         "town": "brewster"
       },
       "categories": [
@@ -2551,8 +3287,8 @@
         "url": "https://caperep.org/"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (70%)"
@@ -2565,7 +3301,7 @@
       "id": "164db916c218",
       "slug": "damon-grant-arts-speak-performance-lecture-2026-11-21-164d",
       "title": "Damon Grant: Arts Speak Performance Lecture",
-      "summary": "Percussionist and educator Damon Grant performs and discusses the tools and career of a drummer; free.",
+      "summary": "Percussionist and podcaster Damon Grant performs and talks about the gear, gigs and goals of a drummer's life. Free.",
       "start": "2026-11-21T20:30:00.000Z",
       "allDay": false,
       "venue": {
@@ -2593,8 +3329,8 @@
         "url": "https://www.capecod.com/events/"
       },
       "trusted": false,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "CapeCod.com events isn't a trusted source yet"
@@ -2617,8 +3353,8 @@
       },
       "categories": [
         "community",
-        "food",
-        "theater"
+        "music",
+        "food"
       ],
       "tags": {
         "free": false,
@@ -2634,51 +3370,11 @@
         "url": "https://www.capecod.com/events/"
       },
       "trusted": false,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "CapeCod.com events isn't a trusted source yet"
-    ],
-    "kind": "scraped",
-    "queuedAt": "2026-10-17T19:56:51.674Z"
-  },
-  {
-    "event": {
-      "id": "1ca1c6ec0903",
-      "slug": "holiday-on-the-cape-2026-12-04-1ca1",
-      "title": "Holiday on the Cape",
-      "summary": "Cape Symphony's seasonal holiday concert program over three days.",
-      "start": "2026-12-04T05:00:00.000Z",
-      "end": "2026-12-06T05:00:00.000Z",
-      "allDay": false,
-      "venue": {
-        "name": "Barnstable Performing Arts Center",
-        "town": "barnstable"
-      },
-      "categories": [
-        "music",
-        "family"
-      ],
-      "tags": {
-        "free": false,
-        "kids": true,
-        "seniors": false,
-        "outdoor": false,
-        "byBoat": false
-      },
-      "url": "https://capesymphony.org/orchestra/2026-27-season/holiday-on-the-cape",
-      "source": {
-        "id": "cape-symphony",
-        "name": "Cape Symphony",
-        "url": "https://capesymphony.org/"
-      },
-      "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
-    },
-    "reasons": [
-      "AI wasn't sure about the details (70%)"
     ],
     "kind": "scraped",
     "queuedAt": "2026-10-17T19:56:51.674Z"
@@ -2690,7 +3386,7 @@
       "title": "Art Film Screening: Renoir & Love",
       "summary": "A screening of an art documentary exploring Renoir and the theme of love, hosted at the Falmouth Art Center.",
       "start": "2027-01-20T05:00:00.000Z",
-      "allDay": true,
+      "allDay": false,
       "venue": {
         "name": "Falmouth Art Center",
         "address": "137 Gifford Street, Falmouth, MA 02540",
@@ -2714,8 +3410,8 @@
         "url": "https://falmouthart.org/category/events/"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (70%)"
@@ -2753,8 +3449,8 @@
         "url": "https://capesymphony.org/"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (70%)"
@@ -2767,7 +3463,7 @@
       "id": "d440176a9fdd",
       "slug": "samba-at-the-symphony-2027-02-27-d440",
       "title": "Samba at the Symphony",
-      "summary": "Brazilian rhythms and samba-flavored music performed by Cape Symphony.",
+      "summary": "Cape Symphony concert celebrating Brazilian rhythms and samba.",
       "start": "2027-02-27T05:00:00.000Z",
       "end": "2027-02-28T05:00:00.000Z",
       "allDay": false,
@@ -2792,8 +3488,8 @@
         "url": "https://capesymphony.org/"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (70%)"
@@ -2806,7 +3502,7 @@
       "id": "e0c8846336df",
       "slug": "tchaikovsky-beloved-2027-04-10-e0c8",
       "title": "Tchaikovsky Beloved",
-      "summary": "Cape Symphony concert devoted to favorite works by Tchaikovsky.",
+      "summary": "Cape Symphony performs favorite works by Tchaikovsky.",
       "start": "2027-04-10T04:00:00.000Z",
       "end": "2027-04-11T04:00:00.000Z",
       "allDay": false,
@@ -2831,8 +3527,8 @@
         "url": "https://capesymphony.org/"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (70%)"
@@ -2845,7 +3541,7 @@
       "id": "fb4565dace1e",
       "slug": "classical-mystery-tour-a-tribute-to-the-beatles-2027-05-01-fb45",
       "title": "Classical Mystery Tour: A Tribute to the Beatles",
-      "summary": "Beatles songs performed with full orchestra in a CapePOPS! tribute show.",
+      "summary": "Beatles songs performed with full orchestra in a tribute concert.",
       "start": "2027-05-01T04:00:00.000Z",
       "end": "2027-05-02T04:00:00.000Z",
       "allDay": false,
@@ -2870,8 +3566,8 @@
         "url": "https://capesymphony.org/"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (70%)"
@@ -2884,7 +3580,7 @@
       "id": "6524667da6e4",
       "slug": "brahms-4-2027-05-22-6524",
       "title": "Brahms 4",
-      "summary": "Cape Symphony performs Brahms's Fourth Symphony.",
+      "summary": "Cape Symphony performs Brahms' Fourth Symphony.",
       "start": "2027-05-22T04:00:00.000Z",
       "end": "2027-05-23T04:00:00.000Z",
       "allDay": false,
@@ -2909,8 +3605,8 @@
         "url": "https://capesymphony.org/"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (70%)"
@@ -2923,7 +3619,7 @@
       "id": "ef9f3fdac5bc",
       "slug": "back-home-again-the-music-of-john-denver-2027-06-12-ef9f",
       "title": "Back Home Again: The Music of John Denver",
-      "summary": "An orchestral celebration of John Denver's songs closing the season.",
+      "summary": "An orchestral celebration of John Denver's songs.",
       "start": "2027-06-12T04:00:00.000Z",
       "end": "2027-06-13T04:00:00.000Z",
       "allDay": false,
@@ -2949,8 +3645,8 @@
         "url": "https://capesymphony.org/"
       },
       "trusted": true,
-      "firstSeen": "2026-10-17T19:56:51.674Z",
-      "lastSeen": "2026-10-17T19:56:51.674Z"
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-17T20:04:45.507Z"
     },
     "reasons": [
       "AI wasn't sure about the details (70%)"

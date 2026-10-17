@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-10-17T19:56:51.674Z",
-  "published": 633,
-  "queued": 74,
+  "ranAt": "2026-10-17T20:04:45.507Z",
+  "published": 616,
+  "queued": 92,
   "sourcesOk": 53,
   "sourcesFailed": 7,
   "sources": [
@@ -81,8 +81,8 @@
       "id": "allevents-mashpee",
       "name": "AllEvents · Mashpee",
       "ok": true,
-      "found": 20,
-      "published": 20,
+      "found": 24,
+      "published": 24,
       "queued": 0,
       "method": "jsonld"
     },
@@ -145,8 +145,8 @@
       "name": "Cape Cinema",
       "ok": true,
       "found": 7,
-      "published": 7,
-      "queued": 0,
+      "published": 4,
+      "queued": 3,
       "method": "ai"
     },
     {
@@ -208,8 +208,8 @@
       "name": "Cape Symphony",
       "ok": true,
       "found": 11,
-      "published": 4,
-      "queued": 7,
+      "published": 5,
+      "queued": 6,
       "method": "ai"
     },
     {
@@ -226,8 +226,8 @@
       "name": "Chatham Chamber of Commerce",
       "ok": true,
       "found": 10,
-      "published": 2,
-      "queued": 8,
+      "published": 1,
+      "queued": 9,
       "method": "ai"
     },
     {
@@ -252,8 +252,8 @@
       "id": "dennis-chamber",
       "name": "Dennis Chamber of Commerce",
       "ok": true,
-      "found": 0,
-      "published": 0,
+      "found": 20,
+      "published": 20,
       "queued": 0,
       "method": "ai"
     },
@@ -271,8 +271,8 @@
       "name": "Edward Gorey House",
       "ok": true,
       "found": 8,
-      "published": 7,
-      "queued": 1,
+      "published": 8,
+      "queued": 0,
       "method": "ai"
     },
     {
@@ -351,10 +351,10 @@
       "id": "highfield-hall",
       "name": "Highfield Hall & Gardens",
       "ok": true,
-      "found": 47,
-      "published": 45,
+      "found": 0,
+      "published": 0,
       "queued": 0,
-      "method": "tribe"
+      "method": "ai"
     },
     {
       "id": "hyannis-chamber",
@@ -396,9 +396,9 @@
       "id": "orleans-chamber",
       "name": "Orleans Chamber of Commerce",
       "ok": true,
-      "found": 0,
-      "published": 0,
-      "queued": 0,
+      "found": 22,
+      "published": 8,
+      "queued": 14,
       "method": "ai"
     },
     {
@@ -424,7 +424,7 @@
       "name": "Provincetown Business Guild",
       "ok": true,
       "found": 293,
-      "published": 128,
+      "published": 127,
       "queued": 0,
       "method": "jsonld"
     },
@@ -478,17 +478,17 @@
       "name": "Town of Chatham calendar",
       "ok": true,
       "found": 7,
-      "published": 6,
-      "queued": 1,
+      "published": 5,
+      "queued": 2,
       "method": "ai"
     },
     {
       "id": "falmouth-town",
       "name": "Town of Falmouth calendar",
       "ok": true,
-      "found": 4,
+      "found": 5,
       "published": 2,
-      "queued": 2,
+      "queued": 3,
       "method": "ai"
     },
     {
