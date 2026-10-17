@@ -1,1 +1,2961 @@
-[]
+[
+  {
+    "event": {
+      "id": "732169f65358",
+      "slug": "the-2026-annual-all-ages-envelope-art-contest-2026-06-19-7321",
+      "title": "The 2026 Annual All-Ages Envelope Art Contest",
+      "summary": "An envelope art contest open to all ages, inspired by Edward Gorey; entry forms are available from the House. Submissions accepted through December 1.",
+      "start": "2026-06-19T20:30:00.000Z",
+      "end": "2026-12-01T21:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "The Edward Gorey House",
+        "address": "8 Strawberry Lane, Yarmouth Port, MA",
+        "town": "yarmouth"
+      },
+      "categories": [
+        "arts",
+        "family"
+      ],
+      "tags": {
+        "free": false,
+        "kids": true,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://edwardgoreyhouse.org/events/envelope-2026",
+      "source": {
+        "id": "edward-gorey-house",
+        "name": "Edward Gorey House",
+        "url": "https://edwardgoreyhouse.org/events"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "b8f945579bd2",
+      "slug": "the-fall-of-the-house-of-usher-2026-09-30-b8f9",
+      "title": "The Fall of the House of Usher",
+      "summary": "Cape Rep Theatre stages an indoor production adapted from the Poe gothic tale, part of its 2026 subscription season.",
+      "start": "2026-09-30T04:00:00.000Z",
+      "end": "2026-10-25T04:00:00.000Z",
+      "allDay": true,
+      "venue": {
+        "name": "Cape Rep Theatre",
+        "address": "3299 Route 6A, Brewster, MA",
+        "town": "brewster"
+      },
+      "categories": [
+        "theater",
+        "arts"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://caperep.org/show/the-fall-of-the-house-of-usher/",
+      "source": {
+        "id": "cape-rep",
+        "name": "Cape Rep Theatre",
+        "url": "https://caperep.org/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "6a6865d13deb",
+      "slug": "pumpkin-patch-2026-2026-10-01-6a68",
+      "title": "Pumpkin Patch 2026",
+      "summary": "A month-long community pumpkin patch in Chatham supporting charity.",
+      "start": "2026-10-01T04:00:00.000Z",
+      "end": "2026-10-31T04:00:00.000Z",
+      "allDay": true,
+      "venue": {
+        "name": "Chatham",
+        "address": "Chatham, MA",
+        "town": "chatham"
+      },
+      "categories": [
+        "festivals",
+        "community",
+        "family"
+      ],
+      "tags": {
+        "free": false,
+        "kids": true,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://business.chathaminfo.com/events/details/pumpkin-patch-2026-32858",
+      "source": {
+        "id": "chatham-chamber",
+        "name": "Chatham Chamber of Commerce",
+        "url": "https://www.chathaminfo.com/events/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "21b35b4b5e70",
+      "slug": "pumpkinpalooza-2026-pumpkin-people-in-the-park-2026-10-14-21b3",
+      "title": "Pumpkinpalooza 2026: Pumpkin People in the Park",
+      "summary": "Decorated pumpkin people figures are displayed around the park for the fall season.",
+      "start": "2026-10-14T04:00:00.000Z",
+      "end": "2026-11-01T04:00:00.000Z",
+      "allDay": true,
+      "venue": {
+        "name": "Chatham",
+        "address": "Chatham, MA",
+        "town": "chatham"
+      },
+      "categories": [
+        "festivals",
+        "community",
+        "family"
+      ],
+      "tags": {
+        "free": false,
+        "kids": true,
+        "seniors": false,
+        "outdoor": true,
+        "byBoat": false
+      },
+      "url": "https://business.chathaminfo.com/events/details/pumpkinpalooza-2026-22934",
+      "source": {
+        "id": "chatham-chamber",
+        "name": "Chatham Chamber of Commerce",
+        "url": "https://www.chathaminfo.com/events/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "f3b944f1096c",
+      "slug": "plymouth-rock-r-wooden-rocking-boat-workshop-2026-10-16-f3b9",
+      "title": "Plymouth Rock'r: Wooden Rocking Boat Workshop",
+      "summary": "A multi-day woodworking workshop where participants build a wooden rocking boat.",
+      "start": "2026-10-16T04:00:00.000Z",
+      "end": "2026-10-18T04:00:00.000Z",
+      "allDay": true,
+      "venue": {
+        "name": "Barnstable",
+        "town": "barnstable"
+      },
+      "categories": [
+        "classes",
+        "music",
+        "water"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://business.hyannis.com/events/details/plymouth-rock-r-wooden-rocking-boat-workshop-4101",
+      "source": {
+        "id": "hyannis-chamber",
+        "name": "Hyannis Area Chamber",
+        "url": "https://www.hyannis.com/events/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "fa22f4bf3654",
+      "slug": "the-fall-of-the-house-of-usher-2026-10-17-fa22",
+      "title": "The Fall of the House of Usher",
+      "summary": "A staging of Poe's gothic tale The Fall of the House of Usher, running through late October.",
+      "start": "2026-10-17T04:00:00.000Z",
+      "end": "2026-10-25T04:00:00.000Z",
+      "allDay": true,
+      "venue": {
+        "name": "Harwich",
+        "town": "harwich"
+      },
+      "categories": [
+        "theater",
+        "arts"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://business.harwichcc.com/events/details/the-fall-of-the-house-of-usher-25889?calendarMonth=2026-10-01",
+      "source": {
+        "id": "harwich-chamber",
+        "name": "Harwich Chamber of Commerce",
+        "url": "https://business.harwichcc.com/events/calendar"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (60%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "09018f3af50c",
+      "slug": "home-life-ready-fall-showcase-2026-10-17-0901",
+      "title": "Home-Life- Ready Fall Showcase",
+      "summary": "A fall showcase centered on home and lifestyle readiness.",
+      "start": "2026-10-17T04:00:00.000Z",
+      "allDay": true,
+      "venue": {
+        "name": "Harwich",
+        "town": "harwich"
+      },
+      "categories": [
+        "community"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://business.harwichcc.com/events/details/home-life-ready-fall-showcase-25748?calendarMonth=2026-10-01",
+      "source": {
+        "id": "harwich-chamber",
+        "name": "Harwich Chamber of Commerce",
+        "url": "https://business.harwichcc.com/events/calendar"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (60%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "e49260830399",
+      "slug": "cape-symphony-alfred-hitchcock-s-psycho-in-concert-2026-10-17-e492",
+      "title": "Cape Symphony: Alfred Hitchcock's \"Psycho\" in Concert",
+      "summary": "The Cape Symphony performs the score live while Hitchcock's Psycho is screened.",
+      "start": "2026-10-17T04:00:00.000Z",
+      "allDay": true,
+      "venue": {
+        "name": "Harwich",
+        "town": "harwich"
+      },
+      "categories": [
+        "music",
+        "arts"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://business.harwichcc.com/events/details/cape-symphony-alfred-hitchcock-s-psycho-in-concert-25899?calendarMonth=2026-10-01",
+      "source": {
+        "id": "harwich-chamber",
+        "name": "Harwich Chamber of Commerce",
+        "url": "https://business.harwichcc.com/events/calendar"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (60%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "9d7dadcae664",
+      "slug": "create-a-felted-pumpkin-2026-10-17-9d7d",
+      "title": "Create a Felted Pumpkin",
+      "summary": "A hands-on craft session making a felted pumpkin decoration.",
+      "start": "2026-10-17T04:00:00.000Z",
+      "allDay": true,
+      "venue": {
+        "name": "Chatham",
+        "address": "Chatham, MA",
+        "town": "chatham"
+      },
+      "categories": [
+        "arts",
+        "classes"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://business.chathaminfo.com/events/details/create-a-felted-pumpkin-32852",
+      "source": {
+        "id": "chatham-chamber",
+        "name": "Chatham Chamber of Commerce",
+        "url": "https://www.chathaminfo.com/events/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "0bde016054d6",
+      "slug": "the-fall-of-the-house-of-usher-2026-10-17-0bde",
+      "title": "The Fall of the House of Usher",
+      "summary": "A stage performance based on Poe's gothic tale.",
+      "start": "2026-10-17T04:00:00.000Z",
+      "allDay": true,
+      "venue": {
+        "name": "Chatham",
+        "address": "Chatham, MA",
+        "town": "chatham"
+      },
+      "categories": [
+        "theater",
+        "arts"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://business.chathaminfo.com/events/details/the-fall-of-the-house-of-usher-10-17-2026-32837",
+      "source": {
+        "id": "chatham-chamber",
+        "name": "Chatham Chamber of Commerce",
+        "url": "https://www.chathaminfo.com/events/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "79f84481e9d5",
+      "slug": "creare-symphonia-in-concert-2026-10-17-79f8",
+      "title": "Creare Symphonia in Concert",
+      "summary": "A concert performance by the Creare Symphonia ensemble.",
+      "start": "2026-10-17T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Eastham",
+        "town": "eastham"
+      },
+      "categories": [
+        "music"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://members.easthamchamber.com/events/details/creare-symphonia-in-concert-5852",
+      "source": {
+        "id": "eastham-chamber",
+        "name": "Eastham Chamber of Commerce",
+        "url": "https://www.easthamchamber.com/events/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (60%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "d9b9459e0c68",
+      "slug": "the-fall-of-the-house-of-usher-2026-10-17-d9b9",
+      "title": "The Fall of the House of Usher",
+      "summary": "A stage production based on Edgar Allan Poe's gothic tale.",
+      "start": "2026-10-17T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Eastham",
+        "town": "eastham"
+      },
+      "categories": [
+        "theater"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://members.easthamchamber.com/events/details/the-fall-of-the-house-of-usher-10-17-2026-5886",
+      "source": {
+        "id": "eastham-chamber",
+        "name": "Eastham Chamber of Commerce",
+        "url": "https://www.easthamchamber.com/events/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (60%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "9cda2399bab8",
+      "slug": "cape-symphony-alfred-hitchcock-s-psycho-in-concert-2026-10-17-9cda",
+      "title": "Cape Symphony: Alfred Hitchcock's \"Psycho\" in Concert",
+      "summary": "The Cape Symphony performs the score live alongside a screening of Hitchcock's Psycho.",
+      "start": "2026-10-17T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Eastham",
+        "town": "eastham"
+      },
+      "categories": [
+        "music",
+        "theater"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://members.easthamchamber.com/events/details/cape-symphony-alfred-hitchcock-s-psycho-in-concert-5906",
+      "source": {
+        "id": "eastham-chamber",
+        "name": "Eastham Chamber of Commerce",
+        "url": "https://www.easthamchamber.com/events/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (60%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "def43afe27eb",
+      "slug": "haunted-hallows-2026-10-17-def4",
+      "title": "Haunted Hallows",
+      "summary": "Immersive Halloween experience on Friday and Saturday nights through Halloween.",
+      "start": "2026-10-17T04:00:00.000Z",
+      "end": "2026-10-31T04:00:00.000Z",
+      "allDay": true,
+      "venue": {
+        "name": "Mashpee Commons",
+        "address": "Mashpee",
+        "town": "mashpee"
+      },
+      "categories": [
+        "family",
+        "festivals"
+      ],
+      "tags": {
+        "free": false,
+        "kids": true,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://hauntedhallowsmashpee.com/",
+      "source": {
+        "id": "capecod-com",
+        "name": "CapeCod.com events",
+        "url": "https://www.capecod.com/events/"
+      },
+      "trusted": false,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (60%)",
+      "CapeCod.com events isn't a trusted source yet"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "bfa83b01c1ce",
+      "slug": "wellfleet-oysterfest-2026-10-17-bfa8",
+      "title": "Wellfleet OysterFest",
+      "summary": "Two-day oyster festival with food, artisans, music, a 5K and the Oyster Shuck-Off; advance tickets required.",
+      "start": "2026-10-17T04:00:00.000Z",
+      "end": "2026-10-18T04:00:00.000Z",
+      "allDay": true,
+      "venue": {
+        "name": "Main Street",
+        "address": "Main Street, Wellfleet",
+        "town": "wellfleet"
+      },
+      "categories": [
+        "festivals",
+        "food",
+        "music"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "priceText": "Advance tickets required",
+      "url": "https://www.capecod.com/events/",
+      "source": {
+        "id": "capecod-com",
+        "name": "CapeCod.com events",
+        "url": "https://www.capecod.com/events/"
+      },
+      "trusted": false,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "CapeCod.com events isn't a trusted source yet"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "46178c2010f3",
+      "slug": "cape-symphony-presents-psycho-2026-10-17-4617",
+      "title": "Cape Symphony Presents Psycho",
+      "summary": "Hitchcock's Psycho screened with the Cape Symphony performing Herrmann's score live.",
+      "start": "2026-10-17T04:00:00.000Z",
+      "end": "2026-10-18T04:00:00.000Z",
+      "allDay": true,
+      "venue": {
+        "name": "Barnstable Performing Arts Center",
+        "address": "Barnstable",
+        "town": "barnstable"
+      },
+      "categories": [
+        "music"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://www.capecod.com/events/",
+      "source": {
+        "id": "capecod-com",
+        "name": "CapeCod.com events",
+        "url": "https://www.capecod.com/events/"
+      },
+      "trusted": false,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "CapeCod.com events isn't a trusted source yet"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "8a55cb1a68d8",
+      "slug": "16th-annual-feet-for-flippers-5k-2026-10-17-8a55",
+      "title": "16th Annual Feet For Flippers 5K",
+      "summary": "5K race, in person or virtual, raising funds for the National Marine Life Center's sea turtle and seal care.",
+      "start": "2026-10-17T14:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Buzzards Bay Rec Area",
+        "address": "Buzzards Bay",
+        "town": "bourne"
+      },
+      "categories": [
+        "outdoors",
+        "community"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": true,
+        "byBoat": false
+      },
+      "url": "https://www.capecod.com/events/",
+      "source": {
+        "id": "capecod-com",
+        "name": "CapeCod.com events",
+        "url": "https://www.capecod.com/events/"
+      },
+      "trusted": false,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "CapeCod.com events isn't a trusted source yet"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "b036600eae14",
+      "slug": "ccals-stroll-and-roll-pending-approval-2026-10-17-b036",
+      "title": "CCALS Stroll and Roll (pending approval)",
+      "summary": "A stroll-and-roll walk event at Bourne Farm benefiting Cape Cod ALS efforts; still pending town approval.",
+      "start": "2026-10-17T15:00:00.000Z",
+      "end": "2026-10-17T18:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Bourne Farm",
+        "address": "Falmouth, MA 02540",
+        "town": "falmouth"
+      },
+      "categories": [
+        "community",
+        "outdoors",
+        "festivals"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": true,
+        "byBoat": false
+      },
+      "url": "https://www.falmouthma.gov/Calendar.aspx?EID=4060&month=10&year=2026&day=17&calType=0",
+      "source": {
+        "id": "falmouth-town",
+        "name": "Town of Falmouth calendar",
+        "url": "https://www.falmouthma.gov/calendar.aspx"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "0c7697f9d6dd",
+      "slug": "pumpkinfest-2026-10-17-0c76",
+      "title": "PumpkinFest",
+      "summary": "Fall family festival with scarecrow stuffing, gourd bowling, farmers market and face painting.",
+      "start": "2026-10-17T15:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "T-Time",
+        "address": "Eastham",
+        "town": "eastham"
+      },
+      "categories": [
+        "family",
+        "festivals",
+        "markets"
+      ],
+      "tags": {
+        "free": false,
+        "kids": true,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://www.capecod.com/events/",
+      "source": {
+        "id": "capecod-com",
+        "name": "CapeCod.com events",
+        "url": "https://www.capecod.com/events/"
+      },
+      "trusted": false,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "CapeCod.com events isn't a trusted source yet"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "0a970c6b7a36",
+      "slug": "creare-symphonia-in-concert-2026-10-17-0a97",
+      "title": "Creare Symphonia in Concert",
+      "summary": "Concert of English 20th-century music including Vaughan Williams' The Lark Ascending and Finzi.",
+      "start": "2026-10-17T23:30:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Performing Arts Center",
+        "address": "Brewster",
+        "town": "brewster"
+      },
+      "categories": [
+        "music"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "priceText": "Free for students and youth 18 and under",
+      "url": "https://artsempoweringlife.org/creare-symphonia-in-concert-6/",
+      "source": {
+        "id": "capecod-com",
+        "name": "CapeCod.com events",
+        "url": "https://www.capecod.com/events/"
+      },
+      "trusted": false,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "CapeCod.com events isn't a trusted source yet"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "b97b3cdae889",
+      "slug": "cape-symphony-alfred-hitchcock-s-psycho-in-concert-2026-10-18-b97b",
+      "title": "Cape Symphony: Alfred Hitchcock's \"Psycho\" in Concert",
+      "summary": "A second performance of the Cape Symphony playing the Psycho score live alongside the film.",
+      "start": "2026-10-18T04:00:00.000Z",
+      "allDay": true,
+      "venue": {
+        "name": "Harwich",
+        "town": "harwich"
+      },
+      "categories": [
+        "music",
+        "arts",
+        "theater"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://business.harwichcc.com/events/details/cape-symphony-alfred-hitchcock-s-psycho-in-concert-10-18-2026-25900?calendarMonth=2026-10-01",
+      "source": {
+        "id": "harwich-chamber",
+        "name": "Harwich Chamber of Commerce",
+        "url": "https://business.harwichcc.com/events/calendar"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (60%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "775a5fed5814",
+      "slug": "the-fall-of-the-house-of-usher-2026-10-18-775a",
+      "title": "The Fall of the House of Usher",
+      "summary": "A stage performance based on Poe's gothic tale.",
+      "start": "2026-10-18T04:00:00.000Z",
+      "allDay": true,
+      "venue": {
+        "name": "Chatham",
+        "address": "Chatham, MA",
+        "town": "chatham"
+      },
+      "categories": [
+        "theater",
+        "arts"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://business.chathaminfo.com/events/details/the-fall-of-the-house-of-usher-10-18-2026-32838",
+      "source": {
+        "id": "chatham-chamber",
+        "name": "Chatham Chamber of Commerce",
+        "url": "https://www.chathaminfo.com/events/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "a04371da5016",
+      "slug": "the-fall-of-the-house-of-usher-2026-10-18-a043",
+      "title": "The Fall of the House of Usher",
+      "summary": "A stage production based on Edgar Allan Poe's gothic tale.",
+      "start": "2026-10-18T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Eastham",
+        "town": "eastham"
+      },
+      "categories": [
+        "theater"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://members.easthamchamber.com/events/details/the-fall-of-the-house-of-usher-10-18-2026-5894",
+      "source": {
+        "id": "eastham-chamber",
+        "name": "Eastham Chamber of Commerce",
+        "url": "https://www.easthamchamber.com/events/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (60%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "c98d9c57355c",
+      "slug": "cape-symphony-alfred-hitchcock-s-psycho-in-concert-2026-10-18-c98d",
+      "title": "Cape Symphony: Alfred Hitchcock's \"Psycho\" in Concert",
+      "summary": "The Cape Symphony performs the score live alongside a screening of Hitchcock's Psycho.",
+      "start": "2026-10-18T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Eastham",
+        "town": "eastham"
+      },
+      "categories": [
+        "music",
+        "theater"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://members.easthamchamber.com/events/details/cape-symphony-alfred-hitchcock-s-psycho-in-concert-10-18-2026-5907",
+      "source": {
+        "id": "eastham-chamber",
+        "name": "Eastham Chamber of Commerce",
+        "url": "https://www.easthamchamber.com/events/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (60%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "7fefb93ea5d8",
+      "slug": "creare-symphonia-in-concert-2026-10-18-7fef",
+      "title": "Creare Symphonia in Concert",
+      "summary": "A concert performance by the Creare Symphonia ensemble.",
+      "start": "2026-10-18T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Eastham",
+        "town": "eastham"
+      },
+      "categories": [
+        "music"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://members.easthamchamber.com/events/details/creare-symphonia-in-concert-5856",
+      "source": {
+        "id": "eastham-chamber",
+        "name": "Eastham Chamber of Commerce",
+        "url": "https://www.easthamchamber.com/events/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (60%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "7741513218e4",
+      "slug": "pedal-to-parcels-pending-approval-2026-10-18-7741",
+      "title": "Pedal to Parcels (pending approval)",
+      "summary": "The 300 Committee leads a group bike ride visiting its conserved land parcels, starting and ending at the Chapoquoit Beach parking lot; pending approval.",
+      "start": "2026-10-18T13:00:00.000Z",
+      "end": "2026-10-18T16:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Chapoquoit Beach parking lot",
+        "address": "Falmouth, MA 02540",
+        "town": "falmouth"
+      },
+      "categories": [
+        "outdoors",
+        "community"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": true,
+        "byBoat": false
+      },
+      "url": "https://www.falmouthma.gov/Calendar.aspx?EID=4028&month=10&year=2026&day=17&calType=0",
+      "source": {
+        "id": "falmouth-town",
+        "name": "Town of Falmouth calendar",
+        "url": "https://www.falmouthma.gov/calendar.aspx"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "40601f230e01",
+      "slug": "creare-symphonia-in-concert-2026-10-18-4060",
+      "title": "Creare Symphonia in Concert",
+      "summary": "Matinee of English 20th-century music including The Lark Ascending and Finzi.",
+      "start": "2026-10-18T19:30:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Performing Arts Center",
+        "address": "Brewster",
+        "town": "brewster"
+      },
+      "categories": [
+        "music"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "priceText": "Free for students and youth 18 and under",
+      "url": "https://artsempoweringlife.org/creare-symphonia-in-concert-6/",
+      "source": {
+        "id": "capecod-com",
+        "name": "CapeCod.com events",
+        "url": "https://www.capecod.com/events/"
+      },
+      "trusted": false,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "CapeCod.com events isn't a trusted source yet"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "2c7f1f08f708",
+      "slug": "the-fall-of-the-house-of-usher-2026-10-21-2c7f",
+      "title": "The Fall of the House of Usher",
+      "summary": "A stage performance based on Poe's gothic tale.",
+      "start": "2026-10-21T04:00:00.000Z",
+      "allDay": true,
+      "venue": {
+        "name": "Chatham",
+        "address": "Chatham, MA",
+        "town": "chatham"
+      },
+      "categories": [
+        "theater",
+        "arts"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://business.chathaminfo.com/events/details/the-fall-of-the-house-of-usher-10-21-2026-32839",
+      "source": {
+        "id": "chatham-chamber",
+        "name": "Chatham Chamber of Commerce",
+        "url": "https://www.chathaminfo.com/events/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "4ef1f58ab679",
+      "slug": "the-fall-of-the-house-of-usher-2026-10-21-4ef1",
+      "title": "The Fall of the House of Usher",
+      "summary": "A stage production based on Edgar Allan Poe's gothic tale.",
+      "start": "2026-10-21T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Eastham",
+        "town": "eastham"
+      },
+      "categories": [
+        "theater"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://members.easthamchamber.com/events/details/the-fall-of-the-house-of-usher-10-21-2026-5887",
+      "source": {
+        "id": "eastham-chamber",
+        "name": "Eastham Chamber of Commerce",
+        "url": "https://www.easthamchamber.com/events/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (60%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "41d6a9bea749",
+      "slug": "live-at-5-05-business-after-hours-2026-10-22-41d6",
+      "title": "Live at 5:05- Business After Hours",
+      "summary": "A Harwich Chamber after-hours networking gathering for local businesses.",
+      "start": "2026-10-22T04:00:00.000Z",
+      "allDay": true,
+      "venue": {
+        "name": "Harwich",
+        "town": "harwich"
+      },
+      "categories": [
+        "community"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://business.harwichcc.com/events/details/live-at-5-05-business-after-hours-25893?calendarMonth=2026-10-01",
+      "source": {
+        "id": "harwich-chamber",
+        "name": "Harwich Chamber of Commerce",
+        "url": "https://business.harwichcc.com/events/calendar"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (60%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "cfe331cb5132",
+      "slug": "author-presentation-book-signing-christopher-seufert-memento-gorey-2026-10-22-cfe3",
+      "title": "Author Presentation & Book Signing: Christopher Seufert - Memento Gorey",
+      "summary": "Christopher Seufert talks about his book of final interviews with Edward Gorey and signs copies.",
+      "start": "2026-10-22T04:00:00.000Z",
+      "allDay": true,
+      "venue": {
+        "name": "Chatham",
+        "address": "Chatham, MA",
+        "town": "chatham"
+      },
+      "categories": [
+        "arts",
+        "community"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://business.chathaminfo.com/events/details/author-presentation-book-signing-christopher-seufert-memento-gorey-the-last-interviews-with-edward-gorey-32874",
+      "source": {
+        "id": "chatham-chamber",
+        "name": "Chatham Chamber of Commerce",
+        "url": "https://www.chathaminfo.com/events/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "e418375dbaa1",
+      "slug": "the-fall-of-the-house-of-usher-2026-10-22-e418",
+      "title": "The Fall of the House of Usher",
+      "summary": "A stage performance based on Poe's gothic tale.",
+      "start": "2026-10-22T04:00:00.000Z",
+      "allDay": true,
+      "venue": {
+        "name": "Chatham",
+        "address": "Chatham, MA",
+        "town": "chatham"
+      },
+      "categories": [
+        "theater",
+        "arts"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://business.chathaminfo.com/events/details/the-fall-of-the-house-of-usher-10-22-2026-32840",
+      "source": {
+        "id": "chatham-chamber",
+        "name": "Chatham Chamber of Commerce",
+        "url": "https://www.chathaminfo.com/events/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "312657063883",
+      "slug": "the-fall-of-the-house-of-usher-2026-10-22-3126",
+      "title": "The Fall of the House of Usher",
+      "summary": "A stage production based on Edgar Allan Poe's gothic tale.",
+      "start": "2026-10-22T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Eastham",
+        "town": "eastham"
+      },
+      "categories": [
+        "theater"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://members.easthamchamber.com/events/details/the-fall-of-the-house-of-usher-10-22-2026-5888",
+      "source": {
+        "id": "eastham-chamber",
+        "name": "Eastham Chamber of Commerce",
+        "url": "https://www.easthamchamber.com/events/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (60%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "f5abbf42796a",
+      "slug": "a-weekend-of-mahjong-at-the-platinum-pebble-2026-10-23-f5ab",
+      "title": "A Weekend of Mahjong at The Platinum Pebble",
+      "summary": "A weekend of mahjong play hosted at The Platinum Pebble.",
+      "start": "2026-10-23T04:00:00.000Z",
+      "end": "2026-10-25T04:00:00.000Z",
+      "allDay": true,
+      "venue": {
+        "name": "The Platinum Pebble",
+        "town": "harwich"
+      },
+      "categories": [
+        "community",
+        "classes",
+        "theater"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://business.harwichcc.com/events/details/a-weekend-of-mahjong-at-the-platinum-pebble-25896?calendarMonth=2026-10-01",
+      "source": {
+        "id": "harwich-chamber",
+        "name": "Harwich Chamber of Commerce",
+        "url": "https://business.harwichcc.com/events/calendar"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (60%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "60f20ec30264",
+      "slug": "the-fall-of-the-house-of-usher-2026-10-23-60f2",
+      "title": "The Fall of the House of Usher",
+      "summary": "A stage production based on Edgar Allan Poe's gothic tale.",
+      "start": "2026-10-23T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Eastham",
+        "town": "eastham"
+      },
+      "categories": [
+        "theater"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://members.easthamchamber.com/events/details/the-fall-of-the-house-of-usher-10-23-2026-5889",
+      "source": {
+        "id": "eastham-chamber",
+        "name": "Eastham Chamber of Commerce",
+        "url": "https://www.easthamchamber.com/events/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (60%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "4466d0040617",
+      "slug": "annual-halloween-party-2026-10-23-4466",
+      "title": "Annual Halloween Party",
+      "summary": "Library Halloween party with dancing, treats, crafts and a photo booth.",
+      "start": "2026-10-23T21:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Truro Public Library",
+        "address": "Truro",
+        "town": "truro"
+      },
+      "categories": [
+        "family",
+        "community"
+      ],
+      "tags": {
+        "free": false,
+        "kids": true,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://www.truro-ma.gov/Calendar.aspx?EID=2636&month=10&year=2026&day=8&calType=0",
+      "source": {
+        "id": "capecod-com",
+        "name": "CapeCod.com events",
+        "url": "https://www.capecod.com/events/"
+      },
+      "trusted": false,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "CapeCod.com events isn't a trusted source yet"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "c117332f5846",
+      "slug": "so-percussion-concert-2026-10-24-c117",
+      "title": "So Percussion Concert",
+      "summary": "The percussion quartet Sō Percussion performs in concert.",
+      "start": "2026-10-24T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Eastham",
+        "town": "eastham"
+      },
+      "categories": [
+        "music"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://members.easthamchamber.com/events/details/so-percussion-concert-5853",
+      "source": {
+        "id": "eastham-chamber",
+        "name": "Eastham Chamber of Commerce",
+        "url": "https://www.easthamchamber.com/events/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (60%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "a8713d7c3efd",
+      "slug": "the-fall-of-the-house-of-usher-2026-10-24-a871",
+      "title": "The Fall of the House of Usher",
+      "summary": "A stage production based on Edgar Allan Poe's gothic tale.",
+      "start": "2026-10-24T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Eastham",
+        "town": "eastham"
+      },
+      "categories": [
+        "theater"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://members.easthamchamber.com/events/details/the-fall-of-the-house-of-usher-10-24-2026-5890",
+      "source": {
+        "id": "eastham-chamber",
+        "name": "Eastham Chamber of Commerce",
+        "url": "https://www.easthamchamber.com/events/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (60%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "14b32abcfa84",
+      "slug": "family-trunk-n-treat-candy-and-fire-trucks-2026-10-24-14b3",
+      "title": "Family Trunk N' Treat, Candy and Fire Trucks",
+      "summary": "Family trunk-or-treat with candy and fire trucks; costumes encouraged.",
+      "start": "2026-10-24T17:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Sandy Neck parking lot",
+        "address": "Barnstable",
+        "town": "barnstable"
+      },
+      "categories": [
+        "family"
+      ],
+      "tags": {
+        "free": false,
+        "kids": true,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://www.facebook.com/photo?fbid=1552824190214973&set=pcb.1552825410214851",
+      "source": {
+        "id": "capecod-com",
+        "name": "CapeCod.com events",
+        "url": "https://www.capecod.com/events/"
+      },
+      "trusted": false,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "CapeCod.com events isn't a trusted source yet"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "93ddb47e895d",
+      "slug": "halloween-dog-costume-contest-2026-10-24-93dd",
+      "title": "Halloween Dog Costume Contest",
+      "summary": "Costume contest for dogs at the town dog park.",
+      "start": "2026-10-24T18:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Falmouth Dog Park",
+        "address": "Falmouth",
+        "town": "falmouth"
+      },
+      "categories": [
+        "community",
+        "family"
+      ],
+      "tags": {
+        "free": false,
+        "kids": true,
+        "seniors": false,
+        "outdoor": true,
+        "byBoat": false
+      },
+      "url": "https://www.falmouthdogpark.com/whats-new.html",
+      "source": {
+        "id": "capecod-com",
+        "name": "CapeCod.com events",
+        "url": "https://www.capecod.com/events/"
+      },
+      "trusted": false,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "CapeCod.com events isn't a trusted source yet"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "eaa429a7c570",
+      "slug": "orleans-halloween-stroll-2026-10-24-eaa4",
+      "title": "Orleans Halloween Stroll",
+      "summary": "Halloween stroll along Main Street in Orleans.",
+      "start": "2026-10-24T19:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Main Street",
+        "address": "Main Street, Orleans",
+        "town": "orleans"
+      },
+      "categories": [
+        "family",
+        "community",
+        "festivals"
+      ],
+      "tags": {
+        "free": false,
+        "kids": true,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://community.orleansma.gov/orleansma/260203245?utm_source=bewith&utm_medium=calendar",
+      "source": {
+        "id": "capecod-com",
+        "name": "CapeCod.com events",
+        "url": "https://www.capecod.com/events/"
+      },
+      "trusted": false,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "CapeCod.com events isn't a trusted source yet"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "fd70c5a55cef",
+      "slug": "so-percussion-concert-2026-10-24-fd70",
+      "title": "Sō Percussion Concert",
+      "summary": "Grammy-winning percussion quartet performs works by Steve Reich and others.",
+      "start": "2026-10-24T23:30:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Performing Arts Center",
+        "address": "Brewster",
+        "town": "brewster"
+      },
+      "categories": [
+        "music"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "priceText": "Free for students and youth 18 and under",
+      "url": "https://artsempoweringlife.org/so-percussion-concert-2/",
+      "source": {
+        "id": "capecod-com",
+        "name": "CapeCod.com events",
+        "url": "https://www.capecod.com/events/"
+      },
+      "trusted": false,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "CapeCod.com events isn't a trusted source yet"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "8d0220595b46",
+      "slug": "the-fall-of-the-house-of-usher-2026-10-25-8d02",
+      "title": "The Fall of the House of Usher",
+      "summary": "A stage production based on Edgar Allan Poe's gothic tale.",
+      "start": "2026-10-25T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Eastham",
+        "town": "eastham"
+      },
+      "categories": [
+        "theater"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://members.easthamchamber.com/events/details/the-fall-of-the-house-of-usher-10-25-2026-5895",
+      "source": {
+        "id": "eastham-chamber",
+        "name": "Eastham Chamber of Commerce",
+        "url": "https://www.easthamchamber.com/events/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (60%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "d3ddfca0757b",
+      "slug": "howl-o-ween-pet-parade-2026-10-25-d3dd",
+      "title": "Howl O'Ween Pet Parade",
+      "summary": "Costumed pet parade benefiting the Sampson Fund.",
+      "start": "2026-10-25T16:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Hyannis Country Garden",
+        "address": "Hyannis",
+        "town": "barnstable"
+      },
+      "categories": [
+        "community",
+        "family",
+        "festivals"
+      ],
+      "tags": {
+        "free": false,
+        "kids": true,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://www.hyanniscountrygarden.com/events/howl-o-ween-pet-parade/?occurrence=2026-10-25",
+      "source": {
+        "id": "capecod-com",
+        "name": "CapeCod.com events",
+        "url": "https://www.capecod.com/events/"
+      },
+      "trusted": false,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "CapeCod.com events isn't a trusted source yet"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "ac18bb6284ac",
+      "slug": "2nd-annual-harwich-pto-and-harwich-chamber-halloween-parade-2026-10-28-ac18",
+      "title": "2nd Annual Harwich PTO and Harwich Chamber Halloween Parade",
+      "summary": "The Harwich PTO and Chamber team up for their second annual Halloween parade.",
+      "start": "2026-10-28T04:00:00.000Z",
+      "allDay": true,
+      "venue": {
+        "name": "Harwich",
+        "town": "harwich"
+      },
+      "categories": [
+        "family",
+        "festivals",
+        "community"
+      ],
+      "tags": {
+        "free": false,
+        "kids": true,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://business.harwichcc.com/events/details/2nd-annual-harwich-pto-and-harwich-chamber-halloween-parade-25885?calendarMonth=2026-10-01",
+      "source": {
+        "id": "harwich-chamber",
+        "name": "Harwich Chamber of Commerce",
+        "url": "https://business.harwichcc.com/events/calendar"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (60%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "ae318b6e7bdc",
+      "slug": "true-tales-of-the-paranormal-with-adam-berry-2026-10-29-ae31",
+      "title": "True Tales of the Paranormal with Adam Berry",
+      "summary": "A special event evening where paranormal investigator Adam Berry shares stories of hauntings and ghostly encounters.",
+      "start": "2026-10-29T04:00:00.000Z",
+      "allDay": true,
+      "venue": {
+        "name": "Cape Rep Theatre",
+        "address": "3299 Route 6A, Brewster, MA",
+        "town": "brewster"
+      },
+      "categories": [
+        "theater",
+        "community"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://caperep.org/show/true-tales-of-the-paranormal-with-adam-berry/",
+      "source": {
+        "id": "cape-rep",
+        "name": "Cape Rep Theatre",
+        "url": "https://caperep.org/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "2973eebc0836",
+      "slug": "halloween-in-p-town-2026-10-29-2973",
+      "title": "Halloween in P'Town",
+      "summary": "Multi-day Provincetown Halloween celebration with parties, dances, a haunted house and a costume ball.",
+      "start": "2026-10-29T04:00:00.000Z",
+      "end": "2026-11-01T04:00:00.000Z",
+      "allDay": true,
+      "venue": {
+        "name": "Provincetown",
+        "address": "Provincetown",
+        "town": "provincetown"
+      },
+      "categories": [
+        "festivals"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://ptown.org/calendars/halloween/",
+      "source": {
+        "id": "capecod-com",
+        "name": "CapeCod.com events",
+        "url": "https://www.capecod.com/events/"
+      },
+      "trusted": false,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "CapeCod.com events isn't a trusted source yet"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "115d88e0aa1d",
+      "slug": "brewster-halloween-parade-2026-10-29-115d",
+      "title": "Brewster Halloween Parade",
+      "summary": "Halloween costume parade starting at the library.",
+      "start": "2026-10-29T14:30:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Brewster Ladies Library",
+        "address": "Brewster",
+        "town": "brewster"
+      },
+      "categories": [
+        "family",
+        "festivals",
+        "community"
+      ],
+      "tags": {
+        "free": false,
+        "kids": true,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://brewsterma.myrec.com/info/activities/program_details.aspx?ProgramID=30093",
+      "source": {
+        "id": "capecod-com",
+        "name": "CapeCod.com events",
+        "url": "https://www.capecod.com/events/"
+      },
+      "trusted": false,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "CapeCod.com events isn't a trusted source yet"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "283234b2ab1c",
+      "slug": "golden-oldies-2026-10-29-2832",
+      "title": "Golden Oldies",
+      "summary": "Council on Aging afternoon program for seniors; registration required.",
+      "start": "2026-10-29T17:00:00.000Z",
+      "end": "2026-10-29T19:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Chatham",
+        "address": "Chatham, MA 02633",
+        "town": "chatham"
+      },
+      "categories": [
+        "seniors",
+        "music"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": true,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://www.chatham-ma.gov/Calendar.aspx?EID=9658&month=10&year=2026&day=17&calType=0",
+      "source": {
+        "id": "chatham-town",
+        "name": "Town of Chatham calendar",
+        "url": "https://www.chatham-ma.gov/calendar.aspx"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "cc6f750c1e32",
+      "slug": "hyannis-honda-trunk-or-treat-2026-10-30-cc6f",
+      "title": "Hyannis Honda Trunk or Treat",
+      "summary": "Trunk-or-treat with prizes for best costume and best decorated vehicle.",
+      "start": "2026-10-30T20:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Hyannis Honda",
+        "address": "Hyannis",
+        "town": "barnstable"
+      },
+      "categories": [
+        "family"
+      ],
+      "tags": {
+        "free": false,
+        "kids": true,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://www.facebook.com/photo?fbid=1497744795710708&set=a.618882843596912",
+      "source": {
+        "id": "capecod-com",
+        "name": "CapeCod.com events",
+        "url": "https://www.capecod.com/events/"
+      },
+      "trusted": false,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "CapeCod.com events isn't a trusted source yet"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "31847a231075",
+      "slug": "wicked-at-wick-s-2026-10-30-3184",
+      "title": "Wicked at Wick's",
+      "summary": "Children's Halloween celebration with a costume parade and trick-or-treating.",
+      "start": "2026-10-30T22:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Falmouth Museums on the Green",
+        "address": "Falmouth",
+        "town": "falmouth"
+      },
+      "categories": [
+        "family",
+        "festivals"
+      ],
+      "tags": {
+        "free": false,
+        "kids": true,
+        "seniors": false,
+        "outdoor": true,
+        "byBoat": false
+      },
+      "url": "https://museumsonthegreen.org/event/wicked-at-wicks-a-childrens-halloween-celebration-at-the-falmouth-museums-on-the-green-4/",
+      "source": {
+        "id": "capecod-com",
+        "name": "CapeCod.com events",
+        "url": "https://www.capecod.com/events/"
+      },
+      "trusted": false,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "CapeCod.com events isn't a trusted source yet"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "f345a2fc9bda",
+      "slug": "mashpee-commons-halloween-parade-and-trick-or-treating-2026-10-31-f345",
+      "title": "Mashpee Commons Halloween Parade and Trick or Treating",
+      "summary": "Halloween parade followed by trick-or-treating at shops.",
+      "start": "2026-10-31T15:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Mashpee Commons",
+        "address": "22 Steeple St, Mashpee",
+        "town": "mashpee"
+      },
+      "categories": [
+        "family",
+        "festivals"
+      ],
+      "tags": {
+        "free": false,
+        "kids": true,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://www.facebook.com/events/22-steeple-st-mashpee-ma-united-states-massachusetts-02649/halloween-fun-parade-trick-or-treating-at-mashpee-commons/2162305504327392/?source=ev",
+      "source": {
+        "id": "capecod-com",
+        "name": "CapeCod.com events",
+        "url": "https://www.capecod.com/events/"
+      },
+      "trusted": false,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "CapeCod.com events isn't a trusted source yet"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "3c07d3b5fa56",
+      "slug": "falmouth-village-halloween-stroll-2026-10-31-3c07",
+      "title": "Falmouth Village Halloween Stroll",
+      "summary": "Halloween stroll through Falmouth village.",
+      "start": "2026-10-31T17:00:00.000Z",
+      "end": "2026-10-31T19:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Falmouth",
+        "address": "Falmouth",
+        "town": "falmouth"
+      },
+      "categories": [
+        "family",
+        "community",
+        "festivals"
+      ],
+      "tags": {
+        "free": false,
+        "kids": true,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://www.falmouthvillageassociation.com/event-6603607",
+      "source": {
+        "id": "capecod-com",
+        "name": "CapeCod.com events",
+        "url": "https://www.capecod.com/events/"
+      },
+      "trusted": false,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "CapeCod.com events isn't a trusted source yet"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "fa4966b42d5e",
+      "slug": "fall-festival-2026-10-31-fa49",
+      "title": "Fall Festival",
+      "summary": "Fall arts and crafts for all ages plus treats at the museum; ticketed, free for members.",
+      "start": "2026-10-31T17:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Cahoon Museum of American Art",
+        "address": "Cotuit",
+        "town": "barnstable"
+      },
+      "categories": [
+        "arts",
+        "family",
+        "festivals"
+      ],
+      "tags": {
+        "free": false,
+        "kids": true,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "priceText": "Ticketed; free for members",
+      "url": "https://www.capecod.com/events/",
+      "source": {
+        "id": "capecod-com",
+        "name": "CapeCod.com events",
+        "url": "https://www.capecod.com/events/"
+      },
+      "trusted": false,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "CapeCod.com events isn't a trusted source yet"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "90a6ec0a4e9d",
+      "slug": "wellfleet-trunk-or-treat-2026-10-31-90a6",
+      "title": "Wellfleet Trunk or Treat",
+      "summary": "Trunk-or-treat held at the drive-in.",
+      "start": "2026-10-31T19:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Wellfleet Drive-In Theater",
+        "address": "Wellfleet",
+        "town": "wellfleet"
+      },
+      "categories": [
+        "family",
+        "theater"
+      ],
+      "tags": {
+        "free": false,
+        "kids": true,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://trunkortreatfestival.com/",
+      "source": {
+        "id": "capecod-com",
+        "name": "CapeCod.com events",
+        "url": "https://www.capecod.com/events/"
+      },
+      "trusted": false,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "CapeCod.com events isn't a trusted source yet"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "63f1fb02af33",
+      "slug": "haunted-halloween-around-the-common-2026-10-31-63f1",
+      "title": "Haunted Halloween Around the Common",
+      "summary": "Halloween festivities around the common at the Edward Gorey House.",
+      "start": "2026-10-31T20:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Edward Gorey House",
+        "address": "Yarmouth Port",
+        "town": "yarmouth"
+      },
+      "categories": [
+        "family",
+        "arts"
+      ],
+      "tags": {
+        "free": false,
+        "kids": true,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://edwardgoreyhouse.org/events/halloween-26",
+      "source": {
+        "id": "capecod-com",
+        "name": "CapeCod.com events",
+        "url": "https://www.capecod.com/events/"
+      },
+      "trusted": false,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "CapeCod.com events isn't a trusted source yet"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "21926c2bcba0",
+      "slug": "halloween-safe-trick-or-treat-2026-10-31-2192",
+      "title": "Halloween Safe Trick or Treat",
+      "summary": "Safe trick-or-treating along Hyannis Main Street businesses.",
+      "start": "2026-10-31T20:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Main Street",
+        "address": "Main Street, Hyannis",
+        "town": "barnstable"
+      },
+      "categories": [
+        "family"
+      ],
+      "tags": {
+        "free": false,
+        "kids": true,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://www.hyannismainstreet.com/events/halloween-safe-trick-or-treat-2/",
+      "source": {
+        "id": "capecod-com",
+        "name": "CapeCod.com events",
+        "url": "https://www.capecod.com/events/"
+      },
+      "trusted": false,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "CapeCod.com events isn't a trusted source yet"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "13864fe52469",
+      "slug": "46th-annual-shipwrecked-falmouth-in-the-fall-road-race-2026-11-01-1386",
+      "title": "46th Annual Shipwrecked Falmouth in the Fall Road Race",
+      "summary": "Seven-mile race on the Falmouth Road Race course with a finish festival; ages 10 and up.",
+      "start": "2026-11-01T16:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Falmouth",
+        "address": "Woods Hole",
+        "town": "falmouth"
+      },
+      "categories": [
+        "outdoors",
+        "festivals",
+        "water"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": true,
+        "byBoat": true
+      },
+      "url": "https://www.capecod.com/events/",
+      "source": {
+        "id": "capecod-com",
+        "name": "CapeCod.com events",
+        "url": "https://www.capecod.com/events/"
+      },
+      "trusted": false,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "CapeCod.com events isn't a trusted source yet"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "f7d9a786ab63",
+      "slug": "thanksgiving-hymn-sing-2026-11-01-f7d9",
+      "title": "Thanksgiving Hymn Sing",
+      "summary": "Free community hymn sing of thanks with light refreshments.",
+      "start": "2026-11-01T20:30:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Performing Arts Center",
+        "address": "Brewster",
+        "town": "brewster"
+      },
+      "categories": [
+        "music",
+        "community"
+      ],
+      "tags": {
+        "free": true,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "priceText": "Free",
+      "url": "https://artsempoweringlife.org/event/thanksgiving-hymn-sing/",
+      "source": {
+        "id": "capecod-com",
+        "name": "CapeCod.com events",
+        "url": "https://www.capecod.com/events/"
+      },
+      "trusted": false,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "CapeCod.com events isn't a trusted source yet"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "65494d7e6766",
+      "slug": "6th-annual-provincetown-food-and-wine-festival-2026-11-05-6549",
+      "title": "6th Annual Provincetown Food and Wine Festival",
+      "summary": "Four days of dinners, tastings, brunches and entertainment celebrating Provincetown food and drink.",
+      "start": "2026-11-05T05:00:00.000Z",
+      "end": "2026-11-08T05:00:00.000Z",
+      "allDay": true,
+      "venue": {
+        "name": "Provincetown",
+        "address": "Provincetown",
+        "town": "provincetown"
+      },
+      "categories": [
+        "food",
+        "festivals"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://ptownfoodandwinefestival.com/",
+      "source": {
+        "id": "capecod-com",
+        "name": "CapeCod.com events",
+        "url": "https://www.capecod.com/events/"
+      },
+      "trusted": false,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "CapeCod.com events isn't a trusted source yet"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "8bf45577b7af",
+      "slug": "daniel-roth-in-concert-on-the-st-cecilia-organ-2026-11-07-8bf4",
+      "title": "Daniel Roth in Concert on the St. Cecilia Organ",
+      "summary": "The titular organist of St. Sulpice in Paris returns for an organ recital.",
+      "start": "2026-11-07T00:30:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Church of the Transfiguration",
+        "address": "Orleans",
+        "town": "orleans"
+      },
+      "categories": [
+        "music",
+        "community"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "priceText": "Free for students and youth 18 and under",
+      "url": "https://www.churchofthetransfiguration.org/daniel-roth-11-6-26/",
+      "source": {
+        "id": "capecod-com",
+        "name": "CapeCod.com events",
+        "url": "https://www.capecod.com/events/"
+      },
+      "trusted": false,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "CapeCod.com events isn't a trusted source yet"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "fa04564c46f1",
+      "slug": "lost-voices-of-byzantium-2026-11-07-fa04",
+      "title": "Lost Voices of Byzantium",
+      "summary": "Dr. Spyridon Antonopoulos explores and performs Byzantine chant; free admission.",
+      "start": "2026-11-07T20:30:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Performing Arts Center",
+        "address": "Brewster",
+        "town": "brewster"
+      },
+      "categories": [
+        "music"
+      ],
+      "tags": {
+        "free": true,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "priceText": "Free",
+      "url": "https://performingartscentercapecod.org/project/lost-voices-of-byzantium/",
+      "source": {
+        "id": "capecod-com",
+        "name": "CapeCod.com events",
+        "url": "https://www.capecod.com/events/"
+      },
+      "trusted": false,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "CapeCod.com events isn't a trusted source yet"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "9aaa3a2d3529",
+      "slug": "2nd-annual-taste-of-cape-cod-2026-11-08-9aaa",
+      "title": "2nd Annual Taste of Cape Cod",
+      "summary": "Restaurant tasting fundraiser with silent auction supporting Friends of Nobska Light.",
+      "start": "2026-11-08T21:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Seacrest Beach Resort",
+        "address": "Falmouth",
+        "town": "falmouth"
+      },
+      "categories": [
+        "food",
+        "community",
+        "outdoors"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": true,
+        "byBoat": false
+      },
+      "url": "https://www.capecod.com/events/",
+      "source": {
+        "id": "capecod-com",
+        "name": "CapeCod.com events",
+        "url": "https://www.capecod.com/events/"
+      },
+      "trusted": false,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "CapeCod.com events isn't a trusted source yet"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "fbaabb83a543",
+      "slug": "the-hundred-aker-wood-2026-11-12-fbaa",
+      "title": "The Hundred Aker Wood",
+      "summary": "The closing indoor show of Cape Rep's 2026 season, a holiday-season production set in the Hundred Aker Wood.",
+      "start": "2026-11-12T05:00:00.000Z",
+      "end": "2026-12-13T05:00:00.000Z",
+      "allDay": true,
+      "venue": {
+        "name": "Cape Rep Theatre",
+        "address": "3299 Route 6A, Brewster, MA",
+        "town": "brewster"
+      },
+      "categories": [
+        "theater",
+        "family"
+      ],
+      "tags": {
+        "free": false,
+        "kids": true,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://caperep.org/show/the-hundred-aker-wood/",
+      "source": {
+        "id": "cape-rep",
+        "name": "Cape Rep Theatre",
+        "url": "https://caperep.org/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "164db916c218",
+      "slug": "damon-grant-arts-speak-performance-lecture-2026-11-21-164d",
+      "title": "Damon Grant: Arts Speak Performance Lecture",
+      "summary": "Percussionist and educator Damon Grant performs and discusses the tools and career of a drummer; free.",
+      "start": "2026-11-21T20:30:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Performing Arts Center",
+        "address": "Brewster",
+        "town": "brewster"
+      },
+      "categories": [
+        "music",
+        "classes",
+        "arts"
+      ],
+      "tags": {
+        "free": true,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "priceText": "Free",
+      "url": "https://performingartscentercapecod.org/project/damon-grant-arts-speak-performance-lecture/",
+      "source": {
+        "id": "capecod-com",
+        "name": "CapeCod.com events",
+        "url": "https://www.capecod.com/events/"
+      },
+      "trusted": false,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "CapeCod.com events isn't a trusted source yet"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "c22f44c06621",
+      "slug": "5th-annual-black-diamond-ball-2026-11-22-c22f",
+      "title": "5th Annual Black Diamond Ball",
+      "summary": "Formal MET Gala-themed dinner dance benefiting Amplify POC Cape Cod.",
+      "start": "2026-11-22T00:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Margaritaville Resort",
+        "address": "Hyannis",
+        "town": "barnstable"
+      },
+      "categories": [
+        "community",
+        "food",
+        "theater"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://www.capecod.com/events/",
+      "source": {
+        "id": "capecod-com",
+        "name": "CapeCod.com events",
+        "url": "https://www.capecod.com/events/"
+      },
+      "trusted": false,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "CapeCod.com events isn't a trusted source yet"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "1ca1c6ec0903",
+      "slug": "holiday-on-the-cape-2026-12-04-1ca1",
+      "title": "Holiday on the Cape",
+      "summary": "Cape Symphony's seasonal holiday concert program over three days.",
+      "start": "2026-12-04T05:00:00.000Z",
+      "end": "2026-12-06T05:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Barnstable Performing Arts Center",
+        "town": "barnstable"
+      },
+      "categories": [
+        "music",
+        "family"
+      ],
+      "tags": {
+        "free": false,
+        "kids": true,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://capesymphony.org/orchestra/2026-27-season/holiday-on-the-cape",
+      "source": {
+        "id": "cape-symphony",
+        "name": "Cape Symphony",
+        "url": "https://capesymphony.org/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "3148a110e6a7",
+      "slug": "art-film-screening-renoir-love-2027-01-20-3148",
+      "title": "Art Film Screening: Renoir & Love",
+      "summary": "A screening of an art documentary exploring Renoir and the theme of love, hosted at the Falmouth Art Center.",
+      "start": "2027-01-20T05:00:00.000Z",
+      "allDay": true,
+      "venue": {
+        "name": "Falmouth Art Center",
+        "address": "137 Gifford Street, Falmouth, MA 02540",
+        "town": "falmouth"
+      },
+      "categories": [
+        "arts",
+        "theater"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://falmouthart.org/product/art-film-screening-renoir-love-january-20-2027/",
+      "source": {
+        "id": "falmouth-art-center",
+        "name": "Falmouth Art Center",
+        "url": "https://falmouthart.org/category/events/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "232cb43031aa",
+      "slug": "passport-to-spain-2027-01-23-232c",
+      "title": "Passport to Spain",
+      "summary": "Cape Symphony program of Spanish-inspired orchestral music.",
+      "start": "2027-01-23T05:00:00.000Z",
+      "end": "2027-01-24T05:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Barnstable Performing Arts Center",
+        "town": "barnstable"
+      },
+      "categories": [
+        "music"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://capesymphony.org/orchestra/2026-27-season/passport-to-spain",
+      "source": {
+        "id": "cape-symphony",
+        "name": "Cape Symphony",
+        "url": "https://capesymphony.org/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "d440176a9fdd",
+      "slug": "samba-at-the-symphony-2027-02-27-d440",
+      "title": "Samba at the Symphony",
+      "summary": "Brazilian rhythms and samba-flavored music performed by Cape Symphony.",
+      "start": "2027-02-27T05:00:00.000Z",
+      "end": "2027-02-28T05:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Barnstable Performing Arts Center",
+        "town": "barnstable"
+      },
+      "categories": [
+        "music"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://capesymphony.org/orchestra/2026-27-season/samba-at-the-symphony",
+      "source": {
+        "id": "cape-symphony",
+        "name": "Cape Symphony",
+        "url": "https://capesymphony.org/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "e0c8846336df",
+      "slug": "tchaikovsky-beloved-2027-04-10-e0c8",
+      "title": "Tchaikovsky Beloved",
+      "summary": "Cape Symphony concert devoted to favorite works by Tchaikovsky.",
+      "start": "2027-04-10T04:00:00.000Z",
+      "end": "2027-04-11T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Barnstable Performing Arts Center",
+        "town": "barnstable"
+      },
+      "categories": [
+        "music"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://capesymphony.org/orchestra/2026-27-season/tchaikovsky-beloved",
+      "source": {
+        "id": "cape-symphony",
+        "name": "Cape Symphony",
+        "url": "https://capesymphony.org/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "fb4565dace1e",
+      "slug": "classical-mystery-tour-a-tribute-to-the-beatles-2027-05-01-fb45",
+      "title": "Classical Mystery Tour: A Tribute to the Beatles",
+      "summary": "Beatles songs performed with full orchestra in a CapePOPS! tribute show.",
+      "start": "2027-05-01T04:00:00.000Z",
+      "end": "2027-05-02T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Barnstable Performing Arts Center",
+        "town": "barnstable"
+      },
+      "categories": [
+        "music"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://capesymphony.org/orchestra/2026-27-season/classical-mystery-tour-a-tribute-to-the-beatles",
+      "source": {
+        "id": "cape-symphony",
+        "name": "Cape Symphony",
+        "url": "https://capesymphony.org/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "6524667da6e4",
+      "slug": "brahms-4-2027-05-22-6524",
+      "title": "Brahms 4",
+      "summary": "Cape Symphony performs Brahms's Fourth Symphony.",
+      "start": "2027-05-22T04:00:00.000Z",
+      "end": "2027-05-23T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Barnstable Performing Arts Center",
+        "town": "barnstable"
+      },
+      "categories": [
+        "music"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://capesymphony.org/orchestra/2026-27-season/brahms-4",
+      "source": {
+        "id": "cape-symphony",
+        "name": "Cape Symphony",
+        "url": "https://capesymphony.org/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  },
+  {
+    "event": {
+      "id": "ef9f3fdac5bc",
+      "slug": "back-home-again-the-music-of-john-denver-2027-06-12-ef9f",
+      "title": "Back Home Again: The Music of John Denver",
+      "summary": "An orchestral celebration of John Denver's songs closing the season.",
+      "start": "2027-06-12T04:00:00.000Z",
+      "end": "2027-06-13T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Barnstable Performing Arts Center",
+        "town": "barnstable"
+      },
+      "categories": [
+        "music",
+        "festivals"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://capesymphony.org/orchestra/2026-27-season/back-home-again-the-music-of-john-denver",
+      "source": {
+        "id": "cape-symphony",
+        "name": "Cape Symphony",
+        "url": "https://capesymphony.org/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T19:56:51.674Z",
+      "lastSeen": "2026-10-17T19:56:51.674Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-17T19:56:51.674Z"
+  }
+]

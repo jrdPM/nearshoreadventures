@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-10-17T19:19:04.724Z",
-  "published": 587,
-  "queued": 0,
+  "ranAt": "2026-10-17T19:56:51.674Z",
+  "published": 633,
+  "queued": 74,
   "sourcesOk": 53,
   "sourcesFailed": 7,
   "sources": [
@@ -81,8 +81,8 @@
       "id": "allevents-mashpee",
       "name": "AllEvents · Mashpee",
       "ok": true,
-      "found": 24,
-      "published": 24,
+      "found": 20,
+      "published": 20,
       "queued": 0,
       "method": "jsonld"
     },
@@ -117,10 +117,10 @@
       "id": "arts-foundation",
       "name": "Arts Foundation of Cape Cod",
       "ok": true,
-      "found": 0,
+      "found": 2,
       "published": 0,
       "queued": 0,
-      "method": "none (no AI key for plain pages)"
+      "method": "ai"
     },
     {
       "id": "barnstable-senior",
@@ -144,10 +144,10 @@
       "id": "cape-cinema",
       "name": "Cape Cinema",
       "ok": true,
-      "found": 0,
-      "published": 0,
+      "found": 7,
+      "published": 7,
       "queued": 0,
-      "method": "none (no AI key for plain pages)"
+      "method": "ai"
     },
     {
       "id": "capecodchamber",
@@ -156,7 +156,7 @@
       "found": 0,
       "published": 0,
       "queued": 0,
-      "method": "none (no AI key for plain pages)"
+      "method": "ai"
     },
     {
       "id": "melody-tent",
@@ -165,7 +165,7 @@
       "found": 0,
       "published": 0,
       "queued": 0,
-      "method": "none (no AI key for plain pages)"
+      "method": "ai"
     },
     {
       "id": "ccmoa",
@@ -180,10 +180,10 @@
       "id": "ccmnh",
       "name": "Cape Cod Museum of Natural History",
       "ok": true,
-      "found": 0,
-      "published": 0,
+      "found": 10,
+      "published": 10,
       "queued": 0,
-      "method": "none (no AI key for plain pages)"
+      "method": "ai"
     },
     {
       "id": "cape-cod-nps",
@@ -192,43 +192,43 @@
       "found": 0,
       "published": 0,
       "queued": 0,
-      "method": "none (no AI key for plain pages)"
+      "method": "ai"
     },
     {
       "id": "cape-rep",
       "name": "Cape Rep Theatre",
       "ok": true,
-      "found": 0,
+      "found": 3,
       "published": 0,
-      "queued": 0,
-      "method": "none (no AI key for plain pages)"
+      "queued": 3,
+      "method": "ai"
     },
     {
       "id": "cape-symphony",
       "name": "Cape Symphony",
       "ok": true,
-      "found": 0,
-      "published": 0,
-      "queued": 0,
-      "method": "none (no AI key for plain pages)"
+      "found": 11,
+      "published": 4,
+      "queued": 7,
+      "method": "ai"
     },
     {
       "id": "capecod-com",
       "name": "CapeCod.com events",
       "ok": true,
-      "found": 0,
+      "found": 33,
       "published": 0,
-      "queued": 0,
-      "method": "none (no AI key for plain pages)"
+      "queued": 31,
+      "method": "ai"
     },
     {
       "id": "chatham-chamber",
       "name": "Chatham Chamber of Commerce",
       "ok": true,
-      "found": 0,
-      "published": 0,
-      "queued": 0,
-      "method": "none (no AI key for plain pages)"
+      "found": 10,
+      "published": 2,
+      "queued": 8,
+      "method": "ai"
     },
     {
       "id": "creative-arts-center",
@@ -246,7 +246,7 @@
       "found": 0,
       "published": 0,
       "queued": 0,
-      "method": "none (no AI key for plain pages)"
+      "method": "ai"
     },
     {
       "id": "dennis-chamber",
@@ -255,25 +255,25 @@
       "found": 0,
       "published": 0,
       "queued": 0,
-      "method": "none (no AI key for plain pages)"
+      "method": "ai"
     },
     {
       "id": "eastham-chamber",
       "name": "Eastham Chamber of Commerce",
       "ok": true,
-      "found": 0,
+      "found": 12,
       "published": 0,
-      "queued": 0,
-      "method": "none (no AI key for plain pages)"
+      "queued": 12,
+      "method": "ai"
     },
     {
       "id": "edward-gorey-house",
       "name": "Edward Gorey House",
       "ok": true,
-      "found": 0,
-      "published": 0,
-      "queued": 0,
-      "method": "none (no AI key for plain pages)"
+      "found": 8,
+      "published": 7,
+      "queued": 1,
+      "method": "ai"
     },
     {
       "id": "eldredge-library",
@@ -288,10 +288,10 @@
       "id": "falmouth-art-center",
       "name": "Falmouth Art Center",
       "ok": true,
-      "found": 0,
+      "found": 1,
       "published": 0,
-      "queued": 0,
-      "method": "none (no AI key for plain pages)"
+      "queued": 1,
+      "method": "ai"
     },
     {
       "id": "falmouth-chamber",
@@ -300,7 +300,7 @@
       "found": 0,
       "published": 0,
       "queued": 0,
-      "method": "none (no AI key for plain pages)"
+      "method": "ai"
     },
     {
       "id": "museums-on-the-green",
@@ -318,25 +318,25 @@
       "found": 0,
       "published": 0,
       "queued": 0,
-      "method": "none (no AI key for plain pages)"
+      "method": "ai"
     },
     {
       "id": "fine-arts-work-center",
       "name": "Fine Arts Work Center",
       "ok": true,
-      "found": 0,
-      "published": 0,
+      "found": 1,
+      "published": 1,
       "queued": 0,
-      "method": "none (no AI key for plain pages)"
+      "method": "ai"
     },
     {
       "id": "harwich-chamber",
       "name": "Harwich Chamber of Commerce",
       "ok": true,
-      "found": 0,
+      "found": 7,
       "published": 0,
-      "queued": 0,
-      "method": "none (no AI key for plain pages)"
+      "queued": 7,
+      "method": "ai"
     },
     {
       "id": "heritage-gardens",
@@ -360,19 +360,19 @@
       "id": "hyannis-chamber",
       "name": "Hyannis Area Chamber",
       "ok": true,
-      "found": 0,
-      "published": 0,
-      "queued": 0,
-      "method": "none (no AI key for plain pages)"
+      "found": 10,
+      "published": 7,
+      "queued": 1,
+      "method": "ai"
     },
     {
       "id": "hyannis-main-street",
       "name": "Hyannis Main Street BID",
       "ok": true,
-      "found": 0,
-      "published": 0,
+      "found": 4,
+      "published": 4,
       "queued": 0,
-      "method": "none (no AI key for plain pages)"
+      "method": "ai"
     },
     {
       "id": "mashpee-chamber",
@@ -381,16 +381,16 @@
       "found": 0,
       "published": 0,
       "queued": 0,
-      "method": "none (no AI key for plain pages)"
+      "method": "ai"
     },
     {
       "id": "mass-audubon-wellfleet",
       "name": "Mass Audubon Wellfleet Bay",
       "ok": true,
-      "found": 0,
-      "published": 0,
+      "found": 1,
+      "published": 1,
       "queued": 0,
-      "method": "none (no AI key for plain pages)"
+      "method": "ai"
     },
     {
       "id": "orleans-chamber",
@@ -399,7 +399,7 @@
       "found": 0,
       "published": 0,
       "queued": 0,
-      "method": "none (no AI key for plain pages)"
+      "method": "ai"
     },
     {
       "id": "payomet",
@@ -424,7 +424,7 @@
       "name": "Provincetown Business Guild",
       "ok": true,
       "found": 293,
-      "published": 129,
+      "published": 128,
       "queued": 0,
       "method": "jsonld"
     },
@@ -444,7 +444,7 @@
       "found": 0,
       "published": 0,
       "queued": 0,
-      "method": "none (no AI key for plain pages)"
+      "method": "ai"
     },
     {
       "id": "sturgis-library",
@@ -462,7 +462,7 @@
       "found": 0,
       "published": 0,
       "queued": 0,
-      "method": "none (no AI key for plain pages)"
+      "method": "ai"
     },
     {
       "id": "barnstable-town",
@@ -477,19 +477,19 @@
       "id": "chatham-town",
       "name": "Town of Chatham calendar",
       "ok": true,
-      "found": 0,
-      "published": 0,
-      "queued": 0,
-      "method": "none (no AI key for plain pages)"
+      "found": 7,
+      "published": 6,
+      "queued": 1,
+      "method": "ai"
     },
     {
       "id": "falmouth-town",
       "name": "Town of Falmouth calendar",
       "ok": true,
-      "found": 0,
-      "published": 0,
-      "queued": 0,
-      "method": "none (no AI key for plain pages)"
+      "found": 4,
+      "published": 2,
+      "queued": 2,
+      "method": "ai"
     },
     {
       "id": "wellfleet-chamber",
@@ -498,7 +498,7 @@
       "found": 0,
       "published": 0,
       "queued": 0,
-      "method": "none (no AI key for plain pages)"
+      "method": "ai"
     },
     {
       "id": "wellfleet-harbor-actors",
@@ -507,7 +507,7 @@
       "found": 0,
       "published": 0,
       "queued": 0,
-      "method": "none (no AI key for plain pages)"
+      "method": "ai"
     },
     {
       "id": "wellfleet-oysterfest",
@@ -525,7 +525,7 @@
       "found": 0,
       "published": 0,
       "queued": 0,
-      "method": "none (no AI key for plain pages)"
+      "method": "ai"
     },
     {
       "id": "yarmouth-chamber",
