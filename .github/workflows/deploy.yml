@@ -67,6 +67,7 @@ jobs:
           PASSWORD: ${{ secrets.CLOUDWAYS_PASSWORD }}
           SSH_KEY: ${{ secrets.CLOUDWAYS_SSH_KEY }}
           APP: ${{ secrets.CLOUDWAYS_APP }}
+          SITE_URL: ${{ vars.SITE_URL }}
         run: |
           if [ -z "$HOST" ] || [ -z "$USER" ] || [ -z "$APP" ]; then
             echo "::warning::Cloudways secrets aren't set yet, so the site was built but not uploaded."
@@ -96,3 +97,12 @@ jobs:
           fi
           rsync -rlz --delete --chmod=D755,F644 -e "$RSH" out/ "$USER@$HOST:$TARGET/"
           echo "Published to $HOST:$TARGET"
+          echo "Files now in the app folder:"
+          $RSH "$USER@$HOST" "ls -1 '$TARGET' | head -20"
+          if [ -n "$SITE_URL" ]; then
+            SITE_HOST="${SITE_URL#*://}"; SITE_HOST="${SITE_HOST%%/*}"
+            echo "App folders whose settings mention $SITE_HOST:"
+            $RSH "$USER@$HOST" "grep -rls '$SITE_HOST' applications/*/conf 2>/dev/null | cut -d/ -f2 | sort -u" || true
+            echo "What $SITE_URL serves right now:"
+            curl -sSL -m 20 "$SITE_URL/?v=$GITHUB_RUN_ID" | grep -o '<title>[^<]*</title>' | head -1 || true
+          fi
