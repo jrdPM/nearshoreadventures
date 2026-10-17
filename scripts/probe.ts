@@ -74,6 +74,14 @@ async function probe(url: string) {
       console.log(`  ics ${feed}: failed (${(e as Error).message})`);
     }
   }
+  if (ld.length === 0) {
+    // Hints for pages that load events with JavaScript: API-looking URLs in the page source.
+    const apis = [...new Set(html.match(/["'](?:https?:)?\/\/?[^"'\s]*(?:api|rest|json|graphql|events?)[^"'\s]*["']/gi) ?? [])]
+      .map((m) => m.slice(1, -1))
+      .filter((u) => !/\.(css|png|jpe?g|svg|woff2?)(\?|$)/i.test(u))
+      .slice(0, 15);
+    if (apis.length) console.log("  api-looking urls in page source:\n    " + apis.join("\n    "));
+  }
   if (!res.ok || ld.length === 0) {
     let links = eventLinks(html, res.url);
     if (!res.ok) {
