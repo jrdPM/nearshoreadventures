@@ -16,6 +16,16 @@ interface Report {
 
 type Choice = "approve" | "reject";
 
+/** The PHP side can fail with an HTML error page; show its status instead of failing silently. */
+// eslint-disable-next-line @typescript-eslint/no-explicit-any -- same loose type res.json() gives
+async function readJson(res: Response): Promise<any> {
+  try {
+    return await res.json();
+  } catch {
+    return { error: `The server had a problem (HTTP ${res.status}). Tell Claude in the project thread.` };
+  }
+}
+
 export function AdminReview() {
   const [needLogin, setNeedLogin] = useState(false);
   const [pw, setPw] = useState("");
@@ -29,7 +39,7 @@ export function AdminReview() {
   async function load() {
     const res = await fetch("/api/admin-queue.php", { cache: "no-store" });
     if (res.status === 401) return setNeedLogin(true);
-    const json = await res.json();
+    const json = await readJson(res);
     if (!res.ok) return setErr(json.error);
     setNeedLogin(false);
     setData(json);
@@ -50,8 +60,8 @@ export function AdminReview() {
 
   async function login(e: React.FormEvent) {
     e.preventDefault();
-    const res = await fetch("/api/admin-login.php", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ password: pw }) });
-    const json = await res.json();
+    const res = await fetch("/api/admin-login.php", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ password: pw.trim() }) });
+    const json = await readJson(res);
     if (!res.ok) return setErr(json.error);
     setErr("");
     load();
