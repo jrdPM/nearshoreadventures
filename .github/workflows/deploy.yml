@@ -95,7 +95,10 @@ jobs:
             $RSH "$USER@$HOST" "ls -1 ~/applications 2>/dev/null || ls -1 /home/master/applications" || true
             exit 1
           fi
-          rsync -rlz --delete --chmod=D755,F644 -e "$RSH" out/ "$USER@$HOST:$TARGET/"
+          # Keep last week's script files so a page someone already has open (or cached)
+          # can still load them after a publish, instead of crashing.
+          rsync -rlz --delete --filter='P _next/static/**' --chmod=D755,F644 -e "$RSH" out/ "$USER@$HOST:$TARGET/"
+          $RSH "$USER@$HOST" "find '$TARGET/_next/static' -type f -mtime +7 -delete; find '$TARGET/_next/static' -type d -empty -delete" || true
           echo "Published to $HOST:$TARGET"
           echo "Files now in the app folder:"
           $RSH "$USER@$HOST" "ls -1 '$TARGET' | head -20"
