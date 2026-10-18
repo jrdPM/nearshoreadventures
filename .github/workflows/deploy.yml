@@ -105,6 +105,10 @@ jobs:
             $RSH "$USER@$HOST" "grep -rls '$SITE_HOST' applications/*/conf 2>/dev/null | cut -d/ -f2 | sort -u" || true
             echo "What $SITE_URL serves right now:"
             curl -sSL -m 20 -D - -o page.html "$SITE_URL/?v=$GITHUB_RUN_ID" | grep -iE "^(HTTP|server|x-cache|via|age|location)" || true; grep -o "<title>[^<]*</title>" page.html | head -1 || true
+            echo "Admin page and queue checks (expect 200, then 401 when not signed in):"
+            curl -sSL -m 20 -o admin.html -w "  /admin  HTTP %{http_code}\n" "$SITE_URL/admin" || true
+            grep -o "<title>[^<]*</title>" admin.html | head -1 || true
+            curl -sS -m 20 -w "  HTTP %{http_code}\n" "$SITE_URL/api/admin-queue.php" || true
             echo "Admin login check (wrong password on purpose; expect HTTP 401):"
             curl -sS -m 20 -o login.json -w "  HTTP %{http_code}\n" -X POST -H "content-type: application/json" -d '{"password":"not-the-password"}' "$SITE_URL/api/admin-login.php" || true
             head -c 300 login.json || true; echo
