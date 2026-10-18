@@ -517,7 +517,7 @@
   },
   {
     "id": "allevents-hyannis",
-    "name": "AllEvents \u00b7 Hyannis",
+    "name": "AllEvents · Hyannis",
     "url": "https://allevents.in/hyannis",
     "type": "jsonld",
     "trusted": true,
@@ -526,7 +526,7 @@
   },
   {
     "id": "allevents-barnstable",
-    "name": "AllEvents \u00b7 Barnstable",
+    "name": "AllEvents · Barnstable",
     "url": "https://allevents.in/barnstable",
     "type": "jsonld",
     "trusted": true,
@@ -535,7 +535,7 @@
   },
   {
     "id": "allevents-falmouth",
-    "name": "AllEvents \u00b7 Falmouth",
+    "name": "AllEvents · Falmouth",
     "url": "https://allevents.in/falmouth-ma",
     "type": "jsonld",
     "trusted": true,
@@ -544,7 +544,7 @@
   },
   {
     "id": "allevents-provincetown",
-    "name": "AllEvents \u00b7 Provincetown",
+    "name": "AllEvents · Provincetown",
     "url": "https://allevents.in/provincetown",
     "type": "jsonld",
     "trusted": true,
@@ -553,7 +553,7 @@
   },
   {
     "id": "allevents-chatham",
-    "name": "AllEvents \u00b7 Chatham",
+    "name": "AllEvents · Chatham",
     "url": "https://allevents.in/chatham-ma",
     "type": "jsonld",
     "trusted": true,
@@ -562,7 +562,7 @@
   },
   {
     "id": "allevents-orleans",
-    "name": "AllEvents \u00b7 Orleans",
+    "name": "AllEvents · Orleans",
     "url": "https://allevents.in/orleans-ma",
     "type": "jsonld",
     "trusted": true,
@@ -571,7 +571,7 @@
   },
   {
     "id": "allevents-sandwich",
-    "name": "AllEvents \u00b7 Sandwich",
+    "name": "AllEvents · Sandwich",
     "url": "https://allevents.in/sandwich-ma",
     "type": "jsonld",
     "trusted": true,
@@ -580,7 +580,7 @@
   },
   {
     "id": "allevents-dennis",
-    "name": "AllEvents \u00b7 Dennis",
+    "name": "AllEvents · Dennis",
     "url": "https://allevents.in/dennis",
     "type": "jsonld",
     "trusted": true,
@@ -589,7 +589,7 @@
   },
   {
     "id": "allevents-brewster",
-    "name": "AllEvents \u00b7 Brewster",
+    "name": "AllEvents · Brewster",
     "url": "https://allevents.in/brewster-ma",
     "type": "jsonld",
     "trusted": true,
@@ -598,7 +598,7 @@
   },
   {
     "id": "allevents-harwich",
-    "name": "AllEvents \u00b7 Harwich",
+    "name": "AllEvents · Harwich",
     "url": "https://allevents.in/harwich",
     "type": "jsonld",
     "trusted": true,
@@ -607,7 +607,7 @@
   },
   {
     "id": "allevents-mashpee",
-    "name": "AllEvents \u00b7 Mashpee",
+    "name": "AllEvents · Mashpee",
     "url": "https://allevents.in/mashpee",
     "type": "jsonld",
     "trusted": true,
@@ -616,7 +616,7 @@
   },
   {
     "id": "allevents-eastham",
-    "name": "AllEvents \u00b7 Eastham",
+    "name": "AllEvents · Eastham",
     "url": "https://allevents.in/eastham",
     "type": "jsonld",
     "trusted": true,
