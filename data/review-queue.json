@@ -1,1 +1,554 @@
-[]
+[
+  {
+    "event": {
+      "id": "732169f65358",
+      "slug": "the-2026-annual-all-ages-envelope-art-contest-2026-06-19-7321",
+      "title": "The 2026 Annual All-Ages Envelope Art Contest",
+      "summary": "An envelope art contest open to all ages, with entry forms available from the Edward Gorey House. Submissions are accepted through December 1.",
+      "start": "2026-06-19T20:30:00.000Z",
+      "end": "2026-12-01T21:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "The Edward Gorey House",
+        "address": "8 Strawberry Lane, Yarmouth, MA",
+        "town": "yarmouth"
+      },
+      "categories": [
+        "arts",
+        "family"
+      ],
+      "tags": {
+        "free": false,
+        "kids": true,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://edwardgoreyhouse.org/events/envelope-2026",
+      "source": {
+        "id": "edward-gorey-house",
+        "name": "Edward Gorey House",
+        "url": "https://edwardgoreyhouse.org/events"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-19T16:54:11.256Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-19T16:54:11.256Z"
+  },
+  {
+    "event": {
+      "id": "5a93ae181cee",
+      "slug": "the-fall-of-the-house-of-usher-2026-10-19-5a93",
+      "title": "The Fall of the House of Usher",
+      "summary": "A stage adaptation of Poe's gothic tale running through late October.",
+      "start": "2026-10-19T04:00:00.000Z",
+      "end": "2026-10-25T04:00:00.000Z",
+      "allDay": true,
+      "venue": {
+        "name": "Harwich",
+        "town": "harwich"
+      },
+      "categories": [
+        "theater",
+        "arts"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://business.harwichcc.com/events/details/the-fall-of-the-house-of-usher-25889?calendarMonth=2026-10-01",
+      "source": {
+        "id": "harwich-chamber",
+        "name": "Harwich Chamber of Commerce",
+        "url": "https://business.harwichcc.com/events/calendar"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-19T16:54:11.256Z",
+      "lastSeen": "2026-10-19T16:54:11.256Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (60%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-19T16:54:11.256Z"
+  },
+  {
+    "event": {
+      "id": "c3b49e46f375",
+      "slug": "national-chamber-of-commerce-day-2026-10-21-c3b4",
+      "title": "National Chamber of Commerce Day",
+      "summary": "A day recognizing the role of chambers of commerce in supporting local businesses.",
+      "start": "2026-10-21T04:00:00.000Z",
+      "allDay": true,
+      "venue": {
+        "name": "Harwich",
+        "town": "harwich"
+      },
+      "categories": [
+        "community"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://business.harwichcc.com/events/details/national-chamber-of-commerce-day-10-21-2026-19740?calendarMonth=2026-10-01",
+      "source": {
+        "id": "harwich-chamber",
+        "name": "Harwich Chamber of Commerce",
+        "url": "https://business.harwichcc.com/events/calendar"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-19T16:54:11.256Z",
+      "lastSeen": "2026-10-19T16:54:11.256Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-19T16:54:11.256Z"
+  },
+  {
+    "event": {
+      "id": "31de0c0d9270",
+      "slug": "the-fall-of-the-house-of-usher-2026-10-23-31de",
+      "title": "The Fall of the House of Usher",
+      "summary": "A performance of Poe's classic gothic tale The Fall of the House of Usher.",
+      "start": "2026-10-23T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Chatham",
+        "town": "chatham"
+      },
+      "categories": [
+        "theater",
+        "arts"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://business.chathaminfo.com/events/details/the-fall-of-the-house-of-usher-10-23-2026-32841",
+      "source": {
+        "id": "chatham-chamber",
+        "name": "Chatham Chamber of Commerce",
+        "url": "https://www.chathaminfo.com/events/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-19T16:54:11.256Z",
+      "lastSeen": "2026-10-19T16:54:11.256Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-19T16:54:11.256Z"
+  },
+  {
+    "event": {
+      "id": "c74426d1e1ca",
+      "slug": "live-music-the-barley-neck-2026-10-23-c744",
+      "title": "Live Music | The Barley Neck",
+      "summary": "Live music performance at The Barley Neck in Orleans.",
+      "start": "2026-10-23T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "The Barley Neck",
+        "address": "Orleans, MA",
+        "town": "orleans"
+      },
+      "categories": [
+        "music"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://members.orleanscapecod.org/events/details/live-music-at-the-barley-neck-10-23-2026-7042?calendarMonth=2026-10-01",
+      "source": {
+        "id": "orleans-chamber",
+        "name": "Orleans Chamber of Commerce",
+        "url": "https://members.orleanscapecod.org/events/calendar"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-19T16:54:11.256Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (60%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-19T16:54:11.256Z"
+  },
+  {
+    "event": {
+      "id": "a2da04486e82",
+      "slug": "chatham-where-memory-lives-a-special-event-2026-10-24-a2da",
+      "title": "Chatham: Where Memory Lives, A Special Event",
+      "summary": "A special program exploring Chatham's historic cemeteries and past funerary customs.",
+      "start": "2026-10-24T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Chatham",
+        "town": "chatham"
+      },
+      "categories": [
+        "arts",
+        "community"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://business.chathaminfo.com/events/details/chatham-where-memory-lives-a-special-event-32786",
+      "source": {
+        "id": "chatham-chamber",
+        "name": "Chatham Chamber of Commerce",
+        "url": "https://www.chathaminfo.com/events/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-19T16:54:11.256Z",
+      "lastSeen": "2026-10-19T16:54:11.256Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-19T16:54:11.256Z"
+  },
+  {
+    "event": {
+      "id": "7c05f5356ded",
+      "slug": "the-fall-of-the-house-of-usher-2026-10-24-7c05",
+      "title": "The Fall of the House of Usher",
+      "summary": "A performance of Poe's classic gothic tale The Fall of the House of Usher.",
+      "start": "2026-10-24T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Chatham",
+        "town": "chatham"
+      },
+      "categories": [
+        "theater",
+        "arts"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://business.chathaminfo.com/events/details/the-fall-of-the-house-of-usher-10-24-2026-32842",
+      "source": {
+        "id": "chatham-chamber",
+        "name": "Chatham Chamber of Commerce",
+        "url": "https://www.chathaminfo.com/events/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-19T16:54:11.256Z",
+      "lastSeen": "2026-10-19T16:54:11.256Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-19T16:54:11.256Z"
+  },
+  {
+    "event": {
+      "id": "062bb8951d4b",
+      "slug": "live-music-hog-island-brewery-orleans-2026-10-24-062b",
+      "title": "Live Music | Hog Island Brewery Orleans",
+      "summary": "Live music at Hog Island Brewery in Orleans.",
+      "start": "2026-10-24T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Hog Island Brewery",
+        "address": "Orleans, MA",
+        "town": "orleans"
+      },
+      "categories": [
+        "music",
+        "food"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://members.orleanscapecod.org/events/details/live-music-at-hog-island-brewery-orleans-10-24-2026-20008?calendarMonth=2026-10-01",
+      "source": {
+        "id": "orleans-chamber",
+        "name": "Orleans Chamber of Commerce",
+        "url": "https://members.orleanscapecod.org/events/calendar"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-19T16:54:11.256Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (60%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-19T16:54:11.256Z"
+  },
+  {
+    "event": {
+      "id": "d1b4509e136e",
+      "slug": "live-music-the-barley-neck-2026-10-24-d1b4",
+      "title": "Live Music | The Barley Neck",
+      "summary": "Live music performance at The Barley Neck in Orleans.",
+      "start": "2026-10-24T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "The Barley Neck",
+        "address": "Orleans, MA",
+        "town": "orleans"
+      },
+      "categories": [
+        "music"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://members.orleanscapecod.org/events/details/live-music-at-the-barley-neck-10-24-2026-7043?calendarMonth=2026-10-01",
+      "source": {
+        "id": "orleans-chamber",
+        "name": "Orleans Chamber of Commerce",
+        "url": "https://members.orleanscapecod.org/events/calendar"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-19T16:54:11.256Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (60%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-19T16:54:11.256Z"
+  },
+  {
+    "event": {
+      "id": "c84c6baa760f",
+      "slug": "live-music-the-barley-neck-2026-10-30-c84c",
+      "title": "Live Music | The Barley Neck",
+      "summary": "Live music performance at The Barley Neck in Orleans.",
+      "start": "2026-10-30T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "The Barley Neck",
+        "address": "Orleans, MA",
+        "town": "orleans"
+      },
+      "categories": [
+        "music"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://members.orleanscapecod.org/events/details/live-music-at-the-barley-neck-10-30-2026-7044?calendarMonth=2026-10-01",
+      "source": {
+        "id": "orleans-chamber",
+        "name": "Orleans Chamber of Commerce",
+        "url": "https://members.orleanscapecod.org/events/calendar"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-19T16:54:11.256Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (60%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-19T16:54:11.256Z"
+  },
+  {
+    "event": {
+      "id": "0039d8d677fd",
+      "slug": "live-music-hog-island-brewery-orleans-2026-10-31-0039",
+      "title": "Live Music | Hog Island Brewery Orleans",
+      "summary": "Live music at Hog Island Brewery in Orleans.",
+      "start": "2026-10-31T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "Hog Island Brewery",
+        "address": "Orleans, MA",
+        "town": "orleans"
+      },
+      "categories": [
+        "music",
+        "food"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://members.orleanscapecod.org/events/details/live-music-at-hog-island-brewery-orleans-10-31-2026-20009?calendarMonth=2026-10-01",
+      "source": {
+        "id": "orleans-chamber",
+        "name": "Orleans Chamber of Commerce",
+        "url": "https://members.orleanscapecod.org/events/calendar"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-19T16:54:11.256Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (60%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-19T16:54:11.256Z"
+  },
+  {
+    "event": {
+      "id": "581d3c27391e",
+      "slug": "live-music-the-barley-neck-2026-10-31-581d",
+      "title": "Live Music | The Barley Neck",
+      "summary": "Live music performance at The Barley Neck in Orleans.",
+      "start": "2026-10-31T04:00:00.000Z",
+      "allDay": false,
+      "venue": {
+        "name": "The Barley Neck",
+        "address": "Orleans, MA",
+        "town": "orleans"
+      },
+      "categories": [
+        "music"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://members.orleanscapecod.org/events/details/live-music-at-the-barley-neck-10-31-2026-7045?calendarMonth=2026-10-01",
+      "source": {
+        "id": "orleans-chamber",
+        "name": "Orleans Chamber of Commerce",
+        "url": "https://members.orleanscapecod.org/events/calendar"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-19T16:54:11.256Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (60%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-19T16:54:11.256Z"
+  },
+  {
+    "event": {
+      "id": "ab494a729d29",
+      "slug": "46th-annual-fall-festival-at-felix-neck-nesting-in-nature-2026-11-27-ab49",
+      "title": "46th Annual Fall Festival at Felix Neck: Nesting in Nature",
+      "summary": "Felix Neck's annual fall festival, themed around nesting in nature, with activities for the whole family.",
+      "start": "2026-11-27T05:00:00.000Z",
+      "allDay": true,
+      "venue": {
+        "name": "Felix Neck Wildlife Sanctuary",
+        "address": "Edgartown, MA",
+        "town": "wellfleet"
+      },
+      "categories": [
+        "festivals",
+        "family",
+        "outdoors"
+      ],
+      "tags": {
+        "free": false,
+        "kids": true,
+        "seniors": false,
+        "outdoor": true,
+        "byBoat": false
+      },
+      "url": "https://www.massaudubon.org/places-to-explore/wildlife-sanctuaries/felix-neck/news/fall-festival-2026",
+      "source": {
+        "id": "mass-audubon-wellfleet",
+        "name": "Mass Audubon Wellfleet Bay",
+        "url": "https://www.massaudubon.org/programs-events"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-19T16:54:11.256Z",
+      "lastSeen": "2026-10-19T16:54:11.256Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-19T16:54:11.256Z"
+  },
+  {
+    "event": {
+      "id": "1ca1c6ec0903",
+      "slug": "holiday-on-the-cape-2026-12-04-1ca1",
+      "title": "Holiday on the Cape",
+      "summary": "The Cape Symphony's seasonal holiday concert, with performances running over three days.",
+      "start": "2026-12-04T05:00:00.000Z",
+      "end": "2026-12-06T05:00:00.000Z",
+      "allDay": true,
+      "venue": {
+        "name": "Barnstable",
+        "town": "barnstable"
+      },
+      "categories": [
+        "music"
+      ],
+      "tags": {
+        "free": false,
+        "kids": false,
+        "seniors": false,
+        "outdoor": false,
+        "byBoat": false
+      },
+      "url": "https://capesymphony.org/orchestra/2026-27-season/holiday-on-the-cape",
+      "source": {
+        "id": "cape-symphony",
+        "name": "Cape Symphony",
+        "url": "https://capesymphony.org/"
+      },
+      "trusted": true,
+      "firstSeen": "2026-10-17T20:04:45.507Z",
+      "lastSeen": "2026-10-19T16:54:11.256Z"
+    },
+    "reasons": [
+      "AI wasn't sure about the details (70%)"
+    ],
+    "kind": "scraped",
+    "queuedAt": "2026-10-19T16:54:11.256Z"
+  }
+]
