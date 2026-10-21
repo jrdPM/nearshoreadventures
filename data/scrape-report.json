@@ -1,7 +1,7 @@
 {
-  "ranAt": "2026-10-19T16:54:11.256Z",
-  "published": 630,
-  "queued": 14,
+  "ranAt": "2026-10-21T15:00:22.394Z",
+  "published": 668,
+  "queued": 20,
   "sourcesOk": 53,
   "sourcesFailed": 7,
   "sources": [
@@ -18,7 +18,7 @@
       "id": "allevents-brewster",
       "name": "AllEvents · Brewster",
       "ok": true,
-      "found": 18,
+      "found": 19,
       "published": 18,
       "queued": 0,
       "method": "jsonld"
@@ -45,8 +45,8 @@
       "id": "allevents-eastham",
       "name": "AllEvents · Eastham",
       "ok": true,
-      "found": 7,
-      "published": 7,
+      "found": 8,
+      "published": 8,
       "queued": 0,
       "method": "jsonld"
     },
@@ -54,8 +54,8 @@
       "id": "allevents-falmouth",
       "name": "AllEvents · Falmouth",
       "ok": true,
-      "found": 32,
-      "published": 26,
+      "found": 35,
+      "published": 30,
       "queued": 0,
       "method": "jsonld"
     },
@@ -63,8 +63,8 @@
       "id": "allevents-harwich",
       "name": "AllEvents · Harwich",
       "ok": true,
-      "found": 17,
-      "published": 17,
+      "found": 18,
+      "published": 18,
       "queued": 0,
       "method": "jsonld"
     },
@@ -72,8 +72,8 @@
       "id": "allevents-hyannis",
       "name": "AllEvents · Hyannis",
       "ok": true,
-      "found": 25,
-      "published": 22,
+      "found": 28,
+      "published": 24,
       "queued": 0,
       "method": "jsonld"
     },
@@ -99,8 +99,8 @@
       "id": "allevents-provincetown",
       "name": "AllEvents · Provincetown",
       "ok": true,
-      "found": 13,
-      "published": 12,
+      "found": 17,
+      "published": 16,
       "queued": 0,
       "method": "jsonld"
     },
@@ -117,8 +117,8 @@
       "id": "arts-foundation",
       "name": "Arts Foundation of Cape Cod",
       "ok": true,
-      "found": 2,
-      "published": 0,
+      "found": 9,
+      "published": 1,
       "queued": 0,
       "method": "ai"
     },
@@ -144,8 +144,8 @@
       "id": "cape-cinema",
       "name": "Cape Cinema",
       "ok": true,
-      "found": 12,
-      "published": 4,
+      "found": 6,
+      "published": 2,
       "queued": 0,
       "method": "ai"
     },
@@ -180,8 +180,8 @@
       "id": "ccmnh",
       "name": "Cape Cod Museum of Natural History",
       "ok": true,
-      "found": 10,
-      "published": 10,
+      "found": 3,
+      "published": 3,
       "queued": 0,
       "method": "ai"
     },
@@ -207,18 +207,18 @@
       "id": "cape-symphony",
       "name": "Cape Symphony",
       "ok": true,
-      "found": 10,
-      "published": 9,
-      "queued": 1,
+      "found": 13,
+      "published": 13,
+      "queued": 0,
       "method": "ai"
     },
     {
       "id": "capecod-com",
       "name": "CapeCod.com events",
       "ok": true,
-      "found": 0,
-      "published": 0,
-      "queued": 0,
+      "found": 27,
+      "published": 24,
+      "queued": 1,
       "method": "ai"
     },
     {
@@ -279,8 +279,8 @@
       "id": "eldredge-library",
       "name": "Eldredge Public Library",
       "ok": true,
-      "found": 115,
-      "published": 115,
+      "found": 127,
+      "published": 127,
       "queued": 0,
       "method": "ics"
     },
@@ -333,8 +333,8 @@
       "id": "harwich-chamber",
       "name": "Harwich Chamber of Commerce",
       "ok": true,
-      "found": 5,
-      "published": 3,
+      "found": 4,
+      "published": 2,
       "queued": 2,
       "method": "ai"
     },
@@ -342,8 +342,8 @@
       "id": "heritage-gardens",
       "name": "Heritage Museums & Gardens",
       "ok": true,
-      "found": 3,
-      "published": 3,
+      "found": 4,
+      "published": 4,
       "queued": 0,
       "method": "jsonld"
     },
@@ -351,8 +351,8 @@
       "id": "highfield-hall",
       "name": "Highfield Hall & Gardens",
       "ok": true,
-      "found": 46,
-      "published": 44,
+      "found": 44,
+      "published": 42,
       "queued": 0,
       "method": "tribe"
     },
@@ -361,8 +361,8 @@
       "name": "Hyannis Area Chamber",
       "ok": true,
       "found": 10,
-      "published": 8,
-      "queued": 0,
+      "published": 2,
+      "queued": 6,
       "method": "ai"
     },
     {
@@ -387,9 +387,9 @@
       "id": "mass-audubon-wellfleet",
       "name": "Mass Audubon Wellfleet Bay",
       "ok": true,
-      "found": 3,
-      "published": 2,
-      "queued": 1,
+      "found": 5,
+      "published": 5,
+      "queued": 0,
       "method": "ai"
     },
     {
@@ -405,8 +405,8 @@
       "id": "payomet",
       "name": "Payomet Performing Arts Center",
       "ok": true,
-      "found": 34,
-      "published": 34,
+      "found": 43,
+      "published": 43,
       "queued": 0,
       "method": "tribe"
     },
@@ -424,7 +424,7 @@
       "name": "Provincetown Business Guild",
       "ok": true,
       "found": 287,
-      "published": 94,
+      "published": 82,
       "queued": 0,
       "method": "jsonld"
     },
@@ -477,8 +477,8 @@
       "id": "chatham-town",
       "name": "Town of Chatham calendar",
       "ok": true,
-      "found": 3,
-      "published": 3,
+      "found": 6,
+      "published": 6,
       "queued": 0,
       "method": "ai"
     },
@@ -487,8 +487,8 @@
       "name": "Town of Falmouth calendar",
       "ok": true,
       "found": 3,
-      "published": 3,
-      "queued": 0,
+      "published": 2,
+      "queued": 1,
       "method": "ai"
     },
     {
